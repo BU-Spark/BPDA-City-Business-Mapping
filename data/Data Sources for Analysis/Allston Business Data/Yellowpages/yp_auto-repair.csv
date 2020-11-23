@@ -1,0 +1,1134 @@
+,locationName,categories,locationAddress,locationCity,locationState,locationZip,locationPhone,openTime,Years In Business
+0,Firestone Complete Auto Care,"['Auto Repair & Service', 'Brake Repair', 'Tire Dealers']",972 Commonwealth Ave,Boston,MA,02215,(617) 341-9811,,94
+1,Executive Auto Body,"['Auto Repair & Service', 'Automobile Body Repairing & Painting']",30 Medford St,Somerville,MA,02143,(617) 576-1855,7:30 am - 5:30 pm,21
+2,Fran's Auto Repair,"['Auto Repair & Service', 'Brake Service Equipment', 'Tire Recap, Retread & Repair']",43 Preble St,South Boston,MA,02127,(617) 268-1283,7:00 am - 4:00 pm,27
+3,AAMCO Transmissions & Total Car Care,"['Auto Repair & Service', 'Auto Oil & Lube', 'Auto Transmission']",125 Cambridge St,Charlestown,MA,02129,(617) 580-0628,7:30 am - 5:30 pm,57
+4,Safelite AutoGlass,"['Auto Repair & Service', 'Glass-Auto, Plate, Window, Etc', 'Windshield Repair']",47 Webster Ave,Cambridge,MA,02141,(800) 997-0912,8:00 am - 5:00 pm,73
+5,Top Gear Motor Group Corp,"['Auto Repair & Service', 'Financial Services', 'Wholesale Used Car Dealers']",24 Joy Street,Somerville,MA,02143,(617) 224-6381,9:30 am - 7:00 pm,
+6,Greg's Auto Repair,['Auto Repair & Service'],51 Park St,Chelsea,MA,02150,(617) 889-4799,5:00 am - 9:00 pm,44
+7,1st Class Auto Body,"['Auto Repair & Service', 'Dent Removal', 'Automobile Body Repairing & Painting']",86 Condor Street,East Boston,MA,02128,(617) 567-9043,8:00 am - 5:00 pm,36
+8,George's Auto Body,"['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'Brake Repair']",315 Border St,East Boston,MA,02128,(617) 567-9625,8:00 am - 6:00 pm,35
+9,Continental Auto Body,"['Auto Repair & Service', 'Automobile Body Repairing & Painting']",157 Liverpool St,East Boston,MA,02128,(617) 567-9188,9:00 am - 5:00 pm,17
+10,A To Z Auto Repair Inc,"['Auto Repair & Service', 'Automobile Repairing & Service-Equipment & Supplies']",24 Shetland St,Roxbury,MA,02119,(617) 427-8988,,49
+11,Wheel Repair Boston Pros,['Auto Repair & Service'],3 Walnut St,Boston,MA,02108,(781) 923-0743,,9
+12,Braz Motor Auto Repair & Sales Inc,['Auto Repair & Service'],306 Bremen St,East Boston,MA,02128,(617) 569-8860,9:00 am - 5:00 pm,27
+13,Frank's Auto Repair,"['Auto Repair & Service', 'New Car Dealers', 'Used Car Dealers']",11 Marginal St,Chelsea,MA,02150,(617) 884-8914,7:00 am - 4:00 pm,36
+14,World Automobile Repair Incorporated,"['Auto Repair & Service', 'New Car Dealers']",286 Broadway,Cambridge,MA,02139,(617) 441-7737,,
+15,ABJ Auto Repair,['Auto Repair & Service'],45 Mystic Ave,Somerville,MA,02145,(617) 625-6632,8:00 am - 6:00 pm,
+16,Chambers Motorcars of Boston,"['Automobile Body Repairing & Painting', 'New Car Dealers', 'Used Car Dealers']",259 Mcgrath Hwy,Somerville,MA,02143,(617) 666-4100,8:30 am - 9:00 pm,
+17,S & F Autobody,"['Auto Repair & Service', 'Automobile Body Repairing & Painting']",503 E 2nd St,South Boston,MA,02127,(617) 268-1185,7:30 am - 5:30 pm,14
+18,Andrew Square Auto Glass,"['Auto Repair & Service', 'Windshield Repair', 'Automobile Parts & Supplies']",603 Dorchester Ave,South Boston,MA,02127,(617) 269-4698,8:00 am - 5:00 pm,34
+19,Broadway Gas,"['Auto Repair & Service', 'Gas Stations', 'Automobile Inspection Stations & Services']",320 Cambridge St,Cambridge,MA,02141,(617) 354-0092,6:00 am - 10:00 pm,
+20,DMI Auto & Alarm,"['Auto Repair & Service', 'Computer Security-Systems & Services', 'Automobile Accessories']",,boston,MA,02124,(617) 825-1188,8:30 am - 5:30 pm,30
+21,Elite Auto Service,['Auto Repair & Service'],68 Joy St,Somerville,MA,02143,(617) 628-2886,9:00 am - 5:00 pm,6
+22,Middlesex Truck & Coach,"['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'Truck Service & Repair']",65 Gerard St,Roxbury,MA,02119,(617) 442-3000,7:00 am - 5:00 pm,33
+23,Tudor Garage Taxi Repair,['Auto Repair & Service'],209 Tudor St,South Boston,MA,02127,(617) 269-9550,7:00 am - 3:00 pm,64
+24,Good News Garage,['Auto Repair & Service'],75 Hamilton St,Cambridge,MA,02139,(617) 354-5383,7:30 am - 5:30 pm,39
+25,A&A Sons Towing,"['Auto Repair & Service', 'Towing', 'Commercial Auto Body Repair']",7 nay st,Boston,MA,02128,(617) 586-9847,Open 24 Hours,10
+26,Mike's Auto Repair,['Auto Repair & Service'],914 Huntington Ave,Boston,MA,02115,(617) 608-3349,8:00 am - 5:00 pm,24
+27,Windshield Repair in Boston,"['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'Automobile Detailing']",181 Devonshire St,Boston,MA,02110,(774) 295-5967,8:00 am - 6:00 pm,23
+28,Vehicle Repair Boston,"['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'Automobile Detailing']",75 Kneeland St,Boston,MA,02283,(781) 563-7024,8:00 am - 6:00 pm,25
+29,Car Maintenance in Boston,"['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'Automobile Detailing']",88 Sleeper St,Boston,MA,02110,(774) 300-3349,8:00 am - 6:00 pm,25
+30,Auto Body Repair Boston,"['Auto Repair & Service', 'Wheel Alignment-Frame & Axle Servicing-Automotive', 'Automobile Electric Service']",1 Marina Park Dr,Boston,MA,02210,(781) 463-5526,8:00 am - 6:00 pm,30
+31,Car Repair in Boston,"['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'Automobile Detailing']",49 Melcher St,Boston,MA,02110,(774) 217-7358,8:00 am - 6:00 pm,33
+32,Clutch Repair in Boston,"['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'Automobile Detailing']",222 Berkeley St,Boston,MA,02116,(781) 384-5065,8:00 am - 6:00 am,17
+33,Mechanics in Boston,"['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'Automobile Detailing']",161 Berkeley St,Boston,MA,02116,(774) 209-5922,8:00 am - 6:00 pm,16
+34,Car Window Replacement Boston,"['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'Automobile Detailing']",15 1/2 Fish Pier St E,Boston,MA,02210,(857) 256-5884,,15
+35,Auto Ac Repair Boston,"['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'Automobile Detailing']",225 Northern Ave,Boston,MA,02110,(781) 472-1082,8:00 am - 6:00 pm,15
+36,Brakes in Boston,"['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'Automobile Detailing']",113 H St,Boston,MA,02127,(774) 214-2408,8:00 am - 6:00 am,26
+37,Transmissions in Boston,"['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'Automobile Detailing']",75 Northern Ave,Boston,MA,02110,(774) 229-3044,8:00 am - 6:00 pm,32
+38,Auto Body Repair in Boston,"['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'Automobile Detailing']",70 Windom St,Boston,MA,02134,(508) 433-7808,8:00 am - 6:00 am,25
+39,Windshield Glass Repair in Cambridge,"['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'Automobile Detailing']",300 Third St,Cambridge,MA,02142,(857) 226-1356,8:00 am - 6:00 pm,13
+40,Auto Body Shops Cambridge,"['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'Automobile Detailing']",500 Main St,Cambridge,MA,02142,(978) 403-4609,8:00 am - 5:00 pm,30
+41,Auto Repair Mechanic in Cambridge,"['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'Automobile Detailing']",520 Cambridge St,561 Cambridge St,MA,02141,(857) 256-5879,8:00 am - 6:00 pm,16
+42,Auto Repair Mechanic in Boston,"['Auto Repair & Service', 'Automobile Detailing', 'Wheel Alignment-Frame & Axle Servicing-Automotive']",162 Salem St,Boston,MA,02113,(781) 217-3504,8:00 am - 6:00 pm,32
+43,Auto Repair And Service Boston,"['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'Automobile Detailing']",821 Washington St,Boston,MA,02111,(781) 563-5476,8:00 am - 6:00 pm,28
+44,Car Window Tinting in Boston,"['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'Automobile Detailing']",155 Seaport Blvd,Boston,MA,02210,(781) 355-9098,8:00 am - 6:00 pm,14
+45,CSI Collision Inc.,"['Auto Repair & Service', 'Automobile Body Repairing & Painting']",404 Border St,East Boston,MA,02128,(978) 535-0939,8:00 am - 4:00 pm,17
+46,JC Auto Body,['Automobile Body Repairing & Painting'],243 Condor St,East Boston,MA,02128,(617) 418-7216,8:00 am - 5:00 pm,
+47,Emerson Auto Svc Corp,"['Auto Repair & Service', 'Financing Services', 'Automobile Machine Shop']",420 E 3rd St,South Boston,MA,02127,(617) 269-2107,8:00 am - 5:00 pm,34
+48,Goodyear Auto Service Center,"['Auto Repair & Service', 'Tire Dealers']",1345 Boylston St,Boston,MA,02215,(617) 266-1162,,
+49,Safelite AutoGlass,"['Auto Repair & Service', 'Windshield Repair', 'Glass-Auto, Plate, Window, Etc']",75 Webster Ave,Somerville,MA,02143,(617) 349-0033,8:00 am - 5:00 pm,
+50,JN Phillips Auto Glass,"['Auto Repair & Service', 'Windshield Repair', 'Glass-Auto, Plate, Window, Etc']",47 Webster Ave,Somerville,MA,02143,(617) 349-0033,8:00 am - 5:00 pm,
+51,E and R Motors Inc,"['Auto Repair & Service', 'Automobile Body Repairing & Painting']",328 Washington St,Boston,MA,02108,(617) 514-3549,,
+52,Daley Designs,"['Auto Repair & Service', 'Automobile Repairing & Service-Equipment & Supplies', 'Automobile Body Shop Equipment & Supplies']",326 Commercial St,Boston,MA,02109,(857) 239-8356,,8
+53,Diversified Automotive Inc,"['Auto Repair & Service', 'Automobile Body Repairing & Painting']",100 Terminal St,Charlestown,MA,02129,(800) 666-9007,8:00 am - 4:30 pm,32
+54,E&S Automotive,"['Auto Repair & Service', 'Automobile Inspection Stations & Services', 'Automobile Body Repairing & Painting']",480 Dorchester Ave,South Boston,MA,02127,(617) 464-3520,8:00 am - 5:30 pm,37
+55,Boston Auto Transmission,"['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'Automobile Detailing']",82 Lansdowne St,Boston,MA,02215,(857) 776-0026,,
+56,Flynn's Auto Salvage,"['Auto Repair & Service', 'Automobile Customizing', 'Automobile Body Repairing & Painting']",1 Mystic Ave,Charlestown,MA,02129,(617) 242-4585,,12
+57,Tat On Auto Service Inc,"['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'Mufflers & Exhaust Systems']",125 Brookline St,Cambridge,MA,02139,(617) 876-3218,9:00 am - 5:00 pm,20
+58,Inman Motor Sales,"['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'Used Car Dealers']",463 Mcgrath Hwy,Somerville,MA,02143,(617) 764-3802,9:00 am - 6:00 pm,
+59,Brothers Autobody,"['Automobile Body Repairing & Painting', 'Used Car Dealers']",328 Washington St,Boston,MA,02108,(617) 825-0775,,
+60,R & R Auto of Needham Inc,['Automobile Body Repairing & Painting'],745 Atlantic Ave,Boston,MA,02111,(617) 449-5444,7:00 am - 5:00 pm,
+61,Jc auto body,['Automobile Body Repairing & Painting'],265 Maverick St,East Boston,MA,02128,(617) 418-7514,8:00 am - 5:00 pm,16
+62,Elias Auto Body Inc,['Automobile Body Repairing & Painting'],157 Liverpool St,East Boston,MA,02128,(857) 256-2833,,
+63,Brandy Autobody,['Automobile Body Repairing & Painting'],162 Liverpool St,East Boston,MA,02128,(617) 418-5685,8:00 am - 6:00 pm,10
+64,South Bay Auto,['Automobile Body Repairing & Painting'],176 Massachusetts Ave,Boston,MA,02115,(617) 436-5300,,
+65,Kuendas Autobody Repair,['Automobile Body Repairing & Painting'],16 Burrill Pl,South Boston,MA,02127,(617) 989-1290,9:00 am - 5:00 pm,
+66,Alpine's Auto Body Works,['Automobile Body Repairing & Painting'],38 Norfolk Ave,Roxbury,MA,02119,(617) 652-8045,9:00 am - 8:00 pm,8
+67,Rich Art Auto Body,['Automobile Body Repairing & Painting'],38 Norfolk Ave,Roxbury,MA,02119,(617) 652-8045,,8
+68,Norfolk Autobody Works,['Automobile Body Repairing & Painting'],40 Norfolk Ave,Roxbury,MA,02119,(617) 445-1049,,
+69,Pat's Enterprise,['Automobile Body Repairing & Painting'],86 Joy St,Somerville,MA,02143,(617) 628-7500,,
+70,S'bai Body Works,['Automobile Body Repairing & Painting'],1034 Cambridge St,Cambridge,MA,02141,(617) 868-0827,11:00 am - 9:00 pm,5
+71,Inman Collision Center,"['Automobile Body Repairing & Painting', 'Towing']",45 Webster Ave,Somerville,MA,02143,(617) 440-1070,8:00 am - 6:00 pm,16
+72,Paint My Ride Auto Body inc.,['Automobile Body Repairing & Painting'],45 Webster Ave,Somerville,MA,02143,(617) 764-4124,8:00 am - 6:00 pm,6
+73,Performance Plus,"['Auto Repair & Service', 'Auto Oil & Lube', 'Automotive Tune Up Service']",2 Faneuil Hall Market Pl Ste 405,Boston,MA,02109,(617) 973-4868,,18
+74,Beverly Garage,['Auto Repair & Service'],101 Beverly St,Boston,MA,02114,(857) 317-3908,4:00 am - 6:00 pm,
+75,Diversified Auto,['Auto Repair & Service'],33 Medford St,Boston,MA,02114,(617) 242-2872,,
+76,Boston Speedy Autocare,['Auto Repair & Service'],9 Hawthorne Pl,Boston,MA,02114,(857) 990-1741,,
+77,Foreign & Domestic Automotive,['Auto Repair & Service'],151 Tremont St,Boston,MA,02111,(857) 770-1961,,
+78,Car Serv Elev 1,['Auto Repair & Service'],580 Washington St,Boston,MA,02111,(617) 482-1961,,
+79,North End Garage,['Auto Repair & Service'],600 Commercial St,Boston,MA,02109,(617) 742-6759,Open 24 Hours,7
+80,Autocare Center,['Auto Repair & Service'],100 Blossom St,Boston,MA,02114,(857) 990-1431,,
+81,Car Care,"['Auto Repair & Service', 'Automobile Detailing']",4 Emerson Pl,Boston,MA,02114,(857) 239-9417,,
+82,Arborway Auto Service Cntr,['Auto Repair & Service'],207 South St,Boston,MA,02111,(617) 524-4505,,
+83,Motor Mart Garage,['Auto Repair & Service'],26 Park Plz,Boston,MA,02116,(617) 482-8380,Open 24 Hours,
+84,Auto Repair & Service,['Auto Repair & Service'],44 Commonwealth Ave,Boston,MA,02116,(857) 317-5307,,
+85,ITT United States Trans,"['Auto Repair & Service', 'Auto Transmission']",545 Boylston St,Boston,MA,02116,(617) 262-0335,,
+86,Auto Repair & Service,['Auto Repair & Service'],140 Clarendon St,Boston,MA,02116,(857) 317-5308,,5
+87,Auto Fix,['Auto Repair & Service'],114 Orleans St,East Boston,MA,02128,(617) 418-5642,,
+88,Foreign & Domestic Auto Repairs,['Auto Repair & Service'],239 W Newton St,Boston,MA,02116,(857) 317-5309,,
+89,Maverick Garage,['Auto Repair & Service'],265 Maverick St,East Boston,MA,02128,(617) 567-3765,,91
+90,Priceless Automotive,['Auto Repair & Service'],9 Walker St,Charlestown,MA,02129,(617) 331-3367,,
+91,Diversified Auto,['Auto Repair & Service'],33 Medford St,Charlestown,MA,02129,(617) 242-2872,,7
+92,Auditorium Garage,['Auto Repair & Service'],50 Dalton St,Boston,MA,02115,(617) 247-8006,Open 24 Hours,
+93,Auto Tech,['Auto Repair & Service'],320 Maverick St,East Boston,MA,02128,(617) 561-8500,9:00 am - 5:00 pm,22
+94,Dave Auto Care,['Auto Repair & Service'],101 Porter St,Boston,MA,02128,(617) 569-3299,,
+95,"New England Auto Delivery, Inc.",['Auto Repair & Service'],369 Dorchester Ave,South Boston,MA,02127,(617) 269-3800,8:00 am - 4:00 pm,17
+96,Steve's Shop,"['Auto Repair & Service', 'Engine Rebuilding & Exchange', 'Auto Engine Rebuilding']",100 Terminal St,Charlestown,MA,02129,(617) 241-5335,6:00 am - 4:00 pm,15
+97,Car Repair Shops,['Auto Repair & Service'],85 E Newton St,Boston,MA,02118,(857) 399-9836,,
+98,Foreign & Domestic Auto Repairs,['Auto Repair & Service'],21 E Concord St,Boston,MA,02118,(857) 317-5310,,
+99,Back & Forth Car Service,['Auto Repair & Service'],40 Saratoga St,East Boston,MA,02128,(617) 567-2000,,
+100,Plutor.org,['Auto Repair & Service'],121 F St,South Boston,MA,02127,(617) 378-7998,,
+101,Ell-Burn Automotive,['Auto Repair & Service'],785 Tremont St,Boston,MA,02118,(617) 247-3410,7:00 am - 6:00 pm,
+102,South Boston Auto & Heavy Truck,"['Auto Repair & Service', 'Automobile Electric Service', 'New Car Dealers']",519 E 2nd St,South Boston,MA,02127,(617) 268-1861,7:00 am - 7:00 pm,29
+103,New England Auto Delivery,['Auto Repair & Service'],28 Damrell St,South Boston,MA,02127,(617) 269-3801,,5
+104,Elias Emmanoul Ides,['Auto Repair & Service'],480 Dorchester Ave,South Boston,MA,02127,(617) 464-3520,,
+105,Andrew Square Garage Inc,['Auto Repair & Service'],480 Dorchester Ave,South Boston,MA,02127,(617) 269-0900,,17
+106,Asa Road Service,"['Auto Repair & Service', 'Automotive Roadside Service']",24 Spice St Ste 2,Charlestown,MA,02129,(617) 398-6529,6:00 am - 12:00 am,6
+107,Citywide Gas,"['Auto Repair & Service', 'Gas Stations', 'Convenience Stores']",150 Southampton St,Boston,MA,02118,(617) 427-3847,,
+108,Mechanic Technician Auto,['Auto Repair & Service'],101 Condor St,East Boston,MA,02128,(617) 561-0111,,3
+109,D & D Auto Import Svc,['Auto Repair & Service'],404 Bremen St,East Boston,MA,02128,(617) 561-5877,9:00 am - 5:00 pm,8
+110,Automotive,['Auto Repair & Service'],2343 Washington St,Roxbury,MA,02119,(617) 858-1989,,
+111,A 2 Z,['Auto Repair & Service'],24 Shetland St,Roxbury,MA,02119,(617) 427-3166,10:00 am - 6:00 pm,31
+112,Gregs Service Center,"['Auto Repair & Service', 'Gas Stations', 'Truck Service & Repair']",51 Park St,Chelsea,MA,02150,(617) 889-4799,5:00 am - 9:00 pm,
+113,The Shop,['Auto Repair & Service'],5 Blue Hill Ave,Roxbury,MA,02119,(617) 652-7068,,
+114,Car Care,"['Auto Repair & Service', 'Car Wash', 'Automobile Detailing']",375 Longwood Ave,Boston,MA,02215,(617) 277-7400,7:00 am - 5:00 pm,124
+115,Auto Repair Car Heating A C,['Auto Repair & Service'],1 Soldiers Field Park,Boston,MA,02163,(857) 529-5237,,
+116,AAA Auto Tech,['Auto Repair & Service'],1271 Dorchester Ave,Boston,MA,02122,(617) 514-3544,8:00 am - 6:00 pm,5
+117,Radiator Express Warehouse,"['Auto Repair & Service', 'Radiators Automotive Sales & Service']",31 Monsignor Obrien Hwy,Cambridge,MA,02141,(617) 661-0530,,
+118,Zippity,['Auto Repair & Service'],1 Broadway,Cambridge,MA,02142,(978) 505-9062,,
+119,Foreign & Domestic Auto Repairs,['Auto Repair & Service'],350 Main St,Cambridge,MA,02142,(617) 299-2477,,
+120,Advance Hitch Installation,"['Auto Repair & Service', 'Brake Repair']",185 Broadway,Cambridge,MA,02139,(617) 864-8989,,
+121,Repair Bent Garage Rollers,['Auto Repair & Service'],14 Mcgrath Hwy,Somerville,MA,02143,(617) 586-0894,,
+122,Ilana Inc,['Auto Repair & Service'],30 Medford St,Somerville,MA,02143,(617) 576-1855,,
+123,A & M Foreign Motors Inc,"['Auto Repair & Service', 'Automobile Inspection Stations & Services', 'Automobile Diagnostic Service']",181 McGrath Hwy,Somerville,MA,02143,(617) 776-1760,,
+124,Brown Christine,['Auto Repair & Service'],259 Windsor St,Cambridge,MA,02139,(617) 876-2573,,
+125,Als Automobile Service,['Auto Repair & Service'],277 Broadway,Cambridge,MA,02139,(800) 244-2571,,
+126,Holman Automotive Co,['Auto Repair & Service'],259 Mcgrath Hwy,Somerville,MA,02143,(856) 778-3000,9:00 am - 5:00 pm,96
+127,Carlos & Mario Auto Repair,['Auto Repair & Service'],306 Webster Ave,Cambridge,MA,02141,(617) 497-6722,,30
+128,Car Zone Inc,"['Auto Repair & Service', 'Automobile Diagnostic Service', 'Auto Transmission']",486 Columbia St,Somerville,MA,02143,(617) 764-4586,7:30 am - 5:30 pm,20
+129,Somerville Tow,"['Auto Repair & Service', 'Towing', 'Brake Repair']",495 Columbia St,Somerville,MA,02143,(617) 625-8697,8:00 am - 5:30 pm,
+130,Real Auto Repair,"['Auto Repair & Service', 'Brake Repair', 'Auto Springs & Suspension']",45 Webster Ave,Somerville,MA,02143,(617) 440-5110,,
+131,"Dm Auto Service, Inc.",['Auto Repair & Service'],45 Webster Ave,Somerville,MA,02143,(617) 440-5110,8:00 am - 6:00 pm,5
+132,Souza Brothers Foreign Car Services,"['Auto Repair & Service', 'Towing', 'Brake Repair']",35 Prospect St,Somerville,MA,02143,(617) 628-9517,8:00 am - 6:00 pm,
+133,Samos Auto Electric Service,"['Auto Repair & Service', 'Automobile Parts & Supplies', 'Automobile Accessories']",9 Decatur St,Cambridge,MA,02139,(617) 547-4024,9:00 am - 6:00 pm,46
+134,Free Mobile Service Auto Glass,"['Auto Repair & Service', 'Windshield Repair', 'Plate & Window Glass Repair & Replacement']",288 Harvard St,Cambridge,MA,02139,(617) 299-2473,,5
+135,Tata,['Auto Repair & Service'],101 Federal St Ste 2110,Boston,MA,02110,(617) 330-9400,,
+136,Car Care Auto Service in Boston USA,['Auto Repair & Service'],32 Court St,Boston,MA,02108,(617) 539-6608,,16
+137,Shahan's Auto Repair,"['Auto Repair & Service', 'Automobile Machine Shop']",BEACON St,Boston,MA,02115,(512) 293-4888,,33
+138,European Car Doctors Inc,"['Auto Repair & Service', 'Brake Repair']",61 Brookline Ave,Boston,MA,02215,(617) 262-5525,8:00 am - 5:00 pm,33
+139,Mike's Auto Repair,['Auto Repair & Service'],150 W Broadway,South Boston,MA,02127,(617) 269-6300,9:00 am - 5:00 pm,24
+140,Boston Auto Glass,"['Auto Repair & Service', 'Windshield Repair']",15 Tremont St,Boston,MA,02108,(617) 861-3926,,1
+141,Somerville Auto Center,"['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'Towing']",193 Somerville Ave,Somerville,MA,02143,(617) 625-7400,8:00 am - 6:00 pm,19
+142,A-1 Automatic Transmission Service,"['Auto Repair & Service', 'Auto Transmission', 'Auto Springs & Suspension']",914 Huntington Ave,Boston,MA,02115,(617) 738-0760,Open 24 Hours,22
+143,Southie Auto Service,"['Auto Repair & Service', 'Automobile Body Repairing & Painting']",175 Old Colony Ave,South Boston,MA,02127,(617) 268-2772,9:00 am - 5:00 pm,25
+144,C & L Auto,"['Auto Repair & Service', 'Automobile Repairing & Service-Equipment & Supplies', 'New Car Dealers']",931 Massachusetts Ave,Boston,MA,02118,(617) 445-8133,9:00 am - 5:00 pm,27
+145,Garage Management Inc,['Auto Repair & Service'],150 Huntington Ave,Boston,MA,02115,(617) 247-0588,,
+146,Crosstown Center Garage,['Auto Repair & Service'],7 Melnea Cass Blvd,Roxbury,MA,02119,(617) 638-8000,Open 24 Hours,13
+147,Auto Repair Bh,"['Auto Repair & Service', 'Automobile Body Repairing & Painting']",13 Joy St,Somerville,MA,02143,(617) 666-0713,,24
+148,body shop mobile,['Auto Repair & Service'],"boston,ma",Boston,MA,02128,(781) 349-8365,9:30 am - 11:45 pm,
+149,Mahan James J Auto,"['Auto Repair & Service', 'Automotive Tune Up Service']",275 Old Colony Ave,South Boston,MA,02127,(617) 268-5740,9:00 am - 5:00 pm,
+150,Fred M Susan Auto Body,"['Auto Repair & Service', 'Automobile Body Repairing & Painting']",269 Somerville Ave,Somerville,MA,02143,(617) 776-1570,9:00 am - 5:00 pm,82
+151,J C Auto Repair,['Auto Repair & Service'],91 Prospect St,Somerville,MA,02143,(617) 776-4199,8:00 am - 5:00 pm,39
+152,Logan Automotive Inc,"['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'Automobile Parts, Supplies & Accessories-Wholesale & Manufacturers']",344 Bremen St,East Boston,MA,02128,(617) 569-3529,8:00 am - 5:00 pm,9
+153,Pat's Tow,"['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'Brake Repair']",161 Linwood St,Somerville,MA,02143,(617) 628-7500,9:00 am - 5:00 pm,60
+154,Mike's Automotive Services,"['Auto Repair & Service', 'Auto Transmission', 'Automobile Parts & Supplies']",1 Union Sq,Somerville,MA,02143,(617) 623-1009,8:00 am - 5:30 pm,40
+155,PC Auto Repair,"['Auto Repair & Service', 'Auto Transmission', 'Automotive Tune Up Service']",165 N Beacon St,Boston,MA,02135,(617) 787-0767,8:00 am - 6:00 pm,25
+156,World Auto Body Inc,"['Auto Repair & Service', 'Car Wash', 'Automobile Body Repairing & Painting']",880 Commonwealth Ave Ste 5,Boston,MA,02215,(617) 739-5050,8:30 am - 5:00 pm,40
+157,Pier Transmission,"['Auto Repair & Service', 'Auto Transmission', 'Wheel Alignment-Frame & Axle Servicing-Automotive']",409 Dorchester Ave,Boston,MA,02127,(617) 268-7409,7:00 am - 4:00 pm,
+158,Ideal Collision Repair,"['Auto Repair & Service', 'Automobile Body Repairing & Painting']",404 Border St,East Boston,MA,02128,(617) 567-5900,9:00 am - 5:00 pm,27
+159,Gino's Auto Body Co,"['Auto Repair & Service', 'Automobile Body Repairing & Painting']",282 Bremen St,East Boston,MA,02128,(617) 567-9510,9:00 am - 5:00 pm,36
+160,Eagle Hill Cafe,"['Auto Repair & Service', 'Automobile Body Repairing & Painting']",255 Condor St,East Boston,MA,02128,(617) 567-5449,9:00 am - 5:00 pm,33
+161,Mass Motor Service Inc,"['Auto Repair & Service', 'Towing', 'Automobile Body Repairing & Painting']",209 Boston St,Boston,MA,02125,(617) 436-4422,9:00 am - 5:00 pm,78
+162,Desi's Auto Body Center,"['Auto Repair & Service', 'Automobile Body Repairing & Painting']",200 William F McClellan Hwy,Boston,MA,02128,(617) 569-4700,9:00 am - 5:00 pm,45
+163,All-Rite Auto Body,"['Auto Repair & Service', 'Automobile Body Repairing & Painting']",38 Medford St,Somerville,MA,02143,(617) 868-8580,8:00 am - 5:00 pm,
+164,Clm Auto Body Inc,"['Auto Repair & Service', 'Automobile Parts & Supplies', 'Automobile Body Repairing & Painting']",306 Webster Ave,Cambridge,MA,02141,(617) 497-6722,8:00 am - 6:00 pm,30
+165,Barnes & Walsh,"['Auto Repair & Service', 'Automobile Body Repairing & Painting']",224 Somerville Ave,Somerville,MA,02143,(617) 625-6900,9:00 am - 5:00 pm,91
+166,Webster Auto Body,"['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'Towing']",69 Webster Ave,Somerville,MA,02143,(617) 666-8181,8:00 am - 5:30 pm,58
+167,Franny's Auto Body,"['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'Truck Service & Repair']",111 Prospect St,Somerville,MA,02143,(617) 623-9848,8:00 am - 5:00 pm,14
+168,Joseph & Jean Auto Repair,"['Auto Repair & Service', 'Automobile Body Repairing & Painting']",47 Webster Ave,Somerville,MA,02143,(617) 629-4700,9:00 am - 5:00 pm,20
+169,Inman Auto Body & Repair,"['Auto Repair & Service', 'Automobile Body Repairing & Painting']",45 Webster Ave,Somerville,MA,02143,(617) 440-1070,,
+170,Deleo's Auto Body & Service Inc,"['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'Automobile Detailing']",75 Hamilton St,Cambridge,MA,02139,(617) 876-1344,7:00 am - 5:00 pm,42
+171,Tech Auto Body,"['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'Automobile Parts, Supplies & Accessories-Wholesale & Manufacturers']",9 Union Sq,Somerville,MA,02143,(617) 628-0232,9:00 am - 5:00 pm,42
+172,Kave Espresso Bar,['Automobile Body Repairing & Painting'],197 8th St,Charlestown,MA,02129,(617) 580-3121,,
+173,Alex Auto Body Inc,['Automobile Body Repairing & Painting'],5 Crescent St Ste 1,Charlestown,MA,02129,(617) 776-2429,9:00 am - 5:00 pm,36
+174,Fitzpatrick Bros Auto Body,['Automobile Body Repairing & Painting'],150 Centre St,Boston,MA,02124,(617) 825-1760,6:30 am - 3:30 pm,
+175,D M Auto Body Inc,"['Automobile Body Repairing & Painting', 'Wheel Alignment-Frame & Axle Servicing-Automotive']",48 Joy St,Somerville,MA,02143,(617) 623-1111,9:00 am - 5:00 pm,48
+176,Dial A Repair Automotive II,['Auto Repair & Service'],101 Harborside Dr,East Boston,MA,02128,(617) 569-7766,,
+177,Uno Auto Repair,['Auto Repair & Service'],128 Cambridge St,Charlestown,MA,02129,(617) 241-0770,12:00 am - 11:59 pm,18
+178,Cambridge Automobile Service Co,['Auto Repair & Service'],36 Medford St,Somerville,MA,02143,(617) 354-1839,,
+179,Reilly's Auto Repair,['Auto Repair & Service'],63 Washington St,Somerville,MA,02143,(617) 776-4779,9:00 am - 5:00 pm,70
+180,County Auto Repair,['Auto Repair & Service'],103 Washington St,Somerville,MA,02143,(617) 628-3600,8:00 am - 5:00 pm,15
+181,Chicken & Shakes Automotive,['Auto Repair & Service'],6 Beach Ave,Somerville,MA,02143,(617) 628-6622,8:00 am - 6:00 pm,21
+182,Prospect Motors,"['Auto Repair & Service', 'Automobile Diagnostic Service', 'Automobile Electric Service']",247 Prospect St,Cambridge,MA,02139,(617) 354-2300,,24
+183,Hermes Auto Body,['Auto Repair & Service'],125 Brookline St,Cambridge,MA,02139,(617) 354-0436,7:30 am - 6:00 pm,
+184,"Hillside Jaguar, Inc.",['Auto Repair & Service'],45 Mystic Ave,Somerville,MA,02145,(617) 623-7388,8:00 am - 6:00 pm,35
+185,Eastern Glass Tinting Co,"['Auto Repair & Service', 'Glass-Auto, Plate, Window, Etc', 'Window Tinting']",116 Cambridge St,Charlestown,MA,02129,(617) 242-9030,7:30 am - 5:00 pm,31
+186,Gene Automotive,"['Auto Repair & Service', 'Brake Repair', 'Engine Rebuilding & Exchange']",56 Joy St,Somerville,MA,02143,(617) 591-8300,8:00 am - 6:00 pm,18
+187,Mike's Auto Service,"['Auto Repair & Service', 'Automobile Electric Service', 'Brake Repair']",517 Columbia St,Somerville,MA,02143,(617) 628-6314,8:00 am - 5:30 pm,8
+188,J & E Auto Body,"['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'Automobile Parts & Supplies']",9 Hawkins St,Somerville,MA,02143,(617) 623-6790,9:00 am - 5:00 pm,19
+189,Todisco Towing,"['Auto Repair & Service', 'Towing', 'Trailers-Repair & Service']",94 Condor St,Boston,MA,02128,(617) 567-0700,Open 24 Hours,20
+190,Swedish Motors,"['Auto Repair & Service', 'New Car Dealers', 'Automobile Parts & Supplies']",1090 Commonwealth Ave,Boston,MA,02215,(617) 731-3812,7:30 am - 6:00 pm,30
+191,European Motorsport,"['Auto Repair & Service', 'Wheel Alignment-Frame & Axle Servicing-Automotive', 'Automobile Electric Service']",51 Park St,Boston,MA,02122,(617) 269-7799,8:00 am - 6:00 pm,23
+192,"Foreign Auto Center, Inc.","['Auto Repair & Service', 'Brake Repair', 'Automobile Parts & Supplies']",251 Prospect St,Cambridge,MA,02139,(617) 876-1262,7:30 am - 6:00 pm,38
+193,Danilchuk Auto Body Inc,"['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'Brake Repair']",197 8th St,Charlestown,MA,02129,(617) 580-3121,8:00 am - 5:00 pm,5
+194,Ben's Auto Body Repair Shop,"['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'Automobile Repairing & Service-Equipment & Supplies']",10 Everett St,East Boston,MA,02128,(617) 567-9469,9:00 am - 5:00 pm,54
+195,Omega Autobody,"['Auto Repair & Service', 'Automobile Body Repairing & Painting']",152 Liverpool St,East Boston,MA,02128,(617) 561-0066,9:00 am - 5:00 pm,29
+196,Advanced Automotive,"['Auto Repair & Service', 'Automobile Customizing', 'Automobile Body Repairing & Painting']",215 London St,East Boston,MA,02128,(617) 561-1111,7:00 am - 5:00 pm,38
+197,V & N Autobody Repair,"['Auto Repair & Service', 'Automobile Body Repairing & Painting']",32 Northampton St,Boston,MA,02118,(617) 427-8585,9:00 am - 5:00 pm,18
+198,Boston Body Works Inc,"['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'Automobile Detailing']",839 Albany St,Roxbury,MA,02119,(617) 442-6600,7:30 am - 5:30 pm,39
+199,Jendriel Auto Repair,"['Auto Repair & Service', 'Automobile Body Repairing & Painting']",98 Prescott St,East Boston,MA,02128,(617) 567-6821,8:30 am - 4:30 pm,9
+200,Brothers Auto,"['Auto Repair & Service', 'Automobile Body Repairing & Painting']",215 Condor St,East Boston,MA,02128,(617) 567-8998,,14
+201,Shelby Auto Body,"['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'Automobile Body Shop Equipment & Supplies']",345 Princeton St,East Boston,MA,02128,(617) 567-5100,8:00 am - 6:00 pm,8
+202,Phillip's Auto Service,"['Auto Repair & Service', 'Automobile Body Repairing & Painting']",814 Shawmut Ave,Roxbury,MA,02119,(617) 445-8630,,
+203,Brazil USA Autobody,"['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'Automobile Repairing & Service-Equipment & Supplies']",16 Joy St,Somerville,MA,02143,(617) 628-0464,9:00 am - 5:00 pm,9
+204,Cape Verdean Auto Body,['Automobile Body Repairing & Painting'],255 Northampton St,Boston,MA,02118,(800) 698-2279,,2
+205,Johns Auto Place,['Automobile Body Repairing & Painting'],863 E 2nd St,South Boston,MA,02127,(617) 269-9426,9:00 am - 5:00 pm,
+206,South Bay Auto,['Automobile Body Repairing & Painting'],1176 Massachusetts Ave,Dorchester,MA,02125,(617) 436-5300,8:00 am - 5:00 pm,24
+207,Overlander,"['Auto Repair & Service', 'Automobile Parts & Supplies', 'Used Car Dealers']",43 A St,South Boston,MA,02127,(617) 269-4554,8:00 am - 5:00 pm,8
+208,Eastern Auto Center,"['Auto Repair & Service', 'Brake Repair']",153 Liverpool St,East Boston,MA,02128,(617) 567-3693,8:00 am - 5:00 pm,29
+209,Mechanic Technician Auto,['Auto Repair & Service'],151 Liverpool St,East Boston,MA,02128,(617) 561-0111,9:00 am - 5:00 pm,14
+210,Chiara Auto Repair,"['Auto Repair & Service', 'Brake Repair', 'Auto Transmission']",317 Maverick St,East Boston,MA,02128,(617) 561-0383,8:00 am - 5:00 pm,29
+211,East Boston Auto Center,['Auto Repair & Service'],270 Paris St,East Boston,MA,02128,(617) 561-6666,8:00 am - 6:00 pm,32
+212,D and D Auto Service,['Auto Repair & Service'],541 Dorchester Ave,South Boston,MA,02127,(617) 307-6072,,
+213,Rs Auto Mechanic,"['Auto Repair & Service', 'Wheels-Aligning & Balancing']",3 Nay St,East Boston,MA,02128,(617) 874-8188,9:00 am - 5:00 pm,
+214,Marcio Automobile Repair,['Auto Repair & Service'],17 Nay St,Boston,MA,02128,(617) 567-1777,9:00 am - 5:00 pm,
+215,Flore's Auto Repair,['Auto Repair & Service'],19 Nay St,Boston,MA,02128,(617) 561-0829,9:00 am - 5:00 pm,12
+216,S & J Auto Repair,['Auto Repair & Service'],21 Nay St,East Boston,MA,02128,(617) 567-4800,9:00 am - 5:00 pm,12
+217,"South Boston Auto Tech, Inc.",['Auto Repair & Service'],6 Devine Way,South Boston,MA,02127,(617) 269-9850,10:00 am - 7:00 pm,23
+218,Anko Inc,['Auto Repair & Service'],27 Shelby St,East Boston,MA,02128,(617) 567-1865,9:00 am - 5:00 pm,19
+219,Day Square Automobile Repair,['Auto Repair & Service'],30 Shelby St,Boston,MA,02128,(617) 568-0055,8:00 am - 6:00 pm,28
+220,Mobile Mechanic Boston,['Auto Repair & Service'],40 Warren St,Roxbury,MA,02119,(781) 202-6098,,
+221,Patrick Automotive Repair,['Auto Repair & Service'],8 W Bellflower St,Dorchester,MA,02125,(617) 740-0800,8:00 am - 5:30 pm,15
+222,Rpm Automotive,['Auto Repair & Service'],1090 Commonwealth Ave,Boston,MA,02215,(617) 739-0935,,24
+223,Somerville Auto Service,"['Auto Repair & Service', 'Gas Stations']",57 Warren St,Somerville,MA,02143,(617) 492-9028,6:00 am - 7:00 pm,
+224,Top Car Auto Repair,['Auto Repair & Service'],497 Columbia St,Somerville,MA,02143,(617) 764-5971,8:00 am - 6:00 pm,7
+225,City Auto Service Inc,['Auto Repair & Service'],13 Joy St,Somerville,MA,02143,(617) 776-0838,,
+226,Hawkins Street Automotive Service,['Auto Repair & Service'],9 Hawkins St,Somerville,MA,02143,(617) 623-9552,,23
+227,C & G Service,"['Auto Repair & Service', 'Gas Stations', 'Convenience Stores']",77 L St,South Boston,MA,02127,(617) 269-9551,,
+228,Angelo's Auto Body,['Automobile Body Repairing & Painting'],233 Condor St,East Boston,MA,02128,(617) 569-0860,9:00 am - 5:00 pm,36
+229,American National Auto Body & Auto Repair Inc,"['Auto Repair & Service', 'Automobile Body Repairing & Painting']",9 Geneva St,East Boston,MA,02128,(617) 567-6100,,15
+230,Vinna Auto Body Shop & Sales,"['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'New Car Dealers']",100 Newmarket Sq,Boston,MA,02118,(617) 989-1989,8:00 am - 6:00 pm,19
+231,Car Zone Inc,"['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'Brake Repair']",209 Broadway,Cambridge,MA,02139,(617) 576-9663,7:30 am - 5:30 pm,
+232,Mass Commonwealth Of-Public Works Dept Garage Mnte,['Auto Repair & Service'],50 Water St,Boston,MA,02109,(617) 242-0223,,
+233,Carr's Automatic Transmissions LTD,"['Auto Repair & Service', 'Auto Transmission', 'Automobile Parts & Supplies']",185 Franklin St,Boston,MA,02110,(506) 466-4408,,
+234,Boston Auto Tech,['Auto Repair & Service'],25 Dorchester Ave,Boston,MA,02205,(617) 436-6400,,
+235,Systems Auto Center,['Auto Repair & Service'],370 Harrison Ave,Boston,MA,02118,(617) 338-9104,9:00 am - 5:00 pm,
+236,C St Garage,"['Auto Repair & Service', 'Automobile Repairing & Service-Equipment & Supplies']",330 C St,South Boston,MA,02127,(617) 268-8166,,22
+237,Bill's Garage,"['Auto Repair & Service', 'Truck Service & Repair', 'Automobile Repairing & Service-Equipment & Supplies']",306 Northern Ave,Boston,MA,02210,(617) 542-1309,7:00 am - 4:00 pm,66
+238,Kery's Auto Service,['Auto Repair & Service'],480 Dorchester Ave,South Boston,MA,02127,(617) 268-2820,9:00 am - 5:00 pm,8
+239,Metric Systems,['Auto Repair & Service'],284 Broadway,Cambridge,MA,02139,(617) 661-0442,,
+240,J & P Autobody,"['Auto Repair & Service', 'Automobile Body Repairing & Painting']",421 Border St,East Boston,MA,02128,(617) 567-8222,9:00 am - 5:00 pm,23
+241,Benny's Foreign Motor Service,"['Auto Repair & Service', 'Brake Repair', 'Auto Oil & Lube']",880 Commonwealth Ave,Boston,MA,02215,(617) 739-1282,,43
+242,New England Auto Body of Boston,"['Auto Repair & Service', 'Automobile Body Repairing & Painting']",11 Dorchester St,South Boston,MA,02127,(617) 268-0696,9:00 am - 5:00 pm,50
+243,Brookline Jaguar & BMW Service,"['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'Tire Recap, Retread & Repair']",880 Commonwealth Ave,Boston,MA,02215,(617) 277-0266,8:00 am - 5:30 pm,40
+244,John's Auto Sales,"['Auto Repair & Service', 'New Car Dealers', 'Used Car Dealers']",181 Somerville Ave,Somerville,MA,02143,(617) 628-5511,9:00 am - 8:00 pm,48
+245,Auto Mechanic Souza Inc,"['Auto Repair & Service', 'Automobile Accessories', 'Car Wash']",308 Mcgrath Hwy,Somerville,MA,02143,(617) 628-5757,8:00 am - 5:00 pm,23
+246,John Smith Automotive & Sales,"['Auto Repair & Service', 'Used Car Dealers', 'Automobile Body Repairing & Painting']",365 Border St,East Boston,MA,02128,(617) 569-6206,9:00 am - 5:00 pm,38
+247,Adams Automatic Transmissions,"['Auto Repair & Service', 'Automobile Parts & Supplies', 'Auto Transmission']",241 Old Colony Ave,Boston,MA,02127,(617) 268-6060,7:00 am - 4:30 pm,72
+248,Mercedes-Benz of Boston,"['Auto Repair & Service', 'New Car Dealers', 'Used & Rebuilt Auto Parts']",259 Mcgrath Hwy,Somerville,MA,02143,(617) 666-4100,9:00 am - 9:00 pm,28
+249,Ross Motor Parts Company,"['Auto Repair & Service', 'Automobile Parts & Supplies', 'Automobile Parts, Supplies & Accessories-Wholesale & Manufacturers']",246 W Broadway,South Boston,MA,02127,(617) 268-2000,5:30 am - 4:00 pm,73
+250,BBC Auto Repair,"['Auto Repair & Service', 'Automobile Body Shop Equipment & Supplies', 'Automobile Parts, Supplies & Accessories-Wholesale & Manufacturers']",42 Joy St,Somerville,MA,02143,(617) 629-0058,8:00 am - 5:30 pm,12
+251,Zipcar Inc,"['Auto Repair & Service', 'Automobile Leasing', 'Car Rental']",35 Thomson Pl,Boston,MA,02210,(866) 494-7227,9:00 am - 5:00 pm,7
+252,Century Tire and Auto Service,"['Auto Repair & Service', 'Tire Dealers']",265 Beacon St,Boston,MA,02116,(617) 547-7878,,
+253,Transdev,"['Auto Repair & Service', 'Automobile Accessories', 'Automobile Parts & Supplies']",2000 Washington St,Roxbury,MA,02119,(617) 603-7800,4:00 am - 7:00 pm,
+254,NAPA Auto Parts - Harry's Mid Island Auto Supply Inc,"['Auto Repair & Service', 'Automobile Accessories', 'Automobile Parts & Supplies']",Nantucket Commons,Nantucket,MA,02554,(508) 228-4793,7:30 am - 5:00 pm,95
+255,JN Phillips Auto Glass,"['Auto Repair & Service', 'Glass-Auto, Plate, Window, Etc', 'Windshield Repair']",47 Webster Ave,Cambridge,MA,02141,(617) 349-0033,,
+256,Mercedes-Benz Of Boston,"['Auto Repair & Service', 'New Car Dealers', 'Used Car Dealers']",259 Mcgrath Hwy,Somerville,MA,02143,(617) 666-4100,9:00 am - 9:00 pm,94
+257,Levi's Auto Body,"['Auto Repair & Service', 'Automobile Body Shop Equipment & Supplies', 'Automobile Parts, Supplies & Accessories-Wholesale & Manufacturers']",27 Nay St,East Boston,MA,02128,(617) 418-7178,,6
+258,Finish Master,"['Auto Repair & Service', 'Automobile Body Shop Equipment & Supplies', 'Automobile Repairing & Service-Equipment & Supplies']",199 Norfolk Ave,Roxbury,MA,02119,(617) 445-7878,,
+259,Gem Auto Parts Co,"['Auto Repair & Service', 'Automobile Parts & Supplies', 'Automobile Body Repairing & Painting']",480 Bennington St,East Boston,MA,02128,(781) 485-0900,,
+260,Real Auto Shop Inc,"['Auto Repair & Service', 'Used Car Dealers', 'Automobile Body Repairing & Painting']",39 Webster Ave,Somerville,MA,02143,(617) 953-8515,10:00 am - 7:00 pm,14
+261,Edna's Auto Body,"['Automobile Body Shop Equipment & Supply-Wholesale & Manufacturers', 'Automobile Body Repairing & Painting', 'New Car Dealers']",279 Border St,Boston,MA,02128,(617) 418-7300,8:00 am - 5:00 pm,
+262,Free Mobile Service Auto Glass,"['Auto Repair & Service', 'Glass-Auto, Plate, Window, Etc', 'Glass Doors']",245 Summer St,Boston,MA,02210,(857) 317-5635,,
+263,Boston Auto,"['Auto Repair & Service', 'Used Car Dealers']",1115 Washington St,Boston,MA,02118,(617) 338-7060,8:00 am - 4:30 pm,25
+264,Portside Truck Repair,"['Auto Repair & Service', 'Truck Service & Repair']",100 Terminal St,Charlestown,MA,02129,(617) 242-5782,7:00 am - 5:00 pm,32
+265,Autopart International,"['Auto Repair & Service', 'Mufflers & Exhaust Systems', 'Automobile Accessories']",28 Damrell St Ste 100,South Boston,MA,02127,(617) 269-1711,,
+266,Reliable Diesel Service,"['Auto Repair & Service', 'Diesel Engines', 'Truck Service & Repair']",541 Dorchester Ave,South Boston,MA,02127,(617) 269-5341,,34
+267,European Motorsport,"['Auto Repair & Service', 'Engine Rebuilding & Exchange', 'Automobile Electric Service']",45 L St,South Boston,MA,02127,(617) 269-7799,8:00 am - 6:00 pm,
+268,Nation's Auto Glass Boston,"['Auto Repair & Service', 'Glass-Auto, Plate, Window, Etc', 'Windshield Repair']",10 Farnham St,Roxbury,MA,02119,(617) 936-7681,Open 24 Hours,
+269,Nissenbaum's Auto Parts,"['Auto Repair & Service', 'Automobile Parts & Supplies-Used & Rebuilt-Wholesale & Manufacturers', 'Automobile Parts & Supplies']",480 Columbia St,Somerville,MA,02143,(617) 776-0194,7:30 am - 5:30 pm,110
+270,Carneiro Auto Repair,"['Auto Repair & Service', 'Automobile Body Shop Equipment & Supplies', 'Automobile Parts, Supplies & Accessories-Wholesale & Manufacturers']",224 Somerville Ave,Somerville,MA,02143,(617) 764-2748,9:00 am - 5:00 pm,9
+271,Nicks Foreign Car Center,"['Auto Repair & Service', 'Used Car Dealers']",64 Webster Ave,Somerville,MA,02143,(617) 764-0314,7:30 am - 6:00 pm,2
+272,Broadway Brake Corp,"['Auto Repair & Service', 'Truck Equipment & Parts', 'Brake Repair']",45 Broadway,Somerville,MA,02145,(617) 666-1100,8:00 am - 7:00 pm,33
+273,inman motors,"['Auto Repair & Service', 'Used Car Dealers']",39 webster av,somerville,MA,02143,(617) 206-8872,9:00 am - 7:00 pm,20
+274,Muffler Usa,"['Auto Repair & Service', 'Mufflers & Exhaust Systems', 'Automobile Parts & Supplies']",9 Decatur St,Cambridge,MA,02139,(617) 547-4024,,23
+275,Sullivan Tire & Auto Service,"['Auto Repair & Service', 'Tire Dealers']",950 Commonwealth Ave,Boston,MA,02215,(617) 731-2200,7:30 am - 5:00 pm,65
+276,Cambridge Auto Center,"['Auto Repair & Service', 'New Car Dealers']",1280 Cambridge St,Cambridge,MA,02139,(617) 661-1320,7:30 am - 5:30 pm,36
+277,A & M Auto Body,"['Auto Repair & Service', 'Automobile Parts, Supplies & Accessories-Wholesale & Manufacturers', 'Automobile Body Repairing & Painting']",10 Everett St,Boston,MA,02128,(617) 567-6844,8:00 am - 6:00 pm,
+278,Dudley Garage,"['Auto Repair & Service', 'New Car Dealers']",350 Dudley St,Roxbury,MA,02119,(617) 442-0653,8:00 am - 4:30 pm,15
+279,Isaac's Auto Sales & Service,"['Auto Repair & Service', 'Used Car Dealers']",486 Columbia St,Somerville,MA,02143,(617) 764-1651,9:00 am - 5:00 pm,
+280,Advance Tire Company,"['Auto Repair & Service', 'Tire Dealers', 'Automobile Parts & Supplies']",185 Broadway,Cambridge,MA,02139,(617) 864-8989,7:30 am - 5:00 pm,91
+281,Teddy's Foreign Motors,"['Auto Repair & Service', 'Used Car Dealers']",68 Joy St,Somerville,MA,02143,(617) 625-4642,8:30 am - 5:30 pm,10
+282,Ell Bern Service,"['Auto Repair & Service', 'Tire Dealers', 'Wheel Alignment-Frame & Axle Servicing-Automotive']",785 Tremont St,Boston,MA,02118,(617) 262-9163,8:00 am - 5:00 pm,22
+283,Boston Glass & Boarding Service,"['Auto Repair & Service', 'Mirrors', 'Furniture Stores']",1068 Dorchester Ave,Dorchester,MA,02125,(617) 366-2925,8:30 am - 4:30 pm,48
+284,Abe's Complete Auto Service,"['Auto Repair & Service', 'Automobile Inspection Stations & Services', 'Brake Repair']",317 Fresh Pond Pkwy,Cambridge,MA,02138,(617) 208-4907,7:00 am - 7:00 pm,11
+285,Meineke Car Care Centers,"['Auto Repair & Service', 'Automobile Electrical Equipment', 'Automobile Accessories']",,,,,(888) 344-1608,,48
+286,1 800 Car Buyers,"['Auto Repair & Service', 'Truck Brokers', 'Automobile Salvage']",,,,,(888) 495-3593,Open 24 Hours,
+287,Glass America,"['Automobile Body Repairing & Painting', 'Glass-Automobile, Plate, Window, Etc-Manufacturers', 'Windshield Repair']",,,,,(800) 593-4576,7:00 am - 9:00 pm,21
+288,Vins Auto,"['Auto Repair & Service', 'Automotive Tune Up Service', 'Tire Dealers']",195 American Legion Hwy,Revere,MA,02151,(781) 241-9926,8:00 am - 5:00 pm,59
+289,Muffler Mart of Boston Inc,"['Auto Repair & Service', 'Automobile Parts & Supplies', 'Emissions Inspection Stations']",1579 Columbus Ave,Roxbury,MA,02119,(617) 445-4770,8:00 am - 3:00 pm,63
+290,Meineke Car Care Center,"['Auto Repair & Service', 'Automobile Air Conditioning Equipment', 'Automobile Accessories']",22 Massachusetts Ave,Arlington,MA,02474,(781) 645-7451,7:30 am - 5:30 pm,41
+291,Safelite AutoGlass,"['Auto Repair & Service', 'Windshield Repair', 'Glass-Auto, Plate, Window, Etc']",,,,,(800) 304-9956,8:00 am - 5:00 pm,73
+292,Memorial Drive Mobil,"['Auto Repair & Service', 'Gas Stations', 'Brake Repair']",816 Memorial Dr,Cambridge,MA,02139,(617) 229-6010,7:00 am - 7:00 pm,
+293,AAMCO Transmissions & Total Car Care,"['Auto Repair & Service', 'Automobile Air Conditioning Equipment-Service & Repair', 'Auto Oil & Lube']",,,,,(800) 382-4703,,57
+294,Safelite AutoGlass,"['Auto Repair & Service', 'Windshield Repair', 'Glass-Auto, Plate, Window, Etc']",216 Carter St,Chelsea,MA,02150,(800) 525-9029,8:00 am - 5:00 pm,73
+295,Safelite AutoGlass,"['Auto Repair & Service', 'Windshield Repair', 'Glass-Auto, Plate, Window, Etc']",119 N Beacon St,Brighton,MA,02135,(800) 603-6883,8:00 am - 5:00 pm,73
+296,Safelite AutoGlass,"['Auto Repair & Service', 'Windshield Repair', 'Glass-Auto, Plate, Window, Etc']",1783 Revere Beach Pkwy,Everett,MA,02149,(888) 932-8604,8:00 am - 5:00 pm,73
+297,Firestone Complete Auto Care,"['Auto Repair & Service', 'Tire Dealers']",,,,,(800) 364-4314,7:00 am - 7:00 pm,94
+298,Expressway Toyota -Scion,"['Auto Repair & Service', 'Car Rental']",700 William T Morrissey Blvd,Dorchester,MA,02122,(888) 862-0057,7:00 am - 8:30 pm,50
+299,Maaco Collision Repair & Auto Painting,"['Auto Repair & Service', 'Dent Removal', 'Automobile Detailing']",,,,,(888) 225-9584,8:00 am - 5:30 pm,
+300,Firestone Complete Auto Care,"['Auto Repair & Service', 'Automobile Parts & Supplies', 'Brake Repair']",,,,,(800) 364-4314,7:00 am - 7:00 pm,94
+301,Stanleys Towing Service,"['Auto Repair & Service', 'Automobile Storage', 'Automotive Roadside Service']",3430 Washington St,Jamaica Plain,MA,02130,(617) 858-5734,Open 24 Hours,95
+302,Maaco Collision Repair & Auto Painting,"['Auto Repair & Service', 'Automobile Detailing', 'Dent Removal']",1030 William T Morrissey Blvd,Dorchester,MA,02122,(857) 206-6003,8:00 am - 6:00 pm,9
+303,Cash For Cars,"['Auto Repair & Service', 'Automobile Salvage', 'Truck Brokers']",,,,,(888) 695-5344,Open 24 Hours,38
+304,Alliance Glass & Sign,"['Auto Repair & Service', 'Windows', 'Window Tinting']",902 Dorchester Ave,Dorchester,MA,02125,(617) 765-4760,8:00 am - 4:30 pm,21
+305,Auto Wranglers,"['Auto Repair & Service', 'Automobile Salvage', 'Towing']",,,,,(844) 836-3181,Open 24 Hours,
+306,1 800 Cash for Junk Cars,"['Automobile Salvage', 'Junk Dealers', 'Automobile & Truck Brokers']",,,,,(800) 569-1576,Open 24 Hours,38
+307,Accurate Collision Inc,"['Auto Repair & Service', 'Automobile Body Repairing & Painting']",36 Mystic St,Everett,MA,02149,(617) 387-3368,8:00 am - 6:00 pm,14
+308,AAMCO Transmissions & Total Car Care,"['Auto Repair & Service', 'Auto Transmission', 'Automobile Parts & Supplies']",,,,,(800) 773-8859,,
+309,A-Z Autocenter,"['Auto Repair & Service', 'Wheel Alignment-Frame & Axle Servicing-Automotive', 'Automobile Body Repairing & Painting']",1686 Commonwealth Ave Ste 1,Brighton,MA,02135,(617) 277-6600,8:00 am - 6:00 pm,21
+310,Teele Square Auto,"['Auto Repair & Service', 'Emissions Inspection Stations', 'Brake Repair']",1284 Broadway,Somerville,MA,02144,(617) 623-9067,8:00 am - 5:00 pm,66
+311,Auto Body Squad,"['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'Automobile Parts, Supplies & Accessories-Wholesale & Manufacturers']",35 Canal St,Malden,MA,02148,(617) 803-8641,,19
+312,A-Z Auto Center,"['Auto Repair & Service', 'Automobile Parts & Supplies', 'Automobile Inspection Stations & Services']",1550 Commonwealth Ave,Brighton,MA,02135,(617) 566-8714,8:00 am - 6:00 pm,43
+313,Revere Auto Service,"['Auto Repair & Service', 'Automobile Air Conditioning Equipment-Service & Repair', 'Automobile Diagnostic Service']",500 Broadway,Revere,MA,02151,(781) 284-9632,8:00 am - 4:30 pm,38
+314,N C Auto Service,"['Auto Repair & Service', 'Automobile Inspection Stations & Services']",175 Broadway,Revere,MA,02151,(781) 289-8250,9:00 am - 5:00 pm,28
+315,Eastern Auto Repair,"['Auto Repair & Service', 'Automobile Inspection Stations & Services', 'Brake Repair']",135 Eastern Ave,Malden,MA,02148,(781) 388-6996,8:00 am - 6:00 pm,12
+316,Aladdin Auto Service,"['Auto Repair & Service', 'Automobile Repairing & Service-Equipment & Supplies']",162 Alewife Brook Pkwy,Cambridge,MA,02138,(617) 547-8000,9:00 am - 6:00 pm,28
+317,Atlas Auto Body,"['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'Car Wash']",1605 N Shore Rd,Revere,MA,02151,(781) 284-1200,9:00 am - 5:00 pm,13
+318,Alpha Omega,['Auto Repair & Service'],288 Washington St,Brighton,MA,02135,(617) 789-4864,7:30 am - 5:30 pm,31
+319,Brother Auto Repair,['Auto Repair & Service'],756 Broadway,Revere,MA,02151,(781) 284-4370,9:00 am - 5:00 pm,15
+320,Foreign Body Works Collision,"['Auto Repair & Service', 'Automobile Body Repairing & Painting']",26 Massachusetts Ave,Arlington,MA,02474,(781) 646-6660,8:00 am - 5:00 pm,
+321,Brookline Auto Clinic,['Auto Repair & Service'],5 Washington St,Brighton,MA,02135,(617) 566-5050,,12
+322,Lamarca Sons,['Auto Repair & Service'],140 Canal St,Malden,MA,02148,(781) 321-2169,,9
+323,"GGM Autoworks, Inc.","['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'Automobile Parts & Supplies']",2034 Revere Beach Pkwy # 2,Everett,MA,02149,(617) 944-9047,8:00 am - 6:00 pm,8
+324,Bay State Automobile Repair Bay State Automobile Repair,['Auto Repair & Service'],67 Chelsea St,Everett,MA,02149,(617) 294-2543,9:00 am - 5:00 pm,
+325,Jack Bertuzzi,['Auto Repair & Service'],288 Washington St,Brighton,MA,02135,(617) 789-4864,,
+326,Exclusive Auto Body & Repair,"['Auto Repair & Service', 'Automobile Customizing', 'Automobile Body Repairing & Painting']",30 charles st,Malden,MA,02148,(781) 333-5409,8:30 am - 6:00 pm,15
+327,Exchange Brake & Alignment Inc,"['Auto Repair & Service', 'Wheel Alignment-Frame & Axle Servicing-Automotive', 'Brake Repair']",37 Thacher St,Malden,MA,02148,(781) 322-2900,9:00 am - 4:00 pm,31
+328,Todays Collision Chelsea,['Automobile Body Repairing & Painting'],99 Everett Ave,Chelsea,MA,02150,(617) 887-0080,7:00 am - 5:00 pm,31
+329,Expert Auto Repair,['Auto Repair & Service'],120 Shirley St,Winthrop,MA,02152,(617) 846-5700,8:00 am - 6:00 pm,27
+330,Ciro Auto Body,"['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'Windshield Repair']",105 Broadway,Everett,MA,02149,(617) 389-4381,8:00 am - 6:00 pm,38
+331,Quality Auto Body,['Automobile Body Repairing & Painting'],64 Eastern AVE,Malden,MA,02148,(781) 605-2469,,
+332,D J's Auto Repair,['Auto Repair & Service'],250 Washington Ave,Winthrop,MA,02152,(617) 846-6090,9:00 am - 5:00 pm,
+333,Brookline Foreign Motors,"['Auto Repair & Service', 'Brake Repair', 'Automobile Body Repairing & Painting']",636 Brookline Ave,Brookline,MA,02445,(617) 566-4433,8:00 am - 5:00 pm,42
+334,D & Z Auto Repair,['Auto Repair & Service'],944 Saratoga St,East Boston,MA,02128,(617) 567-2057,8:00 am - 5:00 pm,30
+335,Xavier Auto Repair & Towing,"['Auto Repair & Service', 'Towing']",186 Columbia Rd,Dorchester,MA,02121,(617) 445-4250,9:00 am - 5:00 pm,30
+336,Symphony Motors,['Auto Repair & Service'],221 Hancock St,Dorchester,MA,02125,(617) 436-4478,6:30 am - 4:00 pm,44
+337,International Auto Svc,['Auto Repair & Service'],2870 Washington St,Roxbury,MA,02119,(617) 427-7060,,
+338,Arborway Auto Service,"['Auto Repair & Service', 'Brake Repair']",209 South St,Jamaica Plain,MA,02130,(617) 524-4505,7:30 am - 5:00 pm,49
+339,John's Auto Body Shop,"['Auto Repair & Service', 'Brake Repair', 'Automobile Body Repairing & Painting']",1234 Dorchester Ave,Dorchester,MA,02125,(617) 265-7095,9:00 am - 5:00 pm,29
+340,Foreign Car Specialists,['Auto Repair & Service'],3 Centre St,Dorchester Center,MA,02124,(617) 427-9416,,
+341,N & K Auto Repair,['Auto Repair & Service'],30 Blue Hill Ave,Roxbury,MA,02119,(617) 442-2626,9:00 am - 5:00 pm,21
+342,Allston Collision Center,"['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'Brake Repair']",420 Cambridge St,Allston,MA,02134,(617) 254-8200,7:00 am - 5:00 pm,20
+343,Hannibal Auto Repair,"['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'Brake Repair']",21 Victory Rd,Dorchester,MA,02122,(617) 825-1325,8:00 am - 6:00 pm,29
+344,Jcb Auto,"['Auto Repair & Service', 'Auto Oil & Lube', 'Brake Repair']",8 Rugg Rd,Allston,MA,02134,(617) 202-9600,8:00 am - 6:00 pm,9
+345,Keegan's Service Station,"['Auto Repair & Service', 'Gas Stations']",3458 Washington St,Jamaica Plain,MA,02130,(617) 524-9542,7:00 am - 5:00 pm,60
+346,Express Collision Center Inc,['Automobile Body Repairing & Painting'],43 Mystic St,Everett,MA,02149,(617) 294-1490,7:30 am - 6:00 pm,
+347,"Dave's Auto, Llc.",['Auto Repair & Service'],,,,,(617) 739-3100,7:00 am - 5:00 pm,36
+348,D and D Towing,"['Auto Repair & Service', 'Towing', 'Automotive Roadside Service']",,,,,(617) 464-8697,Open 24 Hours,27
+349,G J Towing Inc,"['Auto Repair & Service', 'Towing', 'Truck Wrecking']",,,,,(781) 284-1810,12:00 am - 11:59 pm,31
+350,Frank's ABC Towing,"['Auto Repair & Service', 'Towing', 'Truck Wrecking']",,,,,(617) 782-1616,9:00 am - 5:00 pm,44
+351,Meineke Car Care Center,"['Auto Repair & Service', 'Automobile Electrical Equipment', 'Automobile Parts & Supplies']",11 Faneuil St,Brighton,MA,02135,(617) 500-2653,7:00 am - 6:00 pm,27
+352,Titan Gas & Car Wash,"['Auto Repair & Service', 'Car Wash', 'Gas Stations']",590 Boston Ave,Medford,MA,02155,(781) 396-3319,6:00 am - 9:00 pm,
+353,Bnk Autobody,"['Auto Repair & Service', 'Automobile Body Repairing & Painting']",69 Norman St,Everett,MA,02149,(617) 387-0052,8:00 am - 6:00 pm,1
+354,Elite collision and repair inc.,"['Auto Repair & Service', 'Automobile Body Repairing & Painting']",61 Madison St,Malden,MA,02148,(617) 872-5894,,6
+355,GR Auto Sales,"['Automobile Body Repairing & Painting', 'New Car Dealers', 'Used Car Dealers']",261 Mystic Ave,Medford,MA,02155,(781) 219-3574,,
+356,Sako Auto Body,['Automobile Body Repairing & Painting'],395 Riverside Ave,Medford,MA,02155,(781) 306-0757,9:00 am - 5:00 pm,29
+357,ABC AUTO WORKS,['Auto Repair & Service'],446 Western Ave,Brighton,MA,02135,(617) 870-7101,8:00 am - 5:00 pm,
+358,Universal Auto,['Auto Repair & Service'],446 Western Ave,Brighton,MA,02135,(617) 987-0162,,
+359,Factory Auto Service,['Auto Repair & Service'],446 Western Ave,Brighton,MA,02135,(617) 922-4913,8:00 am - 5:00 pm,
+360,Monro Auto Service And Tire Centers,"['Auto Repair & Service', 'Brake Repair', 'Auto Oil & Lube']",20 Revere Beach Pkwy,Medford,MA,02155,(781) 395-5305,7:30 am - 6:00 pm,63
+361,Asa Road Service,"['Auto Repair & Service', 'Towing', 'Automotive Roadside Service']",407 Mystic Ave,Medford,MA,02155,(781) 874-9829,,6
+362,Pearl Street Auto,"['Auto Repair & Service', 'Gas Stations']",180 Pearl St,Somerville,MA,02145,(617) 616-5789,6:00 am - 11:00 pm,
+363,Roberts Towing Inc,"['Auto Repair & Service', 'Towing', 'Truck Wrecking']",,,,,(617) 782-2525,12:00 am - 11:59 pm,3
+364,Goodyear Auto Service,"['Auto Repair & Service', 'Tire Dealers']",300 Eastern Ave,Malden,MA,02148,(781) 324-8600,8:00 am - 5:00 pm,
+365,Rogers Auto Radiator,"['Auto Repair & Service', 'Radiators Automotive Sales & Service', 'Automobile Air Conditioning Equipment-Service & Repair']",389 Riverside Ave,Medford,MA,02155,(781) 395-7777,9:00 am - 5:00 pm,48
+366,Nu-Trend Tire & Auto Svc. Ctr,"['Auto Repair & Service', 'Brake Repair', 'Tire Dealers']",1 Boardman St,East Boston,MA,02128,(617) 567-2255,7:30 am - 5:30 pm,87
+367,Action Emergency Services,"['Towing', 'Automobile Body Repairing & Painting', 'Truck Wrecking']",,,,,(781) 286-3900,9:00 am - 5:00 pm,32
+368,Hm Car Service and Transportation,"['Auto Repair & Service', 'Automobile Transporters', 'Trucking-Motor Freight']",1837 Columbus Ave,Roxbury,MA,02119,(617) 522-3008,,6
+369,Herb Chambers Toyota of Boston,"['Auto Repair & Service', 'Used Car Dealers', 'New Car Dealers']",32 Brighton Ave,Allston,MA,02134,(617) 787-1700,8:30 am - 9:00 pm,21
+370,24 hrs Auto Shops,"['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'Automobile Detailing']",198 Humboldt Ave,Dorchester,MA,02121,(857) 256-5893,8:00 am - 6:00 pm,17
+371,Broadway Motor Service Inc,"['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'Brake Repair']",88 Broadway,Revere,MA,02151,(781) 284-4675,8:00 am - 5:00 pm,73
+372,US Auto Care,"['Auto Repair & Service', 'Automobile Inspection Stations & Services', 'Brake Repair']",1245 Dorchester Ave,Dorchester,MA,02125,(617) 282-1800,8:00 am - 6:00 pm,23
+373,Meineke Car Care Center,"['Auto Repair & Service', 'Automobile Parts & Supplies', 'Brake Repair']",53 Broadway,Malden,MA,02148,(617) 702-4227,7:30 am - 6:00 pm,41
+374,Stevo Auto Repair Inc,"['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'Brake Repair']",348 Salem St,Medford,MA,02155,(781) 257-6177,7:00 am - 6:00 pm,
+375,Dave's Auto Service II,"['Auto Repair & Service', 'Used Car Dealers', 'Brake Repair']",771 E Squantum St,Quincy,MA,02171,(617) 302-3928,8:00 am - 12:00 pm,21
+376,Supreme Auto Body,['Automobile Body Repairing & Painting'],38 Travis St,Allston,MA,02134,(617) 782-7880,9:00 am - 5:00 pm,
+377,Rhm International,"['Auto Repair & Service', 'Auto Transmission']",81 Glen Rd,Brookline,MA,02445,(617) 608-0274,,9
+378,Mecca Motors,"['Auto Repair & Service', 'Automobile Parts & Supplies', 'Auto Transmission']",112 Waverly St,Brighton,MA,02135,(617) 787-1707,7:30 am - 6:00 pm,33
+379,Wooding's Garage,"['Auto Repair & Service', 'Automobile Parts & Supplies', 'Brake Repair']",112 Waverly St,Brighton,MA,02135,(617) 782-4574,8:00 am - 5:00 pm,
+380,Auto Solutions Inc,"['Auto Repair & Service', 'Automotive Tune Up Service', 'Automobile Parts & Supplies']",37 Everett Ave,Everett,MA,02149,(617) 389-2400,8:00 am - 5:00 pm,
+381,Getty,"['Auto Repair & Service', 'Gas Stations', 'Convenience Stores']",2081 Revere Beach Pkwy,Everett,MA,02149,(617) 389-3133,9:00 am - 7:00 pm,
+382,Hillside Auto Repair,"['Auto Repair & Service', 'Radiators Automotive Sales & Service', 'Automobile Electric Service']",583 Broadway,Somerville,MA,02145,(781) 395-9679,6:00 am - 6:00 pm,35
+383,John's Mobile Car Care,['Auto Repair & Service'],331 Malden St,Medford,MA,02155,(617) 230-6885,9:00 am - 3:00 pm,25
+384,Broadway Gas & Auto Service,['Auto Repair & Service'],356 Broadway,Everett,MA,02149,(617) 294-4847,,6
+385,Kuendas Autobody Repair,"['Auto Repair & Service', 'Automobile Body Repairing & Painting']",16 Burrell St,Roxbury,MA,02119,(617) 989-1290,,
+386,Thompson Auto Shop,"['Auto Repair & Service', 'Automobile Body Repairing & Painting']",30 Terrace St,Roxbury Crossing,MA,02120,(617) 652-8244,,4
+387,Foreign Car Specialists,"['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'Brake Repair']",3 Centre Street Ter,Roxbury,MA,02119,(617) 427-9416,7:30 am - 6:00 pm,37
+388,Luxury Body Inc,"['Auto Repair & Service', 'Automobile Body Repairing & Painting']",118 Quincy St,Dorchester,MA,02121,(617) 708-0993,8:30 am - 5:30 pm,3
+389,Roys Auto Body Inc,"['Auto Repair & Service', 'Automobile Body Repairing & Painting']",120 Quincy St,Dorchester,MA,02121,(617) 652-7000,,6
+390,Amory Auto Collision,"['Auto Repair & Service', 'Automobile Body Repairing & Painting']",1601 Columbus Ave,Roxbury,MA,02119,(617) 445-4385,,
+391,DS Auto Repair Collision,"['Auto Repair & Service', 'Automobile Body Repairing & Painting']",253 Quincy St,Dorchester,MA,02121,(617) 652-7531,,
+392,Ryan S Automotive,"['Auto Repair & Service', 'Automobile Body Repairing & Painting']",1837 Columbus Ave,Roxbury,MA,02119,(617) 445-2055,,
+393,Top & Son,"['Auto Repair & Service', 'Automobile Body Repairing & Painting']",379 Bowdoin St,Dorchester,MA,02122,(617) 506-8289,,3
+394,"Peter's Repair & Auto Body, Inc.","['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'Automobile Electric Service']",150 Freeport St,Dorchester,MA,02122,(617) 265-2223,,
+395,Kiets Auto Repair,"['Auto Repair & Service', 'Automobile Repairing & Service-Equipment & Supplies', 'Emissions Inspection Stations']",1325 Dorchester Ave,Dorchester,MA,02122,(617) 265-6446,8:30 am - 6:00 pm,17
+396,Cambridge Street Auto,"['Auto Repair & Service', 'Automobile Customizing', 'Automobile Body Repairing & Painting']",445 Cambridge St,Allston,MA,02134,(617) 254-7900,,3
+397,P C Auto Repair,"['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'Automobile Electric Service']",20 Rugg Rd,Allston,MA,02134,(617) 787-0002,,
+398,Glenville Terrace Auto Body,"['Auto Repair & Service', 'Automobile Consultants', 'Automobile Body Repairing & Painting']",10 Penniman Rd,Allston,MA,02134,(617) 202-5922,,
+399,M & S Auto Body,"['Auto Repair & Service', 'Automobile Body Repairing & Painting']",150 Freeport St,Dorchester,MA,02122,(617) 282-4200,7:00 am - 6:00 pm,7
+400,Nelson's Auto Collision,"['Auto Repair & Service', 'Automobile Body Repairing & Painting']",16 Woodside Ave,Winthrop,MA,02152,(617) 207-9648,8:00 am - 5:00 pm,6
+401,J & A Autobody,"['Auto Repair & Service', 'Automobile Body Repairing & Painting']",286 Adams St,Dorchester,MA,02122,(617) 514-3021,8:00 am - 6:00 pm,9
+402,Brother's Auto Body Repair and Sales,"['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'Used Car Dealers']",328 Washington St,Dorchester,MA,02121,(617) 825-0775,,25
+403,People's Choice Auto Repair,"['Auto Repair & Service', 'Automobile Body Repairing & Painting']",165 N Beacon St,Brighton,MA,02135,(617) 739-1900,,25
+404,Paulo's Auto Repair,"['Auto Repair & Service', 'Automobile Parts & Supplies', 'New Car Dealers']",155 N Beacon St,Brighton,MA,02135,(617) 739-1900,8:00 am - 6:00 pm,2
+405,Fitzpatrick Brothers,"['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'Automobile Customizing']",150 Centre St,Dorchester Center,MA,02124,(617) 825-1760,9:00 am - 5:00 pm,126
+406,Blue Hill Tire Shop Inc,"['Auto Repair & Service', 'Automobile Customizing', 'Automobile Body Repairing & Painting']",883 Blue Hill Ave,Dorchester Center,MA,02124,(617) 822-0750,7:00 am - 7:00 pm,14
+407,Western Auto,"['Auto Repair & Service', 'Automobile Parts & Supplies', 'Automobile Body Repairing & Painting']",206 Western Ave,Cambridge,MA,02139,(617) 497-1440,,
+408,Autosal,"['Auto Repair & Service', 'Automobile Body Repairing & Painting']",444 Somerville Ave,Somerville,MA,02143,(617) 623-6441,9:00 am - 5:00 pm,9
+409,Carneiro Auto Body and Sales,"['Auto Repair & Service', 'Automobile Body Repairing & Painting']",112 Bow St,Everett,MA,02149,(617) 944-9376,,
+410,Sunrise Auto Center,"['Auto Repair & Service', 'Automobile Body Repairing & Painting']",41 Bartlett St,Everett,MA,02149,(617) 294-4224,8:00 am - 6:00 pm,42
+411,A & P Collision Center,"['Auto Repair & Service', 'Automobile Body Repairing & Painting']",24 James St,Malden,MA,02148,(781) 874-9503,,
+412,RSolis Customs Auto repair,"['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'Automobile Electric Service']",140 Mystic Ave,Medford,MA,02155,(857) 888-3064,,
+413,G A R Auto Body,"['Auto Repair & Service', 'Automobile Body Repairing & Painting']",147 Highland Ave,Malden,MA,02148,(781) 480-4620,8:00 am - 6:00 pm,5
+414,Hondaville,"['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'Brake Repair']",48 New St,Cambridge,MA,02138,(617) 758-8686,8:00 am - 4:00 pm,
+415,A & J Automotive,"['Auto Repair & Service', 'Automobile Electric Service', 'Brake Repair']",64 Eastern Ave,Malden,MA,02148,(781) 321-9500,,10
+416,Sunrise Auto Spa,"['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'Car Wash']",163 Eastern Ave,Malden,MA,02148,(781) 324-3530,10:00 am - 9:00 pm,8
+417,Active Automotive & Bodyworks Inc,"['Auto Repair & Service', 'Automobile Body Repairing & Painting']",5 Putnam St,Winthrop,MA,02152,(617) 846-5300,9:00 am - 5:00 pm,27
+418,Bob's Auto Body,"['Auto Repair & Service', 'Auto Springs & Suspension', 'Windshield Repair']",1456 N Shore Rd,Revere,MA,02151,(781) 289-1300,8:00 am - 5:30 pm,26
+419,Morrison's Auto-Rite,"['Auto Repair & Service', 'New Car Dealers', 'Automobile Electric Service']",475 Centre St,Jamaica Plain,MA,02130,(617) 522-4444,8:00 am - 5:30 pm,51
+420,Circle Auto Body,"['Auto Repair & Service', 'Automobile Body Repairing & Painting']",26 Thorndike St,Everett,MA,02149,(617) 387-9833,9:00 am - 5:00 pm,53
+421,Auto Tuners,['Auto Repair & Service'],507 Main St,Malden,MA,02148,(781) 321-3087,9:00 am - 6:00 pm,13
+422,Auto Precision,"['Auto Repair & Service', 'Automobile Electric Service', 'Brake Repair']",48 Prentiss St,Watertown,MA,02472,(617) 924-2000,8:30 am - 5:30 pm,27
+423,Atlantic Auto Body Inc,"['Automobile Body Repairing & Painting', 'Automobile Detailing']",529 Broadway,Revere,MA,02151,(781) 284-8900,7:30 am - 5:00 pm,58
+424,Samuel's Jaguar Motors Ltd.,['Auto Repair & Service'],296 N Beacon St,Brighton,MA,02135,(617) 787-1187,9:00 am - 5:00 pm,42
+425,Libbey's Auto Repair,"['Auto Repair & Service', 'Engine Rebuilding & Exchange', 'Auto Engine Rebuilding']",134 Mystic Ave,Medford,MA,02155,(781) 396-9131,8:00 am - 6:00 pm,36
+426,Allston Auto Works Inc,"['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'Windshield Repair']",87 Harvard Ave,Allston,MA,02134,(617) 783-1718,9:00 am - 5:00 pm,24
+427,Village Collision,"['Auto Repair & Service', 'Automobile Electric Service', 'Brake Repair']",5 Waldo St,Brookline,MA,02446,(617) 735-8888,9:00 am - 5:00 pm,22
+428,Century Auto Collision & Service Center,"['Auto Repair & Service', 'Automobile Body Repairing & Painting']",448 Eastern Ave,Malden,MA,02148,(781) 322-3981,8:00 am - 5:00 pm,18
+429,Mike's Auto Repair,"['Auto Repair & Service', 'Brake Repair', 'Auto Oil & Lube']",55 Brighton Ave,Allston,MA,02134,(617) 782-2700,9:00 am - 5:00 pm,13
+430,Paul's Foreign Auto,"['Auto Repair & Service', 'Automobile Parts & Supplies', 'Brake Repair']",149 Ferry St,Malden,MA,02148,(781) 397-9020,8:00 am - 5:30 pm,29
+431,Suburban Collision Center,"['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'Automobile Restoration-Antique & Classic']",9 Foster St,Revere,MA,02151,(781) 426-2026,8:00 am - 5:00 pm,12
+432,Jim's Auto Body,"['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'Windshield Repair']",147 Shirley St,Winthrop,MA,02152,(617) 846-1384,8:00 am - 5:00 pm,38
+433,New England Body Works,"['Auto Repair & Service', 'Automobile Body Repairing & Painting']",36 Mystic St,Everett,MA,02149,(617) 389-4941,9:00 am - 5:00 pm,38
+434,"Riviera Auto Body, Inc.","['Auto Repair & Service', 'Automobile Body Repairing & Painting']",112 Bow St,Everett,MA,02149,(617) 389-9050,9:00 am - 5:00 pm,50
+435,Jp Auto Services,"['Auto Repair & Service', 'Automobile Inspection Stations & Services', 'Gasoline Engines']",429 Centre St,Jamaica Plain,MA,02130,(617) 522-3287,8:00 am - 2:00 pm,16
+436,West Cork Auto,['Auto Repair & Service'],600 Centre St,Jamaica Plain,MA,02130,(617) 522-5519,8:00 am - 4:30 pm,26
+437,APA Automotive Transmissions,"['Auto Repair & Service', 'Auto Transmission', 'Automobile Parts, Supplies & Accessories-Wholesale & Manufacturers']",73 Pleasant St,Cambridge,MA,02139,(617) 876-5544,8:00 am - 5:30 pm,42
+438,J.K.A Auto & Truck Center,"['Auto Repair & Service', 'Automobile Parts & Supplies', 'Automobile Accessories']",216 Ferry St,Malden,MA,02148,(781) 844-0660,8:00 am - 5:00 pm,36
+439,Macmillen Automotive,"['Auto Repair & Service', 'Engine Rebuilding & Exchange', 'Auto Engine Rebuilding']",388 Eastern Ave,Malden,MA,02148,(781) 324-5534,8:00 am - 5:00 pm,30
+440,Sam's Auto Care,"['Auto Repair & Service', 'Emissions Inspection Stations', 'Automobile Inspection Stations & Services']",348 Salem St,Medford,MA,02155,(339) 674-9283,8:00 am - 5:00 pm,
+441,Wentworth Service Station,"['Auto Repair & Service', 'Gas Stations']",50 Stedman St,Jamaica Plain,MA,02130,(617) 524-3713,8:30 am - 6:00 pm,25
+442,Alba's Auto Repair,"['Auto Repair & Service', 'Used Car Dealers']",642 Washington Ave,Chelsea,MA,02150,(617) 889-2646,,44
+443,Centre Motors Auto Body,['Automobile Body Repairing & Painting'],256 Hancock St,Dorchester,MA,02125,(617) 282-7100,9:00 am - 5:00 pm,40
+444,ABJ Auto Repair,['Auto Repair & Service'],91 Marshall St,Somerville,MA,02145,(617) 625-6632,8:00 am - 6:00 pm,
+445,Aris Auto,"['Auto Repair & Service', 'Automobile Diagnostic Service', 'Towing']",675 Somerville Ave,Somerville,MA,02143,(617) 776-9247,8:00 am - 6:00 pm,38
+446,Lee Myles Transmissions & Autocare,"['Auto Repair & Service', 'Transmissions-Other']",1110 Dorchester Ave,Dorchester,MA,02125,(617) 282-0488,Open 24 Hours,38
+447,New England Brake  And Auto Repair,"['Auto Repair & Service', 'Brake Repair']",22 Terrace St,Roxbury Crossing,MA,02120,(617) 427-9000,7:00 am - 6:00 pm,7
+448,Roxbury Energy,"['Auto Repair & Service', 'Gas Stations', 'Convenience Stores']",67 Blue Hill Ave,Roxbury,MA,02119,(617) 445-8322,,
+449,V & L Auto Repair V & L Auto Repair,['Auto Repair & Service'],120 Blue Hill Ave Ste 2,Roxbury,MA,02119,(617) 442-3760,,19
+450,Dave's Auto Repair,['Auto Repair & Service'],880 Comnwlth Ave,Brookline,MA,02446,(617) 739-3100,,
+451,Chelsea Transmission Co,"['Auto Repair & Service', 'Auto Transmission']",1 City Hall Ave,Chelsea,MA,02150,(617) 884-7472,,
+452,Alex M Auto Services,"['Auto Repair & Service', 'Automobile Electric Service', 'Brake Service Equipment']",337 3rd St,Chelsea,MA,02150,(617) 884-3338,,1
+453,Phillip's Auto Service,"['Auto Repair & Service', 'Automobile Air Conditioning Equipment-Service & Repair', 'Auto Transmission']",22 Centre Street Ter,Roxbury,MA,02119,(617) 445-8630,8:00 am - 6:00 pm,19
+454,Easton Auto Service,['Auto Repair & Service'],7 Stoughton St,Dorchester,MA,02125,(617) 825-4112,,5
+455,Astro Car Service,['Auto Repair & Service'],3 Half Moon St,Dorchester,MA,02125,(617) 442-2111,,
+456,Firestone Complete Auto Care,"['Auto Repair & Service', 'Tire Dealers']",972  984 Commonwealth Ave,Brookline,MA,02445,(617) 277-8480,7:00 am - 9:00 pm,
+457,Mobile Mechanic,['Auto Repair & Service'],500 Columbia Rd,Dorchester,MA,02125,(857) 309-4953,,
+458,Dorchester Car Care,['Auto Repair & Service'],64 Pleasant St,Dorchester,MA,02125,(617) 282-0651,9:00 am - 5:00 pm,20
+459,Mazzarell Car Care Systems,"['Auto Repair & Service', 'Car Wash']",946 Saratoga St,East Boston,MA,02128,(617) 567-2891,9:00 am - 5:00 pm,10
+460,International Auto Service,"['Auto Repair & Service', 'Tire Dealers', 'Mufflers & Exhaust Systems']",120 Quincy St,Dorchester,MA,02121,(617) 427-7060,7:30 am - 5:30 pm,26
+461,Amine Auto Repair,"['Auto Repair & Service', 'Automobile Electric Service', 'Brake Repair']",183 Cambridge St,Allston,MA,02134,(617) 787-1828,,
+462,Lesterauto Repair Inc,['Auto Repair & Service'],17 Vernon St,Chelsea,MA,02150,(617) 889-2200,9:00 am - 5:00 pm,10
+463,ABC Foreign Auto Werks,"['Auto Repair & Service', 'New Car Dealers']",17 Vernon St # 19,Chelsea,MA,02150,(617) 889-0890,,
+464,7 Days Mechanic,['Auto Repair & Service'],415 Columbia Rd,Dorchester,MA,02125,(857) 309-4956,,
+465,A & G Auto Tech,['Auto Repair & Service'],240 Quincy St,Dorchester,MA,02121,(617) 445-3800,,4
+466,Fine Line Auto Repair Inc,['Auto Repair & Service'],401 Bowdoin St,Dorchester,MA,02122,(617) 282-7200,,4
+467,Delarosa Auto Repair,['Auto Repair & Service'],1091 Bennington St,East Boston,MA,02128,(617) 569-9200,9:00 am - 5:00 pm,13
+468,Andino Auto Center and Towing,"['Auto Repair & Service', 'Towing', 'Automobile Parts & Supplies']",1091 Bennington St,East Boston,MA,02128,(617) 561-4700,,
+469,Foreign and Domestic Autocare,['Auto Repair & Service'],383 Washington Ave,Chelsea,MA,02150,(857) 776-4759,,
+470,Triple A Auto Tech,['Auto Repair & Service'],1271 Dorchester Ave,Dorchester,MA,02122,(617) 514-3544,8:00 am - 6:00 pm,5
+471,Low Price Auto Repair,['Auto Repair & Service'],60 School Street Pl,Roxbury,MA,02119,(857) 317-5303,,
+472,Sein Auto Services,['Auto Repair & Service'],1325 Dorchester Ave,Dorchester,MA,02122,(617) 825-2124,,
+473,Allston Rapid Auto Repair,['Auto Repair & Service'],287 Western Ave,Allston,MA,02134,(857) 540-7482,,
+474,Performance Consultants,['Auto Repair & Service'],68 Griggs St,Allston,MA,02134,(617) 739-1441,,32
+475,Fransisco Auto Repair,['Auto Repair & Service'],3162 Washington St,Jamaica Plain,MA,02130,(617) 522-0059,,
+476,Harold Shoher Auto Reprg,['Auto Repair & Service'],305 Western Ave,Allston,MA,02134,(617) 254-6163,,
+477,Sully's Service,['Auto Repair & Service'],445 Cambridge St,Allston,MA,02134,(617) 782-2270,,
+478,Mobile Auto Clinic,"['Auto Repair & Service', 'Towing', 'Truck Service & Repair']",30 Rugg Rd,Allston,MA,02134,(617) 259-4497,12:00 am - 11:59 pm,11
+479,D & G Auto Repair & Services,['Auto Repair & Service'],2 Emery Rd,Allston,MA,02134,(617) 208-4088,12:00 am - 11:59 pm,15
+480,Car Windshield Chip Repair,['Auto Repair & Service'],185 High St,Brookline,MA,02445,(857) 245-5879,,
+481,E & J Auto Tech Center & Tire Inc,['Auto Repair & Service'],3204 Washington St,Jamaica Plain,MA,02130,(617) 522-4128,,
+482,Garage Tune-Up,['Auto Repair & Service'],130 Bowdoin St,Dorchester,MA,02122,(857) 221-5319,,
+483,Pezzi Service Ctr,"['Auto Repair & Service', 'Gas Stations']",571 Washington Ave,Chelsea,MA,02150,(617) 884-9880,Open 24 Hours,
+484,Jp Oil,"['Auto Repair & Service', 'Gas Stations', 'Fuel Oils']",525 Centre St,Jamaica Plain,MA,02130,(617) 942-7203,9:00 am - 5:00 pm,
+485,Meteoric Auto Repair,['Auto Repair & Service'],545 Centre St,Jamaica Plain,MA,02130,(617) 390-6031,,1
+486,Meteoric Auto Repair,['Auto Repair & Service'],77 Fenno St,Revere,MA,02151,(781) 241-9089,,
+487,Crespi Foreign Auto,['Auto Repair & Service'],112 Waverly St,Brighton,MA,02135,(617) 787-1707,,
+488,Centre Gibbs Inc,"['Auto Repair & Service', 'Gas Stations', 'Convenience Stores']",581 Centre St,Jamaica Plain,MA,02130,(617) 524-1930,8:00 am - 5:00 pm,
+489,New Medallion Auto Service,['Auto Repair & Service'],446 Western Ave Ste 1,Brighton,MA,02135,(617) 782-7336,,19
+490,Fast & Finest,['Auto Repair & Service'],281 Lee Burbank Hwy,Revere,MA,02151,(781) 629-1494,,
+491,Juliana Auto Repair,['Auto Repair & Service'],281 Lee Burbank Hwy,Revere,MA,02151,(781) 629-9819,,1
+492,Brighton Auto Clinic,['Auto Repair & Service'],3 Washington St,Brighton,MA,02135,(617) 566-8808,8:30 am - 5:00 pm,
+493,Brakeman's Auto Repair,['Auto Repair & Service'],3427 Washington St,Jamaica Plain,MA,02130,(857) 488-2316,8:00 am - 5:00 pm,
+494,Wagner Brake,"['Auto Repair & Service', 'Brake Repair']",145 N Beacon St,Brighton,MA,02135,(617) 912-2700,,16
+495,SSG Jamie Chambers,['Auto Repair & Service'],1578 Dorchester Ave,Dorchester,MA,02122,(508) 889-8431,,
+496,P C Automobile Repair,['Auto Repair & Service'],165 N Beacon St,Brighton,MA,02135,(617) 787-0767,,
+497,Eddys Automotive,['Auto Repair & Service'],1607 Dorchester Ave,Dorchester,MA,02122,(617) 677-1646,,
+498,R & R Auto Center,"['Auto Repair & Service', 'Automotive Tune Up Service', 'Auto Oil & Lube']",780 Blue Hill Ave,Dorchester Center,MA,02124,(617) 436-1770,8:00 am - 7:00 pm,8
+499,Boston Auto Werks,"['Auto Repair & Service', 'New Car Dealers']",81 Veterans Rd,Winthrop,MA,02152,(617) 846-1286,8:00 am - 6:00 pm,5
+500,Xtreme Auto & Custom LLC.,['Auto Repair & Service'],155 Shirley St,Winthrop,MA,02152,(617) 846-0068,8:00 am - 5:00 pm,7
+501,Cimminos Auto Repair,['Auto Repair & Service'],155 Shirley St,Winthrop,MA,02152,(617) 846-8844,9:00 am - 5:00 pm,25
+502,Local Auto Repair,['Auto Repair & Service'],777 William T Morrissey Blvd,Dorchester,MA,02122,(857) 217-0183,,
+503,Sky Inc,['Auto Repair & Service'],50a Stedman St,Jamaica Plain,MA,02130,(617) 983-0222,,11
+504,Midas Auto Service Experts,"['Auto Repair & Service', 'Automobile Parts & Supplies', 'Brake Repair']",320 Washington St,Brighton,MA,02135,(617) 787-3874,,
+505,Dorchester Ave Gibbs,"['Auto Repair & Service', 'Gas Stations', 'Convenience Stores']",1707 Dorchester Ave,Dorchester Center,MA,02124,(617) 436-7667,9:00 am - 5:00 pm,
+506,Jnr Inc,['Auto Repair & Service'],1707 Dorchester Ave,Dorchester Center,MA,02124,(617) 436-7667,,14
+507,Pep's & Sasha's Auto Repair,['Auto Repair & Service'],188 Warren St,Roxbury,MA,02119,(617) 442-6868,8:00 am - 5:00 pm,22
+508,Kerys Auto Svc,['Auto Repair & Service'],120 Blue Hill Ave,Roxbury,MA,02119,(617) 606-7069,9:00 am - 5:00 pm,10
+509,Santana's Tires & Auto Repair,"['Auto Repair & Service', 'Tire Dealers', 'Gas Stations']",1891 Columbus Ave,Roxbury,MA,02119,(617) 522-5677,,21
+510,Krueger Auto Repair,"['Auto Repair & Service', 'Automobile Consultants', 'Automobile Electric Service']",310 Columbia Rd,Dorchester,MA,02121,(617) 606-4033,9:00 am - 6:00 pm,11
+511,LP Auto Repair,['Auto Repair & Service'],1232 Dorchester Ave,Dorchester,MA,02125,(617) 265-1234,9:00 am - 5:00 pm,16
+512,Tech Auto Repair,['Auto Repair & Service'],1287 Dorchester Ave,Dorchester,MA,02122,(617) 287-9220,8:30 am - 6:00 pm,23
+513,Alpha Auto Clinic,"['Auto Repair & Service', 'Automobile Electric Service', 'Automobile Diagnostic Service']",290 Lee Burbank Hwy,Revere,MA,02151,(781) 286-1686,8:00 am - 6:00 pm,34
+514,United Auto Repair,['Auto Repair & Service'],13 Bowdoin St,Dorchester Center,MA,02124,(857) 869-7772,,15
+515,Tech Lube,"['Auto Repair & Service', 'Auto Oil & Lube', 'Brake Repair']",316 Adams St,Dorchester,MA,02122,(617) 265-7617,8:00 am - 6:00 pm,40
+516,Frank's Auto Repair,"['Auto Repair & Service', 'Engine Rebuilding & Exchange', 'Auto Engine Rebuilding']",189 Highland Ave,Malden,MA,02148,(781) 321-6744,7:30 am - 6:00 pm,9
+517,Autolab,"['Auto Repair & Service', 'Automobile Repairing & Service-Equipment & Supplies']",340 Everett Ave,Chelsea,MA,02150,(617) 889-6235,6:30 am - 3:30 pm,29
+518,C & J Auto Repair & Collision,"['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'Gas Stations']",41 Ripley Rd,Dorchester,MA,02121,(617) 282-0193,9:00 am - 5:00 pm,15
+519,Foreign & Domestic Auto Service,"['Auto Repair & Service', 'Gas Stations']",364 Boston Ave Ste 6,Medford,MA,02155,(781) 391-0808,8:00 am - 5:00 pm,34
+520,Vix Auto Sevice,['Auto Repair & Service'],73 Summer St,Somerville,MA,02143,(617) 764-0161,,3
+521,P&G Auto Repairs,['Auto Repair & Service'],80 Tremont St,Everett,MA,02149,(800) 750-4495,,
+522,Malden Auto Repair,"['Auto Repair & Service', 'Automobile Parts & Supplies', 'Used Car Dealers']",80 Tremont St,Everett,MA,02149,(781) 480-4120,8:00 am - 6:00 pm,7
+523,Peppi's,"['Auto Repair & Service', 'Automobile Repairing & Service-Equipment & Supplies', 'Brake Repair']",510 Main St,Medford,MA,02155,(781) 395-1777,,39
+524,A B Automobile Repair,"['Auto Repair & Service', 'Automobile Inspection Stations & Services', 'Automobile Repairing & Service-Equipment & Supplies']",510 Main St,Medford,MA,02155,(339) 221-5230,9:00 am - 5:00 pm,
+525,A L Prime Energy,"['Auto Repair & Service', 'Gas Stations']",510 Main St,Medford,MA,02155,(781) 396-0988,6:00 am - 8:30 pm,
+526,Medford Find Car Repair Shops,['Auto Repair & Service'],660 Fellsway,Medford,MA,02155,(781) 350-3950,,
+527,D An D Equipment Repair,"['Auto Repair & Service', 'Engine Rebuilding & Exchange', 'Auto Engine Rebuilding']",55 Hall St,Medford,MA,02155,(781) 393-4440,6:30 am - 5:00 pm,15
+528,Discount Gas,"['Auto Repair & Service', 'Gas Stations', 'Convenience Stores']",394 Main St,Everett,MA,02149,(617) 387-8800,,
+529,Pro Tech Auto Services,['Auto Repair & Service'],394 Main St,Everett,MA,02149,(617) 387-8800,8:00 am - 6:00 pm,19
+530,Riverside Auto & Truck,"['Auto Repair & Service', 'Gas Stations']",7 Locust St,Medford,MA,02155,(781) 306-0600,7:00 am - 11:00 pm,11
+531,Auto Tuners,['Auto Repair & Service'],742 Broadway,Everett,MA,02149,(781) 321-3087,9:00 am - 6:00 pm,
+532,Auto Repair & Service,['Auto Repair & Service'],2218 Massachusetts Ave,Cambridge,MA,02140,(617) 299-2476,,
+533,National Parts Network,['Auto Repair & Service'],20 Sycamore Ave,Medford,MA,02155,(781) 396-4567,,14
+534,A L Prime Energy,"['Auto Repair & Service', 'Gas Stations']",307 Main St,Medford,MA,02155,(781) 396-1504,,
+535,Marenghi Brothers Auto Repair,"['Auto Repair & Service', 'Gas Stations']",100 Highland Ave,Malden,MA,02148,(781) 324-9655,,
+536,Lourenco,['Auto Repair & Service'],441 Medford St,Malden,MA,02148,(781) 321-1133,,
+537,Exxon Mobil,['Auto Repair & Service'],343 Fresh Pond Pkwy,Cambridge,MA,02138,(617) 354-4605,,
+538,A-Tech,['Auto Repair & Service'],67 Mystic Ave,Medford,MA,02155,(781) 558-9459,9:00 am - 6:00 pm,9
+539,Boston Best Auto Repair,['Auto Repair & Service'],53 Madison St,Malden,MA,02148,(781) 324-0525,,
+540,Father & Son's Auto Mechanic,['Auto Repair & Service'],53 Madison St,Malden,MA,02148,(781) 324-0525,,5
+541,Jka Automobile Stereo Sound Systems Service,"['Auto Repair & Service', 'Automobile Electric Service']",216 Ferry St,Malden,MA,02148,(781) 324-9741,,
+542,E Z 2 Auto Rental Inc,['Auto Repair & Service'],15 Madison St,Malden,MA,02148,(781) 388-8282,,
+543,Sergio's Auto Repair,['Auto Repair & Service'],9 Whitman St,Malden,MA,02148,(781) 866-2206,,20
+544,Dalton's Gulf Service,"['Auto Repair & Service', 'Gas Stations']",1200 Fellsway,Malden,MA,02148,(781) 324-9665,7:00 am - 6:00 pm,24
+545,Rz Auto Repair,['Auto Repair & Service'],1200 Fellsway,Malden,MA,02148,(781) 333-6377,,
+546,Rg Auto,['Auto Repair & Service'],1200 Fellsway,Malden,MA,02148,(781) 333-6377,,4
+547,Maxima Auto Repair Corp,['Auto Repair & Service'],30 Charles St,Malden,MA,02148,(781) 605-1632,9:00 am - 7:00 pm,
+548,Maiden Auto Repair,"['Auto Repair & Service', 'Engine Rebuilding & Exchange', 'Auto Engine Rebuilding']",17 Charles St,Malden,MA,02148,(781) 322-4343,8:00 am - 5:00 pm,
+549,Pro-teck Fleet Services,['Auto Repair & Service'],17 Charles St,Malden,MA,02148,(781) 397-7858,,
+550,Frazier Alice,['Auto Repair & Service'],16 Mystic Ave,Medford,MA,02155,(781) 391-4848,,
+551,Boston Body Repair,"['Auto Repair & Service', 'Automobile Body Repairing & Painting']",18 Harvard Ave,Dorchester,MA,02121,(617) 265-0798,8:00 am - 6:00 pm,21
+552,Autobody,"['Auto Repair & Service', 'Automobile Body Repairing & Painting']",155 Shirley St Ste 5,Winthrop,MA,02152,(617) 846-8845,9:00 am - 5:00 pm,19
+553,Velocidad Auto Repair,['Auto Repair & Service'],120 Blue Hill Ave Ste 2,Roxbury,MA,02119,(617) 516-8416,9:00 am - 6:00 pm,16
+554,Alignment Specialty Co,"['Auto Repair & Service', 'Brake Repair', 'Tire Recap, Retread & Repair']",654 Brookline Ave,Brookline,MA,02445,(617) 566-3231,8:30 am - 4:00 pm,25
+555,Salcedo Auto Center,['Auto Repair & Service'],3377 Washington St,Jamaica Plain,MA,02130,(617) 942-7967,8:30 am - 6:00 pm,12
+556,USA Automotive Garage,['Auto Repair & Service'],300 Adams St,Dorchester,MA,02122,(617) 825-4001,9:00 am - 5:00 pm,12
+557,Popes Hill Garage,['Auto Repair & Service'],80 Neponset Ave,Dorchester,MA,02122,(617) 436-7795,9:00 am - 5:00 pm,36
+558,Harry's Auto Center,['Auto Repair & Service'],528 Washington St,Dorchester Center,MA,02124,(617) 506-0457,8:00 am - 6:00 pm,17
+559,Dorchester Avenue Mutual,"['Auto Repair & Service', 'Towing']",1742 Dorchester Ave,Dorchester Center,MA,02124,(617) 265-0733,9:00 am - 5:00 pm,11
+560,Spray Booth Maintenance Corp,"['Auto Repair & Service', 'Automobile Body Repairing & Painting']",38 Robin St,Everett,MA,02149,(617) 389-7141,9:00 am - 5:00 pm,20
+561,Autobody Euro-Tech,"['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'Automobile Customizing']",51 New St,Cambridge,MA,02138,(617) 871-2115,8:00 am - 5:00 pm,18
+562,Joe Ciampa Auto Body,"['Auto Repair & Service', 'Automobile Body Repairing & Painting']",322 Eastern Ave,Malden,MA,02148,(781) 321-9800,9:00 am - 5:00 pm,34
+563,Pete's Auto Svc,['Auto Repair & Service'],73 Pleasant St,Cambridge,MA,02139,(617) 354-1326,,23
+564,Caruso Automotive,"['Auto Repair & Service', 'Engine Rebuilding & Exchange', 'Auto Engine Rebuilding']",49 Robin St,Everett,MA,02149,(617) 389-4344,,44
+565,G E Auto Repair,['Auto Repair & Service'],631 Somerville Ave,Somerville,MA,02143,(617) 718-0699,7:30 am - 6:30 pm,9
+566,Northeast Power,['Auto Repair & Service'],243 Mystic Ave,Medford,MA,02155,(781) 393-7900,9:00 am - 5:00 pm,12
+567,Mike's Auto Service,['Auto Repair & Service'],86 Highland Ave,Malden,MA,02148,(781) 324-9451,,
+568,North Cambridge Garage,"['Auto Repair & Service', 'Automotive Roadside Service', 'Towing']",140 Sherman St,Cambridge,MA,02140,(857) 523-8270,,39
+569,Complete Truck Repair Shop,"['Auto Repair & Service', 'Engine Rebuilding & Exchange', 'Auto Springs & Suspension']",130 Canal St,Malden,MA,02148,(781) 399-0915,8:00 am - 4:30 pm,10
+570,Tony's Auto Clinic,"['Auto Repair & Service', 'Automobile Electric Service', 'Brake Repair']",353 Salem St,Medford,MA,02155,(781) 396-8182,8:00 am - 5:00 pm,
+571,Tony's At Salem Street,['Auto Repair & Service'],353 Salem St,Medford,MA,02155,(781) 983-4049,8:30 am - 5:30 pm,7
+572,Valdeci Auto,"['Auto Repair & Service', 'Brake Repair', 'Engine Rebuilding & Exchange']",91 Broadway,Malden,MA,02148,(617) 953-8515,10:00 am - 7:00 pm,10
+573,Gem Automobile Parts Co,"['Auto Repair & Service', 'Automobile Parts & Supplies', 'Automobile Machine Shop']",7 Griffin Way,Chelsea,MA,02150,(617) 569-7450,7:30 am - 6:00 pm,63
+574,Johnys Auto Center,"['Auto Repair & Service', 'Used Car Dealers']",120 Blue Hill Ave,Roxbury,MA,02119,(617) 427-1849,,10
+575,Ar Auto Body,"['Auto Repair & Service', 'Automobile Body Shop Equipment & Supplies', 'Automobile Repairing & Service-Equipment & Supplies']",120 Quincy St,Dorchester,MA,02121,(617) 606-7067,7:00 am - 7:00 pm,9
+576,Heron Auto Body & Tow Inc,"['Automobile Body Shop Equipment & Supplies', 'Automobile Body Repairing & Painting', 'Dent Removal']",30 Blue Hill Ave,Roxbury,MA,02119,(617) 445-2902,,9
+577,White's Auto Body,"['Automobile Body Shop Equipment & Supplies', 'Automobile Body Repairing & Painting', 'Automobile Repairing & Service-Equipment & Supplies']",75 Vine St,Everett,MA,02149,(617) 387-7609,8:00 am - 5:00 pm,35
+578,Woodbine Automotive,"['Auto Repair & Service', 'Automobile Parts & Supplies']",229 Lowell St,Somerville,MA,02144,(617) 628-9628,9:00 am - 5:00 pm,21
+579,J & W Collision Center,"['Auto Repair & Service', 'Automobile Parts & Supplies', 'Engines-Diesel-Fuel Injection Parts & Service']",261 Mystic Ave,Medford,MA,02155,(339) 221-5006,,11
+580,Roper's Auto Repair,['Auto Repair & Service'],270 Talbot Ave,Dorchester Center,MA,02124,(617) 287-9443,9:00 am - 5:00 pm,23
+581,Majestic Motors Inc,"['Auto Repair & Service', 'Towing', 'New Car Dealers']",14 Furlong Dr,Revere,MA,02151,(781) 289-1800,8:00 am - 5:00 pm,76
+582,Grava Chrysler Dodge Jeep Ram SRT,"['Auto Repair & Service', 'New Car Dealers', 'Used Car Dealers']",29 Mystic Ave,Medford,MA,02155,(781) 391-8950,9:00 am - 8:00 pm,95
+583,La Joya Auto Sales,"['Auto Repair & Service', 'Used Car Dealers', 'New Car Dealers']",1420 N Shore Rd,Revere,MA,02151,(781) 284-3094,8:00 am - 6:00 pm,29
+584,Brighton Auto Service,"['Auto Repair & Service', 'Automobile Parts & Supplies', 'Automobile Inspection Stations & Services']",25 Chestnut Hill Ave,Brighton,MA,02135,(617) 254-9437,7:30 am - 5:30 pm,51
+585,Dick's Auto Body Inc,"['Auto Repair & Service', 'Automobile Body Repairing & Painting']",95 Elmwood St,Somerville,MA,02144,(617) 625-9171,9:00 am - 5:00 pm,67
+586,Scott's Auto Repair,['Auto Repair & Service'],96 Pauline St,Winthrop,MA,02152,(617) 539-4456,7:00 am - 4:00 pm,17
+587,Leins Auto,"['Auto Repair & Service', 'Used Car Dealers', 'Auto Transmission']",65 1/2 Bow St,Somerville,MA,02143,(617) 623-9000,7:30 am - 6:00 pm,20
+588,"Four Wheels Auto, LLC",['Auto Repair & Service'],83a Albion St,Somerville,MA,02143,(617) 629-0030,9:00 am - 5:00 pm,11
+589,Automotive Services of Medford,"['Auto Repair & Service', 'Automobile Diagnostic Service', 'Automobile Air Conditioning Equipment-Service & Repair']",243 Mystic Ave,Medford,MA,02155,(781) 395-1330,8:00 am - 5:00 pm,15
+590,Ravelo's Auto Sales & Repair,['Auto Repair & Service'],144 Mystic Ave,Medford,MA,02155,(781) 391-1070,8:00 am - 6:00 pm,
+591,Cambridge Auto Repair,"['Auto Repair & Service', 'Windshield Repair']",48 New St,Cambridge,MA,02138,(617) 602-5672,9:00 am - 5:00 pm,21
+592,D & M Auto Body,"['Auto Repair & Service', 'Automobile Body Repairing & Painting']",118 Terrace St,Roxbury Crossing,MA,02120,(617) 427-9207,9:00 am - 5:00 pm,26
+593,Jamaica Plain Auto Body,"['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'Wheel Alignment-Frame & Axle Servicing-Automotive']",18 Rock Hill Rd,Jamaica Plain,MA,02130,(617) 524-2092,9:00 am - 5:00 pm,36
+594,Chevy Auto Body,"['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'Towing']",82 Christopher St,Dorchester,MA,02122,(617) 825-9687,,53
+595,K & A Auto Body,"['Auto Repair & Service', 'Automobile Body Repairing & Painting']",18 Harvard Ave,Dorchester,MA,02121,(617) 506-7748,8:30 am - 5:00 pm,
+596,Commonwealth Auto Body,"['Auto Repair & Service', 'Automobile Body Repairing & Painting']",335 Lee Burbank Hwy,Revere,MA,02151,(781) 289-2400,8:00 am - 5:00 pm,9
+597,Ocean Auto Body,"['Auto Repair & Service', 'Automobile Body Repairing & Painting']",220 Veterans Rd,Winthrop,MA,02152,(617) 846-7889,8:00 am - 5:00 pm,25
+598,Tony's Auto Repair,"['Auto Repair & Service', 'Automobile Body Repairing & Painting']",168 Norwell St,Dorchester Center,MA,02124,(617) 287-9659,9:00 am - 5:00 pm,12
+599,Cal's Auto Body,"['Auto Repair & Service', 'Automobile Body Repairing & Painting']",8 Argyle St,Winthrop,MA,02152,(617) 846-7180,9:00 am - 5:00 pm,37
+600,"Collision Headquarters, Inc","['Auto Repair & Service', 'Automobile Body Repairing & Painting']",1608 N Shore Rd,Revere,MA,02151,(781) 289-2000,9:00 am - 5:00 pm,24
+601,Mrt Autobody And Repair,"['Auto Repair & Service', 'Automobile Body Repairing & Painting']",270 Talbot Ave,Dorchester Center,MA,02124,(617) 288-1506,7:00 am - 4:00 pm,9
+602,Ally's Inner City,"['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'Used Car Dealers']",41 Norfolk St,Dorchester Center,MA,02124,(617) 265-2832,9:00 am - 6:00 pm,
+603,Krisco Corp,"['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'Dent Removal']",444 Somerville Ave,Somerville,MA,02143,(617) 666-4886,,
+604,Krista Auto Repair,"['Auto Repair & Service', 'Automobile Body Repairing & Painting']",151 Bow St,Everett,MA,02149,(857) 363-3030,,
+605,Ez Auto Repair,"['Auto Repair & Service', 'Automobile Body Repairing & Painting']",619 Somerville Ave,Somerville,MA,02143,(617) 623-2020,8:00 am - 5:00 pm,
+606,Joseph's Auto Services,"['Auto Repair & Service', 'Engine Rebuilding & Exchange', 'Auto Engine Rebuilding']",261 Mystic Ave,Medford,MA,02155,(781) 396-5969,9:00 am - 5:00 pm,19
+607,Medford Autobody & Repair,"['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'Automobile Body Shop Equipment & Supplies']",18 Locust St,Medford,MA,02155,(781) 391-3446,8:00 am - 5:00 pm,27
+608,H W Automobile Repair,"['Auto Repair & Service', 'Gas Stations', 'Automobile Electric Service']",140 Mystic Ave,Medford,MA,02155,(781) 396-4500,8:00 am - 6:00 pm,9
+609,New St Auto Service,"['Auto Repair & Service', 'Automobile Body Repairing & Painting']",48 New St,Cambridge,MA,02138,(617) 441-2135,,
+610,Commercial Auto Body Inc,"['Auto Repair & Service', 'Wheel Alignment-Frame & Axle Servicing-Automotive', 'Automobile Body Repairing & Painting']",15 Madison St,Malden,MA,02148,(781) 324-7185,9:00 am - 5:00 pm,55
+611,A and J Auto Collision,"['Auto Repair & Service', 'Automobile Body Repairing & Painting']",68 Broadway,Malden,MA,02148,(617) 294-1623,,
+612,Brookline Auto Body Inc,['Automobile Body Repairing & Painting'],40 Aspinwall Ave,Brookline,MA,02446,(617) 731-0570,,
+613,Dave's Auto Body Service,['Automobile Body Repairing & Painting'],420 Cambridge St,Allston,MA,02134,(800) 339-2123,,
+614,Beacon Collision,['Automobile Body Repairing & Painting'],69 N Beacon St,Allston,MA,02134,(617) 254-4640,9:00 am - 5:00 pm,23
+615,Brothers Autobody,['Automobile Body Repairing & Painting'],328 Washington St,Brighton,MA,02135,(617) 825-0775,,
+616,Exotic Collision Center Inc,['Automobile Body Repairing & Painting'],212 Everett St,Revere,MA,02151,(781) 286-9998,9:00 am - 5:00 pm,9
+617,Autobody Specialists,['Automobile Body Repairing & Painting'],430 Beach St,Revere,MA,02151,(781) 289-1757,9:00 am - 5:00 pm,
+618,Auto Art Body Work,['Automobile Body Repairing & Painting'],42 Dana St,Somerville,MA,02145,(617) 440-1019,,
+619,P & S Auto Body,['Automobile Body Repairing & Painting'],29 Bow St,Everett,MA,02149,(617) 381-1817,9:00 am - 5:00 pm,27
+620,Perfect Auto Body,['Automobile Body Repairing & Painting'],167 Broadway,Everett,MA,02149,(617) 389-0727,,15
+621,Family Auto Body,"['Automobile Body Repairing & Painting', 'Automobile Detailing', 'Car Wash']",88 E Elm St,Everett,MA,02149,(617) 381-4667,9:00 am - 5:00 pm,
+622,Bigelow Auto Body Inc,['Automobile Body Repairing & Painting'],20 Coolidge Ave,Watertown,MA,02472,(617) 924-7000,6:00 am - 5:00 pm,38
+623,Middlesex Auto Body,['Automobile Body Repairing & Painting'],64 Eastern AVE,Malden,MA,02148,(800) 294-0040,8:30 am - 5:00 pm,
+624,Dorchester Ave Auto Repair,['Auto Repair & Service'],887 Dorchester Ave,Dorchester,MA,02125,(617) 436-9104,9:00 am - 5:00 pm,22
+625,Radiator Express,"['Auto Repair & Service', 'Radiators Automotive Sales & Service']",345 Saint Paul St,Brookline,MA,02446,(617) 227-0102,,
+626,R & V Enterprises,['Auto Repair & Service'],337 3rd St,Chelsea,MA,02150,(617) 884-3338,9:00 am - 5:00 pm,15
+627,"Swanson Auto Services, Inc.",['Auto Repair & Service'],666 Brookline Ave,Brookline,MA,02445,(617) 738-4856,7:00 am - 6:00 pm,38
+628,Parkman Service,['Auto Repair & Service'],524 Warren St,Dorchester,MA,02121,(800) 564-2729,9:00 am - 5:00 pm,
+629,Jamaliy Auto Service,['Auto Repair & Service'],3012 Washington St,Roxbury,MA,02119,(800) 540-9468,9:00 am - 5:00 pm,
+630,New England Auto Repair,['Auto Repair & Service'],1263 Saratoga St,East Boston,MA,02128,(617) 567-2377,9:00 am - 5:00 pm,21
+631,Roy's Auto Services,['Auto Repair & Service'],281 Western Ave,Allston,MA,02134,(617) 562-8313,,
+632,McAuto Repair,"['Auto Repair & Service', 'Automotive Tune Up Service']",3162 Washington St,Jamaica Plain,MA,02130,(617) 522-4503,9:00 am - 5:00 pm,10
+633,Robert Rich Auto Repair,"['Auto Repair & Service', 'Gas Stations']",90 Pauline St,Winthrop,MA,02152,(617) 846-9809,,25
+634,Duval's Auto Repair,['Auto Repair & Service'],5 Revere St,Winthrop,MA,02152,(617) 846-9798,9:00 am - 5:00 pm,45
+635,Delroys-Auto-Repair,"['Auto Repair & Service', 'Automobile Diagnostic Service', 'Brake Repair']",780 Blue Hill Ave,Dorchester Center,MA,02124,(617) 436-8842,,
+636,Christopher's Auto,['Auto Repair & Service'],89 Veterans Rd,Winthrop,MA,02152,(617) 846-1414,9:00 am - 5:00 pm,17
+637,Walsh's Garage,['Auto Repair & Service'],195 Market St,Brighton,MA,02135,(800) 439-4489,9:00 am - 5:00 pm,
+638,Peppie's Auto Repair,['Auto Repair & Service'],30 Argyle St,Winthrop,MA,02152,(617) 539-4868,9:00 am - 5:00 pm,20
+639,Tom's Auto Repair,['Auto Repair & Service'],61 Tenean St,Dorchester,MA,02122,(617) 436-9811,9:00 am - 5:00 pm,32
+640,Tony's Auto Repair,['Auto Repair & Service'],646 Washington St,Dorchester Center,MA,02124,(617) 265-2378,,
+641,Metro Auto Center,['Auto Repair & Service'],32 Norfolk St,Dorchester Center,MA,02124,(617) 436-1770,9:00 am - 5:00 pm,26
+642,Summerville Gas,['Auto Repair & Service'],73 Summer St,Somerville,MA,02143,(617) 776-6667,,
+643,Colucci Auto Repair,"['Auto Repair & Service', 'Engine Rebuilding & Exchange', 'Auto Engine Rebuilding']",10 Beacham St,Everett,MA,02149,(617) 387-3430,8:00 am - 5:00 pm,33
+644,Good Gas,"['Auto Repair & Service', 'Gas Stations', 'Brake Repair']",345 Medford St,Somerville,MA,02145,(617) 776-0590,9:00 am - 5:00 pm,10
+645,Mario's Auto Repair,['Auto Repair & Service'],363 3rd St,Everett,MA,02149,(617) 389-9700,,16
+646,Auto Clinic,['Auto Repair & Service'],365 3rd St,Everett,MA,02149,(617) 294-1066,,9
+647,Gama Auto Repair,['Auto Repair & Service'],88 E Elm St,Everett,MA,02149,(617) 294-1578,9:00 am - 5:00 pm,
+648,Beacon Streetwise,"['Auto Repair & Service', 'Automobile Repairing & Service-Equipment & Supplies']",266 Beacon St,Somerville,MA,02143,(617) 714-3923,,
+649,Union Auto Repair And Truck,['Auto Repair & Service'],1795 Revere Beach Pkwy,Everett,MA,02149,(617) 387-8288,,10
+650,Wakefield Motors Inc,['Auto Repair & Service'],83 Albion St,Somerville,MA,02143,(617) 629-0030,,
+651,Auto Plus,['Auto Repair & Service'],229 Lowell St,Somerville,MA,02144,(617) 628-9628,9:00 am - 5:00 pm,4
+652,Fred's Auto Svc,"['Auto Repair & Service', 'Gas Stations', 'Convenience Stores']",385 Mystic Ave,Medford,MA,02155,(781) 395-9557,8:00 am - 5:30 pm,
+653,Richie's Service Center Inc,"['Auto Repair & Service', 'Gas Stations', 'Brake Repair']",100 Hicks Ave,Medford,MA,02155,(781) 393-0304,7:30 am - 6:00 pm,24
+654,Simon's Auto Service,"['Auto Repair & Service', 'Gas Stations', 'Convenience Stores']",166 Boston Ave,Somerville,MA,02144,(617) 628-8383,,
+655,Chris' Auto Service,['Auto Repair & Service'],371 Highland Ave,Somerville,MA,02144,(617) 623-5200,8:00 am - 6:00 pm,11
+656,A And B Auto Repair-Medford,['Auto Repair & Service'],425 Main St,Medford,MA,02155,(339) 221-5230,,
+657,Harvard Street Garage,"['Auto Repair & Service', 'Gas Stations']",255 Mystic Ave,Medford,MA,02155,(781) 395-0210,,
+658,Bostonian Car Care,"['Auto Repair & Service', 'Car Wash', 'Automobile Detailing']",255 Mystic Ave,Medford,MA,02155,(781) 395-9090,8:00 am - 7:00 pm,21
+659,Tony's Auto Repair,['Auto Repair & Service'],21 Locust St,Medford,MA,02155,(781) 395-8011,8:00 am - 6:00 pm,20
+660,Genualdo's Auto Service,"['Auto Repair & Service', 'Engine Rebuilding & Exchange', 'Auto Engine Rebuilding']",3 Woodlawn Ave,Everett,MA,02149,(617) 294-4748,9:00 am - 5:00 pm,42
+661,E & M Auto Clinic Inc,['Auto Repair & Service'],325 Fresh Pond Pkwy,Cambridge,MA,02138,(617) 354-4605,,42
+662,Hayg Auto Repair,"['Auto Repair & Service', 'Towing', 'Automobile Inspection Stations & Services']",605 Mount Auburn St,Cambridge,MA,02138,(617) 354-0871,8:00 am - 6:00 am,
+663,Fresh Pond Gas,"['Auto Repair & Service', 'Gas Stations', 'New Car Dealers']",480 Concord Ave,Cambridge,MA,02138,(617) 492-9073,Open 24 Hours,
+664,Grizz Auto Repair,['Auto Repair & Service'],48 New St,Cambridge,MA,02138,(617) 945-2984,9:00 am - 5:00 pm,
+665,Westside Automotive,['Auto Repair & Service'],30 Charles St,Malden,MA,02148,(781) 321-9000,,9
+666,Volsar Automotive Inc,"['Auto Repair & Service', 'Automotive Tune Up Service', 'Automobile Electric Service']",16 Mystic Ave,Medford,MA,02155,(781) 391-4848,7:30 am - 5:00 pm,41
+667,Local Auto Repair,['Auto Repair & Service'],165 Eastern Ave,Malden,MA,02148,(781) 333-5445,,11
+668,Mike's Auto Repair,"['Auto Repair & Service', 'New Car Dealers', 'Automobile Electric Service']",735 Mount Auburn St,Watertown,MA,02472,(617) 924-7159,9:00 am - 5:00 pm,20
+669,KMB Garage Inc,['Auto Repair & Service'],144 Arlington St,Watertown,MA,02472,(617) 923-3780,9:00 am - 5:00 pm,23
+670,Aggy Auto Repair,['Auto Repair & Service'],91 Broadway,Malden,MA,02148,(781) 605-1586,9:00 am - 5:00 pm,
+671,Hicks Auto Body,"['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'Towing']",,,,,(617) 825-1545,7:00 am - 4:00 pm,50
+672,Hynes Auto Repair,"['Auto Repair & Service', 'Automobile Diagnostic Service', 'Automobile Inspection Stations & Services']",10 Redford St,Allston,MA,02134,(617) 734-6747,9:00 am - 5:00 pm,
+673,Ace Auto Body Service,"['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'Truck Service & Repair']",35 Tenean St Ste 2,Dorchester,MA,02122,(617) 825-1264,Open 24 Hours,27
+674,Midas,"['Auto Repair & Service', 'Automobile Parts & Supplies', 'Brake Repair']",120 Boylston St,Brookline,MA,02445,(617) 651-3240,7:30 am - 6:00 pm,18
+675,Wooding's Garage,"['Auto Repair & Service', 'Automobile Electric Service', 'Brake Repair']",30 Penniman Rd,Allston,MA,02134,(617) 782-4574,8:00 am - 5:00 pm,41
+676,J & P Garage Inc,['Auto Repair & Service'],9 Eatonia St,Allston,MA,02134,(617) 254-8993,8:00 am - 6:00 pm,50
+677,Koko's Garage,"['Auto Repair & Service', 'Auto Oil & Lube', 'Automotive Tune Up Service']",651 Mount Auburn St,Cambridge,MA,02138,(617) 576-2757,,
+678,Stadium Auto Body Inc,"['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'Towing']",305 Western Ave,Allston,MA,02134,(617) 254-6163,7:30 am - 5:30 pm,52
+679,Jiffy Lube,"['Auto Repair & Service', 'Auto Oil & Lube', 'Tire Dealers']",222 Mystic Ave,Medford,MA,02155,(781) 395-4835,8:00 am - 6:00 pm,5
+680,Motorsport Garage,"['Auto Repair & Service', 'Automobile Restoration-Antique & Classic', 'Brake Repair']",410 Cambridge St,Allston,MA,02134,(617) 783-3078,9:00 am - 5:00 pm,45
+681,Top Auto Center,"['Auto Repair & Service', 'Auto Transmission', 'Automobile Body Repairing & Painting']",281 lee burbank highway suite 2,revere,MA,02151,(781) 656-5867,7:00 am - 9:00 pm,
+682,Middlesex Collision INC,"['Auto Repair & Service', 'Windshield Repair', 'Automobile Body Repairing & Painting']",9 Whitman St,Malden,MA,02148,(781) 322-0700,8:00 am - 5:00 pm,19
+683,NTB - National Tire & Battery,"['Auto Repair & Service', 'Automobile Parts & Supplies', 'Brake Repair']",1920 Revere Beach Pkwy,Everett,MA,02149,(617) 430-4597,,29
+684,Eastern Ave Auto Body,"['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'New Car Dealers']",481 Eastern Ave,Chelsea,MA,02150,(617) 884-0188,8:00 am - 6:00 pm,50
+685,Fellsway Auto Repair,"['Auto Repair & Service', 'Automobile Body Repairing & Painting']",693 Mcgrath Hwy,Somerville,MA,02145,(617) 628-0806,7:30 am - 6:30 pm,22
+686,A & P Collision Ctr.,"['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'Windshield Repair']",80 Swan St,Medford,MA,02155,(781) 874-0731,7:30 am - 5:00 pm,10
+687,Boston Auto Tech,"['Auto Repair & Service', 'Brake Repair', 'Automobile Diagnostic Service']",1390 Dorchester Ave,Dorchester,MA,02122,(617) 436-6400,8:00 am - 6:00 pm,15
+688,A & M Foreign Motors Inc,"['Auto Repair & Service', 'Automobile Inspection Stations & Services', 'Automobile Diagnostic Service']",400 Mystic Ave,Somerville,MA,02145,(617) 776-1760,8:00 am - 5:00 pm,72
+689,J & D Auto Shop,"['Auto Repair & Service', 'Automobile Body Repairing & Painting']",316 Norfolk Ave,Dorchester,MA,02125,(617) 427-5281,9:00 am - 5:00 pm,10
+690,Ramos Autobody,"['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'Automobile Detailing']",337 3rd St,Chelsea,MA,02150,(617) 884-8500,9:00 am - 5:00 pm,
+691,Foreign Auto Body Co,"['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'Auto Oil & Lube']",259 Cambridge St,Allston,MA,02134,(617) 254-0778,9:00 am - 5:00 pm,65
+692,Armen's Auto Body,"['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'Towing']",10 Glenville Ter,Allston,MA,02134,(617) 782-7866,9:00 am - 5:00 pm,8
+693,Alfredo Auto Repair,"['Auto Repair & Service', 'Automobile Body Repairing & Painting']",58 Geneva Ave,Dorchester,MA,02121,(617) 442-2767,9:00 am - 5:00 pm,22
+694,Mecca Motors,"['Auto Repair & Service', 'Automobile Parts & Supplies', 'Auto Transmission']",30 Penniman Rd,Allston,MA,02134,(617) 787-1707,7:30 am - 6:00 pm,33
+695,Columbus Auto Body Inc,"['Auto Repair & Service', 'Automobile Body Repairing & Painting']",269 Washington St,Dorchester,MA,02121,(617) 282-0500,9:00 am - 5:00 pm,58
+696,FJ Auto Repair,"['Auto Repair & Service', 'Automobile Body Repairing & Painting']",5 Washington St,Brighton,MA,02135,(617) 879-3400,8:00 am - 6:00 pm,10
+697,Medford Auto Center,"['Auto Repair & Service', 'Automobile Body Repairing & Painting']",397 Riverside Ave,Medford,MA,02155,(781) 395-7800,8:00 am - 6:00 pm,27
+698,Allston Auto Body Inc,['Automobile Body Repairing & Painting'],10 Redford St,Allston,MA,02134,(617) 254-6621,,
+699,Crossing Auto Repair,['Auto Repair & Service'],30 Terrace St,Roxbury Crossing,MA,02120,(617) 442-3113,9:00 am - 6:00 pm,25
+700,Quiles Auto Repair,"['Auto Repair & Service', 'Gas Stations']",67 Blue Hill Ave,Roxbury,MA,02119,(617) 606-3570,9:00 am - 5:00 pm,14
+701,M P Auto Service,['Auto Repair & Service'],67 Blue Hill Ave,Roxbury,MA,02119,(617) 445-0300,,
+702,D & M Auto Doctor,"['Auto Repair & Service', 'Automobile Inspection Stations & Services', 'Automobile Diagnostic Service']",1181 Bennington St,East Boston,MA,02128,(617) 567-7705,8:00 am - 5:00 pm,20
+703,Alston Auto Tech,['Auto Repair & Service'],Craftsman,Allston,MA,02134,(617) 779-7262,,15
+704,Express Automobile Rental Service,['Auto Repair & Service'],286 Adams St,Dorchester,MA,02122,(617) 282-5346,8:00 am - 6:00 pm,
+705,Minh Son Auto Repair,['Auto Repair & Service'],1607 Dorchester Ave,Dorchester,MA,02122,(617) 282-1882,,
+706,A & K Waste Systems Inc,"['Auto Repair & Service', 'Automobile Repairing & Service-Equipment & Supplies']",41 Argyle St,Winthrop,MA,02152,(617) 846-3209,9:00 am - 5:00 pm,32
+707,Pij Auto Repair,['Auto Repair & Service'],1540 N Shore Rd,Revere,MA,02151,(781) 284-0013,8:00 am - 6:00 pm,11
+708,Perriello Bros Serv Station,['Auto Repair & Service'],737 Broadway,Revere,MA,02151,(781) 289-2160,,1
+709,Revere Auto Performance Inc,['Auto Repair & Service'],766 Broadway,Revere,MA,02151,(781) 284-2644,9:00 am - 5:00 pm,9
+710,D & M Foreign Auto,['Auto Repair & Service'],29 Garden St,Everett,MA,02149,(617) 389-0100,9:00 am - 5:00 pm,15
+711,A A Automobile Repairs Incorporated,['Auto Repair & Service'],619 Somerville Ave,Somerville,MA,02143,(617) 623-2020,,
+712,Main Street Garage,['Auto Repair & Service'],339 Main St,Everett,MA,02149,(617) 294-6277,,12
+713,Medford Brake & Wheel,['Auto Repair & Service'],11 Hall St,Medford,MA,02155,(781) 391-1693,8:00 am - 5:00 pm,41
+714,North Atlantic Frame & Align,['Auto Repair & Service'],12 Locust St,Medford,MA,02155,(781) 396-8900,9:00 am - 4:00 pm,33
+715,In Motion Repair,['Auto Repair & Service'],163 Eastern Ave,Malden,MA,02148,(781) 480-4236,9:00 am - 5:00 pm,8
+716,Jiffy Lube,"['Auto Repair & Service', 'Auto Oil & Lube', 'Automobile Air Conditioning Equipment-Service & Repair']",100 Broadway,Malden,MA,02148,(781) 397-6865,7:00 am - 7:00 pm,
+717,NTB - National Tire & Battery,"['Auto Repair & Service', 'Automobile Parts & Supplies', 'Brake Repair']",,,,,(617) 420-8485,,23
+718,Brighton Motor Service,"['Auto Repair & Service', 'Wheel Alignment-Frame & Axle Servicing-Automotive', 'Towing']",118 N Beacon St,Brighton,MA,02135,(617) 254-9620,8:30 am - 6:30 pm,
+719,Glenville Terrace Auto Body,"['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'Brake Repair']",10 Glenville Ter,Allston,MA,02134,(617) 783-1515,8:00 am - 6:00 pm,16
+720,Midas,"['Auto Repair & Service', 'Automobile Parts & Supplies', 'Brake Repair']",65 Commercial St,Malden,MA,02148,(781) 338-5971,7:30 am - 6:00 pm,6
+721,Malden Auto Body,"['Dent Removal', 'Automobile Body Repairing & Painting']",87 Broadway,Everett,MA,02149,(617) 389-3030,8:00 am - 6:00 pm,73
+722,Ming's Auto Repair Inc Automotive,"['Auto Repair & Service', 'Automobile Diagnostic Service', 'Tire Dealers']",14 Rena St,Allston,MA,02134,(617) 562-0640,8:00 am - 6:00 pm,25
+723,R & R Garage,"['Auto Repair & Service', 'Automobile Body Repairing & Painting']",737 Broadway,Revere,MA,02151,(781) 289-2160,8:00 am - 6:00 pm,9
+724,Amazing Auto Service,"['Auto Repair & Service', 'Automobile Repairing & Service-Equipment & Supplies']",507 Warren St,Dorchester,MA,02121,(617) 442-4793,8:30 am - 5:30 pm,19
+725,Johnson Automatic Transmissions,"['Auto Repair & Service', 'Auto Transmission', 'Auto Transmission Parts']",340 Middlesex Ave,Medford,MA,02155,(781) 396-8484,7:00 am - 5:00 pm,34
+726,Nick's Auto Service,"['Auto Repair & Service', 'Brake Repair', 'Auto Oil & Lube']",307 Main St,Medford,MA,02155,(781) 219-3785,8:00 am - 5:30 pm,11
+727,Grove Hall Auto Repair,['Auto Repair & Service'],15 Geneva Ave,Dorchester,MA,02121,(617) 635-1484,9:00 am - 5:00 pm,30
+728,Boston Automotive,"['Auto Repair & Service', 'Brake Repair', 'Automobile Parts & Supplies']",259 Cambridge St,Allston,MA,02134,(617) 782-4554,7:30 am - 5:00 pm,26
+729,Goodyear Auto Service,"['Auto Repair & Service', 'Tire Dealers']",300 Eastern Ave,Malden,MA,02148,(781) 324-8600,7:00 am - 7:00 pm,
+730,Everett Automatic Transmission,"['Auto Repair & Service', 'Auto Transmission']",556 Ferry St,Everett,MA,02149,(888) 458-4016,7:30 am - 5:00 pm,58
+731,Hi Tech Autobody,"['Dent Removal', 'Glass-Auto, Plate, Window, Etc', 'Automobile Body Repairing & Painting']",51 New St,Cambridge,MA,02138,(617) 876-9545,8:00 am - 5:00 pm,31
+732,Colonial Volkswagen of Medford,"['Auto Repair & Service', 'New Car Dealers', 'Automobile Parts & Supplies']",340 Mystic Ave,Medford,MA,02155,(781) 475-5200,9:00 am - 8:00 pm,12
+733,Colonial Nissan,"['Auto Repair & Service', 'New Car Dealers', 'Automobile Parts & Supplies']",104 Mystic Ave,Medford,MA,02155,(888) 290-8625,9:00 am - 8:00 pm,26
+734,E & J Auto Tech,"['Auto Repair & Service', 'Tire Dealers']",1891 Columbus Ave,Roxbury,MA,02119,(617) 522-4128,8:00 am - 6:00 pm,12
+735,Boston Foreign Motor,"['Auto Repair & Service', 'Used Car Dealers', 'Wholesale Used Car Dealers']",523 Cambridge St,Allston,MA,02134,(617) 254-6700,9:00 am - 8:00 pm,13
+736,Sentry Auto Group Ford,"['Auto Repair & Service', 'New Car Dealers', 'Wholesale Used Car Dealers']",4100 Mystic Valley Pkwy,Medford,MA,02155,(781) 395-6400,7:00 am - 8:00 pm,39
+737,Cypress Automart Sales & Services,"['Auto Repair & Service', 'Used Car Dealers', 'Automobile Inspection Stations & Services']",122 Cypress St,Brookline,MA,02445,(617) 232-5355,9:00 am - 6:00 pm,22
+738,Herb Chambers Honda in Boston,"['Auto Repair & Service', 'New Car Dealers', 'Automobile Parts & Supplies']",1186 Commonwealth Ave,Allston,MA,02134,(617) 731-0100,9:00 am - 9:00 pm,29
+739,Expressway Toyota,"['Auto Repair & Service', 'New Car Dealers', 'New Truck Dealers']",700 William T Morrissey Blvd,Dorchester,MA,02122,(617) 265-4321,8:30 am - 8:30 pm,28
+740,Usa Motors,"['Auto Repair & Service', 'Used Car Dealers']",404 Revere Beach Pkwy,Revere,MA,02151,(781) 286-0987,9:00 am - 5:30 pm,19
+741,Bbc Auto Repair,"['Automobile Body Shop Equipment & Supply-Wholesale & Manufacturers', 'Brake Repair', 'Tire Recap, Retread & Repair']",483 Somerville Ave,Somerville,MA,02143,(617) 234-0058,8:00 am - 6:00 pm,
+742,Sega Auto Sales,"['Auto Repair & Service', 'Used Car Dealers', 'Wholesale Used Car Dealers']",449 Ferry St,Malden,MA,02148,(781) 324-2334,9:00 am - 7:00 pm,24
+743,Infiniti Dealership,"['Auto Repair & Service', 'New Car Dealers', 'Automobile Parts & Supplies']",1198 Commonwealth Ave,Allston,MA,02134,(617) 739-6600,,21
+744,Glendale Auto brokers,"['Auto Repair & Service', 'Used Car Dealers', 'Gas Stations']",735 Broadway,Everett,MA,02149,(617) 389-2991,9:00 am - 7:00 pm,7
+745,Automaster,"['Auto Repair & Service', 'Used Car Dealers']",259 Main St,Malden,MA,02148,(781) 321-8181,Open 24 Hours,34
+746,Dorchester Tire Service,"['Auto Repair & Service', 'Tire Dealers', 'Automobile Parts & Supplies']",1160 Dorchester Ave,Dorchester,MA,02125,(617) 436-0900,7:00 am - 5:00 pm,58
+747,Oriental Car King Inc,"['Auto Repair & Service', 'New Car Dealers', 'Brake Repair']",283 Western Ave,Allston,MA,02134,(617) 787-1233,8:00 am - 6:00 pm,30
+748,Boston Volvo Village,"['Auto Repair & Service', 'New Car Dealers', 'Used Car Dealers']",61 N Beacon St,Allston,MA,02134,(888) 707-5524,9:00 am - 8:00 pm,63
+749,Herb Chambers INFINITI Of Boston,"['Auto Repair & Service', 'New Car Dealers', 'Automobile Parts & Supplies']",60 Mystic Ave,Medford,MA,02155,(617) 739-6600,9:00 am - 9:00 pm,
+750,M E Auto Accessories,"['Auto Repair & Service', 'Automobile Accessories', 'Automobile Parts & Supplies']",425 Salem St,Medford,MA,02155,(339) 221-5440,10:30 am - 6:30 pm,10
+751,Anthonys Auto Repair,"['Automobile Repairing & Service-Equipment & Supplies', 'Automobile Body Repairing & Painting']",619 Columbia Rd,Dorchester,MA,02125,(617) 265-1211,8:30 am - 6:30 pm,22
+752,Latin Sound,"['Auto Repair & Service', 'Automobile Radios & Stereo Systems', 'Automobile Alarms & Security Systems']",843 Broadway,Revere,MA,02151,(781) 629-5060,9:00 am - 6:00 pm,23
+753,Sullivan Tire & Auto Service,"['Auto Repair & Service', 'Tire Dealers']",263 Beacon St,Somerville,MA,02143,(857) 242-6600,7:30 am - 5:00 pm,
+754,Inman Motor Sales,"['Auto Repair & Service', 'Used Car Dealers']",1760 Revere Beach Pkwy,Everett,MA,02149,(844) 455-7020,9:00 am - 7:00 pm,20
+755,Pro Truck Collision & Repair,"['Auto Repair & Service', 'Truck Service & Repair', 'Automobile Body Repairing & Painting']",99 Bow St,Everett,MA,02149,(617) 944-9870,,5
+756,Colonial Nissan of Medford-Parts,"['Auto Repair & Service', 'Automobile Parts & Supplies', 'New Car Dealers']",162 Mystic Ave,Medford,MA,02155,(781) 395-3025,9:00 am - 8:00 pm,
+757,Kings Stunning Auto,"['Auto Repair & Service', 'Automobile Body Shop Equipment & Supplies', 'New Car Dealers']",64 Eastern Ave,Malden,MA,02148,(781) 397-1967,,10
+758,Robin Autobody,"['Automobile Parts & Supplies-Used & Rebuilt-Wholesale & Manufacturers', 'Automobile Parts & Supplies', 'Automobile Body Repairing & Painting']",110 Terrace St,Roxbury Crossing,MA,02120,(617) 427-8400,,7
+759,American Auto Collision,"['Used Car Dealers', 'Automobile Body Repairing & Painting']",155 N Beacon St,Brighton,MA,02135,(617) 782-7866,8:00 am - 6:00 pm,39
+760,Malden Autobody,"['Automobile Body Shop Equipment & Supplies', 'Automobile Repairing & Service-Equipment & Supplies', 'Automobile Body Repairing & Painting']",189 Eastern Ave,Malden,MA,02148,(781) 605-0440,,
+761,Stone Auto Body Supply,"['Automobile Body Shop Equipment & Supplies', 'Automobile Body Repairing & Painting', 'Automobile Parts & Supplies']",174 Arlington St,Watertown,MA,02472,(617) 924-8900,9:00 am - 5:00 pm,36
+762,Gem Auto Parts Co Inc,"['Auto Repair & Service', 'Automobile Parts & Supplies', 'Automobile Parts, Supplies & Accessories-Wholesale & Manufacturers']",204 Boston St,Dorchester,MA,02125,(617) 288-6032,7:30 am - 5:30 pm,63
+763,Trailer Equipment & Sales Inc,"['Auto Repair & Service', 'Recreational Vehicles & Campers', 'Trailers-Repair & Service']",95 2nd St,Chelsea,MA,02150,(617) 889-1420,,36
+764,Auto Credit Sales Inc,"['Auto Repair & Service', 'Used Car Dealers', 'New Car Dealers']",1258 Massachusetts Ave,Dorchester,MA,02125,(617) 436-7901,9:00 am - 8:00 pm,14
+765,Blue Hill Auto Sound,"['Auto Repair & Service', 'Automobile Radios & Stereo Systems', 'Automobile Accessories']",120 Blue Hill Ave,Roxbury,MA,02119,(617) 427-3555,8:00 am - 5:00 pm,11
+766,F 1 Motors Corp,"['Auto Repair & Service', 'Used Car Dealers']",200 Everett Ave,Chelsea,MA,02150,(617) 884-1300,9:00 am - 7:00 pm,10
+767,Archie's Truck Service,"['Auto Repair & Service', 'Tire Dealers', 'Tire Recap, Retread & Repair']",5 Vila St,Chelsea,MA,02150,(617) 884-2917,9:00 am - 5:00 pm,28
+768,Mejia Auto Repair,"['Auto Repair & Service', 'Automobile Parts & Supplies']",310 Columbia Rd,Dorchester,MA,02121,(617) 427-5696,,26
+769,Service Auto Sales and Tire DR,"['Auto Repair & Service', 'Tire Dealers', 'New Car Dealers']",257 Columbia Rd,Dorchester,MA,02121,(617) 288-1047,8:30 am - 7:00 pm,12
+770,Atlas Auto Rental,"['Auto Repair & Service', 'Truck Wrecking', 'Towing']",53 Freeport St,Dorchester,MA,02122,(617) 282-4942,,
+771,Moses Auto,"['Auto Repair & Service', 'New Car Dealers']",58 Geneva Ave,Dorchester,MA,02121,(617) 427-3210,9:00 am - 8:00 pm,10
+772,JP Auto Plaza Inc,"['Auto Repair & Service', 'New Car Dealers', 'Automobile Accessories']",3162 Washington St,Jamaica Plain,MA,02130,(617) 522-4001,9:00 am - 7:00 pm,
+773,Boston Motorsports Alfa Romeo Maserati,"['Auto Repair & Service', 'New Car Dealers', 'Used Car Dealers']",1650 Soldiers Field Rd,Brighton,MA,02135,(617) 870-7777,10:00 am - 6:00 pm,
+774,Headquarters Auto,"['Auto Repair & Service', 'Used Car Dealers']",105 Thornton St,Revere,MA,02151,(781) 629-5420,9:00 am - 5:00 pm,3
+775,Free Mobile Service Auto Glass,"['Auto Repair & Service', 'Glass-Auto, Plate, Window, Etc', 'Glass Doors']",85 American Legion Hwy,Revere,MA,02151,(781) 922-4457,,
+776,Side Street Motors,"['Auto Repair & Service', 'Used Car Dealers']",766 Broadway,Revere,MA,02151,(781) 284-1800,,19
+777,Majestic Motors,"['Auto Repair & Service', 'Used Car Dealers']",851 Broadway,Revere,MA,02151,(781) 284-9500,,
+778,D & W Autosales & Service,"['Auto Repair & Service', 'Used Car Dealers', 'New Car Dealers']",10 Ware St,Cambridge,MA,02138,(617) 864-4400,,
+779,D auto mall,"['Auto Repair & Service', 'Used Car Dealers']",10 Cabot Rd,Medford,MA,02155,(857) 206-4464,8:00 am - 5:00 pm,
+780,North Atlantic Diesel Service Inc,"['Auto Repair & Service', 'Diesel Engines', 'Marine Equipment & Supplies']",12 Locust St,Medford,MA,02155,(781) 396-8900,,
+781,A Shamrock Sign & Lettering Co,"['Auto Repair & Service', 'Truck Painting & Lettering']",50 Billings Ave,Medford,MA,02155,(781) 395-5686,9:00 am - 6:00 pm,13
+782,Engineered Truck Service Inc,"['Auto Repair & Service', 'Truck Service & Repair']",141 Mystic Ave,Medford,MA,02155,(781) 395-0838,8:00 am - 5:00 pm,36
+783,Highland Automotive,"['Auto Repair & Service', 'Clutches', 'Auto Transmission']",100 Highland Ave,Malden,MA,02148,(781) 324-1611,8:00 am - 6:00 pm,13
+784,Vahe's Garage,"['Auto Repair & Service', 'Parking Stations & Garages-Construction', 'Building Contractors-Commercial & Industrial']",651 Mount Auburn St,Cambridge,MA,02138,(617) 714-4569,8:00 am - 5:00 pm,37
+785,Main Auto Mall,"['Auto Repair & Service', 'New Car Dealers', 'Used Car Dealers']",259 Main St,Malden,MA,02148,(781) 321-1261,9:00 am - 7:00 pm,6
+786,Spadafora Choppers,"['Auto Repair & Service', 'Used Car Dealers', 'Towing']",129 Charles St,Malden,MA,02148,(781) 324-1912,10:30 am - 6:00 pm,74
+787,Spa Racing,"['Auto Repair & Service', 'Automobile Performance, Racing & Sports Car Equipment', 'Automobile Parts & Supplies']",163 Eastern Ave,Malden,MA,02148,(781) 324-3530,,
+788,Soil Auto Sales Inc,"['Auto Repair & Service', 'New Car Dealers', 'Car Rental']",163 Eastern Ave,Malden,MA,02148,(781) 605-2350,9:00 am - 7:00 pm,20
+789,Star Master Automall,"['Auto Repair & Service', 'Used Car Dealers']",225 Eastern Ave,Malden,MA,02148,(781) 399-0880,,
+790,Aa Automotive,"['Auto Repair & Service', 'Automobile Parts & Supplies']",81 Elm St,Watertown,MA,02472,(617) 924-9735,8:00 am - 6:00 pm,12
+791,Troups Truck & Auto,"['Auto Repair & Service', 'Truck Service & Repair', 'New Truck Dealers']",,,,,(617) 539-0404,,5
+792,MasterCraft Auto Body,"['Auto Repair & Service', 'Automobile Repairing & Service-Equipment & Supplies', 'Automobile Electric Service']",34 Blossom St,Chelsea,MA,02150,(617) 884-5900,7:00 am - 5:00 pm,
+793,Ideal Engine,"['Auto Repair & Service', 'Engine Rebuilding & Exchange', 'Auto Engine Rebuilding']",100 Dover St,Somerville,MA,02144,(617) 666-3737,7:30 am - 5:30 pm,59
+794,Lou's Custom Exhaust,"['Auto Repair & Service', 'Mufflers & Exhaust Systems', 'Brake Repair']",44 Union St,Medford,MA,02155,(781) 391-8484,8:00 am - 5:00 pm,20
+795,Avenue Auto Wholesale,"['Auto Repair & Service', 'Used Car Dealers', 'Automobile Body Repairing & Painting']",1121 Dorchester AVE,Dorchester,MA,02125,(617) 436-5010,8:30 am - 5:30 pm,
+796,Sandmans Auto Body & Repair,"['Auto Repair & Service', 'Automobile Body Shop Equipment & Supplies', 'Automobile Repairing & Service-Equipment & Supplies']",210 Washington St,Dorchester,MA,02121,(617) 506-0033,,12
+797,Mac's Auto Body Inc,"['Auto Repair & Service', 'Automobile Parts & Supplies', 'Automobile Body Repairing & Painting']",53 Russell St,Somerville,MA,02144,(617) 776-1166,7:30 am - 6:00 pm,47
+798,Century Tire & Auto Service,"['Auto Repair & Service', 'Tire Dealers', 'Brake Repair']",263 Beacon St,Somerville,MA,02143,(617) 547-7878,,
+799,Herb Chambers Porsche of Boston,"['Auto Repair & Service', 'New Car Dealers', 'Used Car Dealers']",1172 Commonwealth Ave,Allston,MA,02134,(888) 840-2174,9:00 am - 9:00 pm,19
+800,Dannys Tire & Auto,"['Auto Repair & Service', 'Tire Dealers']",18 Talbot Ave,Dorchester Center,MA,02124,(617) 436-2886,9:00 am - 5:00 pm,
+801,Affordable Auto Sales & Repair,"['Auto Repair & Service', 'Used Car Dealers', 'Towing']",83 Vine St,Everett,MA,02149,(617) 389-1992,8:00 am - 6:00 pm,16
+802,Acme Body & Paint Co,"['Auto Repair & Service', 'Automobile Parts & Supplies', 'Windshield Repair']",3430 Washington St,Jamaica Plain,MA,02130,(617) 522-6040,8:00 am - 5:00 pm,72
+803,El Dugout Autobody,"['Auto Repair & Service', 'Automobile Body Shop Equipment & Supplies', 'Automobile Body Repairing & Painting']",852 Blue Hill Ave,Dorchester Center,MA,02124,(617) 282-1396,9:00 am - 5:00 pm,22
+804,Confiance Auto Repair,"['Automobile Repairing & Service-Equipment & Supplies', 'Automobile Body Repairing & Painting']",190 New England Ave,Dorchester Center,MA,02124,(617) 506-7121,,
+805,Amtruck Auto & Truck Service,"['Auto Repair & Service', 'Truck Service & Repair', 'Brake Repair']",90 Western Ave,Allston,MA,02134,(617) 783-1555,9:00 am - 6:00 pm,
+806,Sullivan Tire Commercial Truck Tire Service,"['Auto Repair & Service', 'Tire Dealers', 'Brake Repair']",271 Lee Burbank Hwy,Revere,MA,02151,(781) 286-6924,8:00 am - 5:00 pm,
+807,United Auto & Truck Service,"['Auto Repair & Service', 'Truck Service & Repair']",11 Canal St,Malden,MA,02148,(781) 322-0606,7:00 am - 5:00 pm,17
+808,Audi Brookline,"['Auto Repair & Service', 'New Car Dealers', 'Used Car Dealers']",308 Boylston St,Brookline,MA,02445,(617) 734-2020,8:30 am - 8:00 pm,60
+809,Honda Cars of Boston,"['Auto Repair & Service', 'New Car Dealers', 'Automobile Parts & Supplies']",100 Broadway  Rt 99,Everett,MA,02149,(617) 381-9000,7:00 am - 9:00 pm,46
+810,Good Deal Auto Repair,"['Auto Repair & Service', 'Truck Service & Repair']",35 Garden St,Everett,MA,02149,(617) 389-9602,8:00 am - 6:00 pm,36
+811,Glass America,"['Automobile Body Repairing & Painting', 'Glass-Auto, Plate, Window, Etc', 'Windshield Repair']",555 Southern Artery,Quincy,MA,02169,(877) 758-2091,8:00 am - 5:00 pm,21
+812,Meineke Car Care Center,"['Auto Repair & Service', 'Automobile Electric Service', 'Mufflers & Exhaust Systems']",662 Southern Artery,Quincy,MA,02169,(617) 858-6191,7:30 am - 6:00 pm,31
+813,Meineke Car Care Center,"['Auto Repair & Service', 'Auto Oil & Lube', 'Automobile Air Conditioning Equipment-Service & Repair']",972 Main St,Winchester,MA,01890,(781) 827-5003,7:30 am - 6:00 pm,32
+814,Meineke Car Care Center,"['Auto Repair & Service', 'Automobile Air Conditioning Equipment-Service & Repair', 'Mufflers & Exhaust Systems']",411 Broad St,Lynn,MA,01901,(781) 691-6432,7:30 am - 6:00 pm,24
+815,Glass America,"['Automobile Body Repairing & Painting', 'Windows-Repair, Replacement & Installation', 'Windshield Repair']",220 Squire Rd,Revere,MA,02151,(781) 664-9435,8:00 am - 5:00 pm,21
+816,Superior Radio & Security Inc.,"['Auto Repair & Service', 'Automobile Parts & Supplies', 'Telecommunications-Equipment & Supply']",542 Lincoln Ave,Saugus,MA,01906,(781) 231-5110,8:30 am - 6:00 pm,33
+817,Lou's Oil Service,"['Auto Repair & Service', 'Industrial Equipment & Supplies', 'Heating Contractors & Specialties']",32 Newcomb St,Quincy,MA,02169,(617) 963-0482,8:00 am - 5:00 pm,27
+818,AAMCO Transmissions & Total Car Care,"['Auto Repair & Service', 'Automobile Air Conditioning Equipment-Service & Repair', 'Brake Repair']",740 American Legion Hwy,Roslindale,MA,02131,(617) 580-0629,7:30 am - 5:00 pm,57
+819,Safelite AutoGlass,"['Auto Repair & Service', 'Windshield Repair', 'Glass-Auto, Plate, Window, Etc']",614 Gallivan Blvd,Dorchester Center,MA,02124,(800) 558-8389,8:00 am - 5:00 pm,73
+820,Safelite AutoGlass,"['Auto Repair & Service', 'Glass-Auto, Plate, Window, Etc', 'Windshield Repair']",94 Massachusetts Ave,Arlington,MA,02474,(800) 928-7093,8:00 am - 5:00 pm,73
+821,Firestone Complete Auto Care,"['Auto Repair & Service', 'Automobile Diagnostic Service', 'Mufflers & Exhaust Systems']",339 Squire Rd,Revere,MA,02151,(781) 951-5595,,94
+822,Maaco Collision Repair & Auto Painting,"['Auto Repair & Service', 'Automobile Detailing', 'Dent Removal']",47 River St,Dedham,MA,02026,(339) 225-9593,8:00 am - 5:00 pm,43
+823,Firestone Complete Auto Care,"['Auto Repair & Service', 'Automobile Parts & Supplies', 'Auto Oil & Lube']",2 School St,Quincy,MA,02169,(617) 326-3290,,94
+824,Firestone Complete Auto Care,"['Auto Repair & Service', 'Wheel Alignment-Frame & Axle Servicing-Automotive', 'Automobile Inspection Stations & Services']",40 Arsenal St,Watertown,MA,02472,(617) 326-3283,8:00 am - 6:00 pm,94
+825,Firestone Complete Auto Care,"['Auto Repair & Service', 'Wheel Alignment-Frame & Axle Servicing-Automotive', 'Mufflers & Exhaust Systems']",1528a Vfw Pkwy,West Roxbury,MA,02132,(617) 229-5456,,94
+826,Arlmont Glass Inc,"['Auto Repair & Service', 'Windows', 'Bathroom Remodeling']",427 High St,Medford,MA,02155,(781) 391-2044,8:00 am - 4:30 pm,38
+827,Advanced Auto and Tire Repair,"['Auto Repair & Service', 'Automobile Parts & Supplies', 'Engine Rebuilding & Exchange']",800 Washington Ave,Revere,MA,02151,(781) 388-4900,8:00 am - 6:00 pm,35
+828,Avenue Auto Body,"['Auto Repair & Service', 'Automobile Repairing & Service-Equipment & Supplies', 'Towing']",29 Edgewater Dr,Mattapan,MA,02126,(617) 296-0028,7:00 am - 5:00 pm,55
+829,Eli's Service Station,"['Auto Repair & Service', 'Gas Stations', 'Brake Repair']",125 Broadway,Arlington,MA,02474,(781) 648-9833,8:00 am - 5:00 pm,
+830,Muneer's Auto Repair,"['Auto Repair & Service', 'New Car Dealers', 'Brake Repair']",220 Squire Rd,Revere,MA,02151,(781) 286-3300,8:00 am - 6:00 pm,11
+831,Malden Automotive,"['Auto Repair & Service', 'Automobile Diagnostic Service', 'New Car Dealers']",511 Broadway,Malden,MA,02148,(781) 322-3246,8:00 am - 5:00 pm,28
+832,Mario's Auto Body,['Automobile Body Repairing & Painting'],977 Broadway,Revere,MA,02151,(781) 284-9699,Open 24 Hours,41
+833,McCracken Automotive,"['Auto Repair & Service', 'Automobile Electric Service', 'Brake Repair']",107 Spring St,West Roxbury,MA,02132,(617) 325-2200,8:00 am - 5:30 pm,93
+834,Auto Depot Inc.,"['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'Automobile Restoration-Antique & Classic']",625 Hyde Park Ave,Roslindale,MA,02131,(617) 327-0800,8:00 am - 5:00 pm,
+835,Allston Custom Garage,"['Auto Repair & Service', 'Automobile Restoration-Antique & Classic', 'Automobile Electric Service']",106 Pleasant St,Watertown,MA,02472,(617) 924-4577,9:00 am - 5:00 pm,44
+836,Hynes Auto Body,"['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'Brake Repair']",14 Sheafe St,Chestnut Hill,MA,02467,(617) 731-9994,8:00 am - 6:00 pm,61
+837,European Collision Works,"['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'Dent Removal']",787 N Shore Rd,Revere,MA,02151,(781) 286-3692,8:00 am - 5:00 pm,24
+838,Varouj Auto Sports,"['Auto Repair & Service', 'Automobile Performance, Racing & Sports Car Equipment']",70 N Beacon St,Watertown,MA,02472,(617) 926-2566,8:00 am - 5:00 pm,44
+839,Todays Collision Malden,['Automobile Body Repairing & Painting'],375 Washington St,Malden,MA,02148,(781) 321-6080,8:00 am - 5:30 pm,
+840,1180 Boylston Inc,"['Auto Repair & Service', 'Gas Stations']",1180 Boylston St,Chestnut Hill,MA,02467,(617) 566-8000,,
+841,Canaa Auto Repair,['Auto Repair & Service'],870 Broadway,Revere,MA,02151,(781) 241-4750,,13
+842,DC Enterprises Unlimited,['Auto Repair & Service'],1236 Eastern Ave,Malden,MA,02148,(781) 324-0200,8:00 am - 5:00 pm,
+843,Bumper 2 Bumper,"['Auto Repair & Service', 'Automobile Parts & Supplies', 'Automobile Body Repairing & Painting']",320 Charger St Ste 3,Revere,MA,02151,(781) 284-9595,,31
+844,Sam's Gas & Svc,"['Auto Repair & Service', 'Gas Stations']",1027 Broadway,Revere,MA,02151,(781) 284-9419,,
+845,Kagan's Service Station,"['Auto Repair & Service', 'Gas Stations', 'Brake Repair']",907 N Shore Rd,Revere,MA,02151,(781) 284-9564,7:30 am - 6:00 pm,
+846,Squire Road Auto Repair,"['Auto Repair & Service', 'Automobile Inspection Stations & Services', 'Auto Oil & Lube']",194 Squire Rd,Revere,MA,02151,(781) 289-6070,8:00 am - 6:30 pm,
+847,Pine Banks Auto,"['Auto Repair & Service', 'Gas Stations']",1100 Main St,Malden,MA,02148,(781) 324-9323,8:00 am - 6:00 pm,45
+848,Stop N Gas Inc,"['Auto Repair & Service', 'Gas Stations', 'Convenience Stores']",970 Washington St,Dorchester Center,MA,02124,(617) 740-9550,5:00 am - 11:00 pm,
+849,Boston Jeepz,['Auto Repair & Service'],386 Suite B Arsenal St,Watertown,MA,02472,(617) 795-7048,6:00 am - 6:00 pm,13
+850,VIP Tires and Service,"['Auto Repair & Service', 'Tire Dealers', 'Brake Repair']",275 Arsenal St,Watertown,MA,02472,(617) 924-8700,7:30 am - 6:00 pm,94
+851,WAR Automotive Technology,['Auto Repair & Service'],364 Washington St,Malden,MA,02148,(781) 480-3291,8:00 am - 5:00 pm,7
+852,"D and L Auto Repair, Inc",['Auto Repair & Service'],1856 Dorchester Ave,Dorchester Center,MA,02124,(617) 282-1000,8:00 am - 5:00 pm,25
+853,Johns Oil And Gas Depot,"['Auto Repair & Service', 'Gas Stations']",200 Beach St,Malden,MA,02148,(781) 324-9409,,
+854,Watertown Service Inc,"['Auto Repair & Service', 'Gas Stations', 'Automobile Inspection Stations & Services']",39 Watertown St,Watertown,MA,02472,(617) 926-6822,7:00 am - 6:00 pm,
+855,Autoglass Replacement Newton MA,"['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'Automobile Detailing']",355 Washington St,Newton,MA,02458,(857) 856-5722,,26
+856,Mark's Auto Repair,"['Auto Repair & Service', 'Automobile Diagnostic Service']",46 Winter St,Malden,MA,02148,(781) 322-2422,8:00 am - 6:00 pm,20
+857,Boston Exclusive Car Care,"['Car Wash', 'Automobile Body Repairing & Painting', 'Automobile Detailing']",1000 Pleasant St,Belmont,MA,02478,(603) 560-1608,9:00 am - 7:00 pm,
+858,Emporium Gas Carwash & Express Lube,"['Auto Repair & Service', 'Gas Stations', 'Auto Oil & Lube']",3875 Washington St,Roslindale,MA,02131,(617) 524-4341,8:00 am - 7:00 pm,
+859,Goodyear Auto Service,"['Auto Repair & Service', 'Tire Dealers']",635 American Legion Hwy,Roslindale,MA,02131,(617) 522-6400,8:00 am - 5:00 pm,
+860,Keyspan Energy,['Auto Repair & Service'],201 Rivermoor St,West Roxbury,MA,02132,(617) 323-0524,8:00 am - 5:00 pm,
+861,Overlander,"['Auto Repair & Service', 'Auto Springs & Suspension', 'Tire Recap, Retread & Repair']",900 Eastern Ave,Malden,MA,02148,(781) 397-2900,7:30 am - 5:30 pm,8
+862,Arrows Auto Repair,"['Auto Repair & Service', 'Auto Oil & Lube']",1236 Eastern Ave,Malden,MA,02148,(781) 388-1100,8:00 am - 6:00 pm,4
+863,Mobile Auto Clinic Towing Service,"['Auto Repair & Service', 'Towing', 'Tire Dealers']",32 Birch Rd,Watertown,MA,02472,(617) 259-4497,Open 24 Hours,10
+864,Dossantos Auto Body Inc,"['Auto Repair & Service', 'Automobile Body Repairing & Painting']",109 Norfolk St,Dorchester Center,MA,02124,(617) 379-3033,,7
+865,Mattapan Auto Center Inc,"['Auto Repair & Service', 'Used Car Dealers', 'Automobile Body Repairing & Painting']",109 Norfolk St,Dorchester Center,MA,02124,(617) 533-8113,,4
+866,WM Body Work,"['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'Auto Body Parts']",171 Maplewood St,Malden,MA,02148,(617) 381-1817,8:00 am - 5:00 pm,8
+867,East Coast Auto Collision Center,"['Auto Repair & Service', 'Automobile Body Repairing & Painting']",796 Eastern Ave,Malden,MA,02148,(781) 912-2246,,7
+868,Alewife Automotive Center,"['Auto Repair & Service', 'Automobile Body Repairing & Painting']",10 Sunnyside Ave,Arlington,MA,02474,(781) 643-3644,7:45 am - 6:30 pm,4
+869,Exclusive Auto Design,"['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'Tire Dealers']",900 Eastern Ave,Malden,MA,02148,(781) 480-4442,,13
+870,Arsenal Collision Center,"['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'Towing']",386 Arsenal St,Watertown,MA,02472,(617) 924-0058,8:00 am - 5:30 pm,42
+871,Al's Auto Center,"['Auto Repair & Service', 'Automobile Body Repairing & Painting']",24 Hunting St,Malden,MA,02148,(617) 455-8087,8:00 am - 6:00 pm,
+872,Nelson's Auto Collision,"['Auto Repair & Service', 'Automobile Body Repairing & Painting']",672 Broadway,Malden,MA,02148,(781) 605-0882,,
+873,Lauren Fender,"['Auto Repair & Service', 'Automobile Body Repairing & Painting']",75 Park Avenue Ext,Arlington,MA,02474,(857) 309-8886,,1
+874,Palmers Automobile Body,"['Auto Repair & Service', 'Automobile Body Repairing & Painting']",712 Summer St,Arlington,MA,02474,(781) 646-1990,,14
+875,Confidence Auto Body Confidence,['Automobile Body Repairing & Painting'],190 New England Ave,Dorchester Center,MA,02124,(617) 282-1579,,
+876,Gemini Thai Body Work,['Automobile Body Repairing & Painting'],163 Squire Rd,Revere,MA,02151,(781) 289-2007,9:00 am - 5:00 pm,
+877,Autosal Inc,['Automobile Body Repairing & Painting'],12 Marshview Ter,Revere,MA,02151,(781) 605-1785,,
+878,Foreign and Domestic Auto Body,['Automobile Body Repairing & Painting'],1400 Vfw Pkwy,West Roxbury,MA,02132,(857) 547-8532,,
+879,Wellington Truck & Autobody Inc,['Automobile Body Repairing & Painting'],775 Eastern Ave,Malden,MA,02148,(781) 321-7100,,27
+880,Arsenal Auto Body,['Automobile Body Repairing & Painting'],386 Arsenal St,Watertown,MA,02472,(617) 924-0058,,
+881,Coach & Carriage Auto Body,"['Automobile Body Repairing & Painting', 'Radiators Automotive Sales & Service']",66 School St,Watertown,MA,02472,(617) 244-2000,7:30 am - 5:00 pm,
+882,Automotive Shop Near Me,['Automobile Body Repairing & Painting'],138 Quincy Shore Dr,Quincy,MA,02171,(617) 837-6511,,
+883,Mac's Auto Body Inc,['Automobile Body Repairing & Painting'],53 Russell St,Medford,MA,02155,(617) 776-1166,,50
+884,Quincy Gate Auto,['Automobile Body Repairing & Painting'],165 Hancock St,Quincy,MA,02171,(617) 302-4942,,
+885,Melrose Dodge,"['Automobile Body Repairing & Painting', 'New Car Dealers']",732 Broadway,Malden,MA,02148,(781) 324-7000,,
+886,Automobile Shop Near Me,['Automobile Body Repairing & Painting'],242 Gerry Rd,Chestnut Hill,MA,02467,(617) 935-0887,,
+887,Chaba Thai Spa and Body Works Inc,['Automobile Body Repairing & Painting'],11 John St,Newton Center,MA,02459,(617) 916-9754,,
+888,Roche Collision,['Automobile Body Repairing & Painting'],740 Beacon St,Newton Center,MA,02459,(617) 969-3910,9:00 am - 5:00 pm,69
+889,Vande Waters Collision Center,['Automobile Body Repairing & Painting'],18 Mill Ln,Arlington,MA,02476,(617) 322-9491,,
+890,Alpha Collision Center,['Automobile Body Repairing & Painting'],30 Park Avenue Ext,Arlington,MA,02474,(781) 646-4611,,7
+891,One Energy,"['Auto Repair & Service', 'Brake Repair']",2022 Commonwealth Ave,Brighton,MA,02135,(617) 254-7413,,8
+892,Thomas Automotive Services,['Auto Repair & Service'],197 Norfolk St,Dorchester Center,MA,02124,(617) 436-9595,9:00 am - 5:00 pm,
+893,Del Rio Auto Repair,['Auto Repair & Service'],64 Squire Rd,Revere,MA,02151,(781) 286-0509,,
+894,Saab Energy,"['Auto Repair & Service', 'Gas Stations']",761 Adams St,Dorchester,MA,02122,(617) 825-5789,,
+895,Dels Auto,['Auto Repair & Service'],288 Minot St,Dorchester Center,MA,02124,(800) 698-5576,,
+896,Breakneck Auto Repair,['Auto Repair & Service'],800 Washington Ave,Revere,MA,02151,(781) 241-4844,,
+897,Sunshine Auto,['Auto Repair & Service'],721 Morton St,Mattapan,MA,02126,(617) 296-4088,9:00 am - 5:00 pm,17
+898,Fransisco Auto Repair,"['Auto Repair & Service', 'Automobile Diagnostic Service', 'Auto Oil & Lube']",912 Morton St,Mattapan,MA,02126,(617) 828-5940,,9
+899,Lee Motors,['Auto Repair & Service'],855 Morton St,Mattapan,MA,02126,(617) 288-5800,,59
+900,Mechanic Auto Plus,['Auto Repair & Service'],2100 Dorchester Ave,Dorchester Center,MA,02124,(857) 309-4947,,
+901,Auto Repair Shop,['Auto Repair & Service'],718 American Legion Hwy,Roslindale,MA,02131,(857) 203-7791,,
+902,Auto Car Transportation,['Auto Repair & Service'],4184 Washington St,Roslindale,MA,02131,(617) 942-4130,,
+903,Auros,['Auto Repair & Service'],4198 Washington St,Roslindale,MA,02131,(617) 323-0105,,
+904,Peter's Auto Service,"['Auto Repair & Service', 'Auto Oil & Lube', 'Automotive Tune Up Service']",4275 Washington St,Roslindale,MA,02131,(617) 325-5100,7:00 am - 6:00 pm,29
+905,Getty,"['Auto Repair & Service', 'Gas Stations', 'Convenience Stores']",1744 Centre St,West Roxbury,MA,02132,(617) 323-3565,,28
+906,M P And G Tune Up,"['Auto Repair & Service', 'Gas Stations', 'Convenience Stores']",206 Salem St,Malden,MA,02148,(781) 322-6648,,
+907,Friendly Fuel,"['Auto Repair & Service', 'Gas Stations']",206 Salem St,Malden,MA,02148,(781) 322-6648,,
+908,Fellsway Gas & Service Inc,"['Auto Repair & Service', 'Gas Stations', 'Convenience Stores']",285 Fellsway W,Medford,MA,02155,(781) 391-9800,6:00 am - 10:00 pm,
+909,Skippy's Automotive,"['Auto Repair & Service', 'Automobile Parts & Supplies', 'Automobile Accessories']",93 Maplewood St,Malden,MA,02148,(781) 605-3585,8:00 am - 5:00 pm,3
+910,JM Auto,['Auto Repair & Service'],67 Maplewood St,Malden,MA,02148,(781) 605-1124,,
+911,Sica's Automotive Inc,"['Auto Repair & Service', 'Automobile Parts & Supplies', 'Automobile Accessories']",1114 Eastern Ave Ste 3,Malden,MA,02148,(781) 321-3600,8:00 am - 5:00 pm,25
+912,Autieres Garage,['Auto Repair & Service'],251 Broadway,Malden,MA,02148,(781) 605-0537,,
+913,Manar Quincy Auto Service,"['Auto Repair & Service', 'Gas Stations']",305 Quincy Shore Dr,Quincy,MA,02171,(617) 770-7999,,16
+914,Central Ave Auto Service,['Auto Repair & Service'],199 Commander Shea Blvd,Quincy,MA,02171,(617) 769-9467,9:00 am - 5:00 pm,36
+915,Superior Gas,"['Auto Repair & Service', 'Gas Stations']",60 Lebanon St,Malden,MA,02148,(781) 321-1965,,
+916,Point Auto Repair,['Auto Repair & Service'],324 Broadway,Malden,MA,02148,(781) 321-2328,,
+917,Jb Auto,['Auto Repair & Service'],324 Broadway,Malden,MA,02148,(781) 321-2328,,
+918,Mallett Automotive,['Auto Repair & Service'],40 Canal St,Medford,MA,02155,(781) 395-2930,,
+919,Quirk Edw S Co Inc,"['Auto Repair & Service', 'Wheel Alignment-Frame & Axle Servicing-Automotive', 'Automobile Electric Service']",275 Arsenal St,Watertown,MA,02472,(617) 924-8700,,
+920,TNT Auto Service Center,['Auto Repair & Service'],50 Brighton St,Belmont,MA,02478,(617) 489-5954,8:00 am - 5:00 pm,42
+921,Jds Auto Service Center,"['Auto Repair & Service', 'Emissions Inspection Stations', 'Automobile Inspection Stations & Services']",320 Newton St,Chestnut Hill,MA,02467,(617) 566-9219,,
+922,Arlington Svc Station,"['Auto Repair & Service', 'Gas Stations', 'Automobile Inspection Stations & Services']",334 Massachusetts Ave,Arlington,MA,02474,(781) 648-9878,,
+923,Auto Mechanic Souza,['Auto Repair & Service'],20 Warren St,Medford,MA,02155,(781) 874-0575,,
+924,Step One Child Care,['Auto Repair & Service'],4 Main St,Melrose,MA,02176,(781) 322-0026,,
+925,New England Auto,['Auto Repair & Service'],513 Broadway,Malden,MA,02148,(781) 388-1992,9:30 am - 6:00 pm,
+926,Arlington Motor Mart,['Auto Repair & Service'],20 Pond Ln,Arlington,MA,02474,(781) 643-1000,6:00 am - 5:00 pm,36
+927,Mutual,"['Auto Repair & Service', 'Gas Stations']",90 Trapelo Rd,Belmont,MA,02478,(617) 484-9899,,
+928,Common St Plumbing,"['Auto Repair & Service', 'Automobile Diagnostic Service', 'Automotive Tune Up Service']",500 Common St,Belmont,MA,02478,(617) 792-4584,7:00 am - 7:00 pm,5
+929,Al & Sons Service Station,"['Auto Repair & Service', 'Gas Stations']",638 High St,Medford,MA,02155,(781) 483-0800,,
+930,Joe's Automotive Repair Automotive Repair,['Auto Repair & Service'],530 Winthrop St,Medford,MA,02155,(781) 396-1108,,
+931,Bobs Auto Repair,['Auto Repair & Service'],19 Garden St,Arlington,MA,02474,(781) 643-4855,8:30 am - 5:00 pm,66
+932,Pleasant Street Shell,"['Auto Repair & Service', 'Gas Stations']",337 Pleasant St,Belmont,MA,02478,(617) 489-4852,7:00 am - 11:00 pm,
+933,Auto Repair & Service,['Auto Repair & Service'],735 Broadway,Malden,MA,02148,(781) 480-1133,,
+934,Beny's Automotive Lic,['Auto Repair & Service'],249 Centre St,Newton,MA,02458,(617) 964-6136,7:00 am - 7:00 pm,5
+935,Colonial Automotive,['Auto Repair & Service'],66 Galen St,Watertown,MA,02472,(617) 484-7500,,
+936,Arlington Auto Car,"['Auto Repair & Service', 'Gas Stations', 'Alternators & Generators-Automotive Repairing']",22 Mill St,Arlington,MA,02476,(781) 443-7197,,21
+937,Jp Automobile Services,['Auto Repair & Service'],429 Centre St,Newton,MA,02458,(617) 244-2374,,
+938,Auto Repair & Service,['Auto Repair & Service'],320 Washington St,Newton,MA,02458,(617) 831-4805,,
+939,Nu Rol Automobile Repair,['Auto Repair & Service'],280 Trapelo Rd,Belmont,MA,02478,(617) 489-6060,9:00 am - 5:00 pm,7
+940,Door Springs Repair,['Auto Repair & Service'],343 Washington St,Newton,MA,02458,(617) 431-1767,,
+941,Certified Automotive Solutions,['Auto Repair & Service'],286 Lebanon St,Melrose,MA,02176,(781) 662-4847,7:00 am - 6:00 pm,30
+942,R S Service,"['Auto Repair & Service', 'Gas Stations']",361 Washington St,Newton,MA,02458,(617) 964-3398,,
+943,Custom Car Care,['Auto Repair & Service'],10 Mill St # 2nd,Arlington,MA,02476,(781) 641-2532,8:00 am - 5:00 pm,14
+944,Village Automotive Group,['Auto Repair & Service'],371 Washington St,Newton,MA,02458,(617) 965-8200,7:00 am - 8:00 pm,
+945,Richie's Automotive Repair Center,['Auto Repair & Service'],353 Trapelo Rd,Belmont,MA,02478,(617) 484-9000,,
+946,Msm,"['Auto Repair & Service', 'Gas Stations']",320 Main St,Watertown,MA,02472,(617) 924-9670,,
+947,Coachworks Auto Repair,['Auto Repair & Service'],1000 Pleasant St,Belmont,MA,02478,(617) 489-4574,,
+948,Galen Street Automotive,"['Auto Repair & Service', 'Gas Stations']",170 Glen Ave,Newton Center,MA,02459,(617) 969-1163,,
+949,Custom Car Care,['Auto Repair & Service'],1010 Pleasant St,Belmont,MA,02478,(781) 641-2532,9:00 am - 5:00 pm,
+950,Good Deal Automotive,['Auto Repair & Service'],1000 Pleasant St,Belmont,MA,02478,(617) 484-0040,8:00 am - 6:00 pm,9
+951,B & R Auto Center Inc,['Auto Repair & Service'],31 Mount Vernon St,Arlington,MA,02476,(781) 643-8300,,
+952,Manzo Michael,['Auto Repair & Service'],326 Main St,Winchester,MA,01890,(781) 729-3160,,
+953,Mercer Automotive,['Auto Repair & Service'],163 Country Club Rd,Newton Center,MA,02459,(617) 965-4848,,
+954,Digiovanni's X-Treme Auto,"['Auto Repair & Service', 'Auto Transmission', 'Auto Engine Rebuilding']",124r Ballard St,Saugus,MA,01906,(617) 594-9800,9:00 am - 6:00 pm,5
+955,Arlington Auto,['Auto Repair & Service'],30 Park Ave,Arlington,MA,02476,(781) 648-1111,,
+956,Auto World,['Auto Repair & Service'],759 Lynnway,Lynn,MA,01905,(781) 599-1600,,
+957,Dependable Garage,['Auto Repair & Service'],34 Van Roosen Rd,Newton Center,MA,02459,(617) 313-7293,8:00 am - 10:00 pm,
+958,Norfolk Auto Body & Repair Shop Inc.,"['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'Brake Repair']",360 Norfolk St,Dorchester Center,MA,02124,(617) 436-9701,8:00 am - 4:30 pm,55
+959,Gulino's Auto Body,"['Auto Repair & Service', 'Automobile Body Repairing & Painting']",1062 Broadway,Revere,MA,02151,(781) 286-2311,9:00 am - 5:00 pm,44
+960,Elite Bodyworks Inc,"['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'Dent Removal']",3951 Washington St,Roslindale,MA,02131,(617) 522-3042,9:00 am - 5:00 pm,20
+961,Tony's Autobody Reconditioning,"['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'Automobile Air Conditioning Equipment-Service & Repair']",34 Sharon St,Malden,MA,02148,(781) 321-0032,9:00 am - 5:00 pm,36
+962,Ding-Dent-Done Paint Free Dent Repair,"['Automobile Body Repairing & Painting', 'Car Wash', 'Automobile Detailing']",92 College Ave,Arlington,MA,02474,(781) 643-9620,9:00 am - 5:00 pm,23
+963,Automotion,"['Auto Repair & Service', 'Automobile Repairing & Service-Equipment & Supplies']",802 Heath St,Chestnut Hill,MA,02467,(617) 566-0004,8:00 am - 5:30 pm,36
+964,Boston Motor Werks LLC,"['Auto Repair & Service', 'Electric Motors-Manufacturers & Distributors', 'Automotive Tune Up Service']",1000 Pleasant St,Belmont,MA,02478,(617) 489-0291,8:00 am - 5:00 pm,9
+965,Paul Revere Auto Inc,"['Auto Repair & Service', 'Automobile Body Repairing & Painting']",163r Squire Rd,Revere,MA,02151,(781) 284-0057,7:30 am - 5:00 pm,
+966,Brothers Auto Body,"['Auto Repair & Service', 'Automobile Body Repairing & Painting']",16 Naples Rd,Revere,MA,02151,(781) 629-1675,9:00 am - 5:00 pm,35
+967,Peter's Auto Body Inc,"['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'Automobile Parts & Supplies']",237 Hyde Park Ave,Jamaica Plain,MA,02130,(617) 524-2800,8:00 am - 5:00 pm,44
+968,Sergio's Auto Body,"['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'Automobile Body Shop Equipment & Supply-Wholesale & Manufacturers']",675 South St,Roslindale,MA,02131,(617) 327-7245,8:00 am - 5:00 pm,42
+969,Maplewood Motors Inc,"['Auto Repair & Service', 'Automobile Body Repairing & Painting']",271 Broadway,Malden,MA,02148,(781) 324-1178,8:00 am - 5:00 pm,
+970,"Fantasia's Automotive, Body & Frame Inc.","['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'Wheel Alignment-Frame & Axle Servicing-Automotive']",38 Harvard Ave,Medford,MA,02155,(781) 488-3800,8:00 am - 5:00 pm,35
+971,Malden Broadway Auto Body Inc,"['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'Towing']",590 Broadway,Malden,MA,02148,(781) 322-8284,7:00 am - 6:00 pm,75
+972,Alpha Omega Auto Body of Watertown,"['Auto Repair & Service', 'Automobile Body Repairing & Painting']",106 Pleasant St,Watertown,MA,02472,(617) 924-9734,7:30 am - 6:00 pm,24
+973,Jiffy Lube,"['Auto Repair & Service', 'Auto Oil & Lube', 'Tire Dealers']",84 Arsenal St,Watertown,MA,02472,(617) 924-4325,8:00 am - 5:00 pm,9
+974,Vip Auto Tech Inc,"['Auto Repair & Service', 'Brake Repair', 'Auto Oil & Lube']",1339 Blue Hill Ave,Mattapan,MA,02126,(617) 298-2412,8:00 am - 5:00 pm,23
+975,National Collision Center of Malden,['Automobile Body Repairing & Painting'],171 Maplewood St,Malden,MA,02148,(781) 480-4228,8:00 am - 5:00 pm,
+976,MD Automotive,"['Auto Repair & Service', 'Automotive Tune Up Service', 'Brake Repair']",550 Lincoln Ave,Saugus,MA,01906,(781) 231-0727,8:00 am - 5:00 pm,9
+977,Valvoline Instant Oil Change,"['Auto Repair & Service', 'Auto Oil & Lube', 'Automobile Inspection Stations & Services']",415 American Legion Hwy,Revere,MA,02151,(781) 289-5823,7:30 am - 7:00 pm,34
+978,Alh Services,"['Auto Repair & Service', 'Gas Stations']",753 American Legion Hwy,Roslindale,MA,02131,(617) 327-2515,8:00 am - 8:00 pm,
+979,Centre Street Automotive,['Auto Repair & Service'],1452 Centre St,Roslindale,MA,02131,(617) 323-6132,7:30 am - 5:30 pm,14
+980,Best Of Boston,"['Auto Repair & Service', 'Gas Stations']",4334 Washington St,Roslindale,MA,02131,(617) 469-0022,12:00 am - 11:59 pm,35
+981,Murphy Brothers Inc,"['Auto Repair & Service', 'Brake Repair', 'Auto Springs & Suspension']",57 Quincy Shore Dr,Quincy,MA,02171,(617) 328-1125,9:00 am - 5:00 pm,45
+982,J D Auto Center,"['Auto Repair & Service', 'Automotive Roadside Service', 'Towing']",320 Newton St,Brookline,MA,02467,(877) 402-7024,7:00 am - 11:00 pm,44
+983,Dudley Automotive Services Inc,"['Auto Repair & Service', 'Gas Stations']",9 Dudley Street Pl,Arlington,MA,02476,(781) 646-8473,8:00 am - 5:00 pm,41
+984,Delta Sales & Repairs,"['Auto Repair & Service', 'Automobile Body Repairing & Painting']",187 New England Ave,Dorchester Center,MA,02124,(617) 288-7780,8:00 am - 5:00 pm,25
+985,J & B Auto Body,"['Auto Repair & Service', 'Automobile Body Repairing & Painting']",1056 Blue Hill Ave,Dorchester Center,MA,02124,(617) 288-9321,9:00 am - 6:00 pm,22
+986,Neponset Circle Auto Body,"['Auto Repair & Service', 'Automobile Body Repairing & Painting']",25 Hallet St,Dorchester,MA,02122,(617) 282-1693,9:00 am - 5:00 pm,46
+987,Forrest Hills Auto Service,"['Auto Repair & Service', 'Used Car Dealers', 'Automotive Alternators & Generators']",235 Hyde Park Ave,Jamaica Plain,MA,02130,(617) 524-0001,8:30 am - 6:00 pm,25
+988,Mattapan Auto Body Rental & Repair,"['Auto Repair & Service', 'Automobile Electric Service', 'Brake Repair']",1339 Blue Hill Ave,Mattapan,MA,02126,(617) 298-2412,9:00 am - 5:00 pm,26
+989,Hynes Auto Center,"['Auto Repair & Service', 'Automobile Body Repairing & Painting']",331 Belgrade Ave,Roslindale,MA,02131,(617) 323-9800,8:00 am - 6:00 pm,7
+990,Hanson & Tilton Collision Repair Inc,"['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'Wheel Alignment-Frame & Axle Servicing-Automotive']",10 Sunnyside Ave,Arlington,MA,02474,(781) 643-3644,9:00 am - 5:00 pm,36
+991,"Bodyworks Unlimited, Inc.","['Auto Repair & Service', 'Automobile Body Repairing & Painting']",1114 Eastern Ave,Malden,MA,02148,(781) 322-1606,7:30 am - 4:30 pm,32
+992,L B's Auto Body,"['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'Engine Rebuilding & Exchange']",1176 Eastern Ave,Malden,MA,02148,(781) 388-2264,9:00 am - 5:00 pm,22
+993,C & C Collision,"['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'Windshield Repair']",271 Broadway,Malden,MA,02148,(781) 322-5241,8:00 am - 6:00 pm,38
+994,Michael Hynes Auto Repair,"['Auto Repair & Service', 'Automobile Body Repairing & Painting']",629 Hammond St,Chestnut Hill,MA,02467,(617) 666-7500,9:00 am - 5:00 pm,22
+995,Sonny & Sons Auto Body,"['Auto Repair & Service', 'New Car Dealers', 'Automobile Body Repairing & Painting']",26 Garden St,Arlington,MA,02474,(781) 643-5756,9:00 am - 5:00 pm,10
+996,Abramo Auto Body Inc,"['Auto Repair & Service', 'Automobile Body Repairing & Painting']",700 Broadway,Malden,MA,02148,(781) 605-2021,,29
+997,Amicone Auto Body,"['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'Car Wash']",550 Lincoln Ave,Saugus,MA,01906,(781) 233-7627,8:00 am - 5:00 pm,51
+998,East Coast Fenelon Auto Body,['Automobile Body Repairing & Painting'],6 Milton Ave,Dorchester Center,MA,02124,(617) 436-2145,9:00 am - 5:00 pm,30
+999,Action Collision Service,['Automobile Body Repairing & Painting'],1087 Broadway,Revere,MA,02151,(781) 289-9990,9:00 am - 5:00 pm,
+1000,Sampsom Auto Body,['Automobile Body Repairing & Painting'],5 Rhoades St,Dorchester Center,MA,02124,(617) 288-5885,9:00 am - 5:00 pm,28
+1001,Consultant For Mind Body Therapy,['Automobile Body Repairing & Painting'],283 Stratford St,West Roxbury,MA,02132,(617) 469-2157,,
+1002,J & A Autoworks,['Automobile Body Repairing & Painting'],796 Eastern Ave,Malden,MA,02148,(781) 321-8800,,
+1003,Munroe Auto Body & Glass,"['Automobile Body Repairing & Painting', 'New Car Dealers']",66 School St,Watertown,MA,02472,(617) 924-4845,8:00 am - 6:00 pm,
+1004,Arlington Center Auto Body,['Automobile Body Repairing & Painting'],4 Swan Pl,Arlington,MA,02476,(781) 641-0477,9:00 am - 5:00 pm,26
+1005,Chapman Auto Body,['Automobile Body Repairing & Painting'],672 Broadway,Malden,MA,02148,(781) 233-0220,9:00 am - 5:00 pm,
+1006,Paintless Dent Removal Professionals,['Automobile Body Repairing & Painting'],672 Broadway,Malden,MA,02148,(888) 314-3368,,
+1007,Mike Fender Design,['Automobile Body Repairing & Painting'],7 Kensington Rd,Arlington,MA,02476,(978) 256-2312,,
+1008,V L Auto Repair,['Auto Repair & Service'],109 Norfolk St,Dorchester Center,MA,02124,(617) 506-8711,9:00 am - 6:00 pm,10
+1009,Mondy Auto Repair,['Auto Repair & Service'],185 New England Ave,Dorchester Center,MA,02124,(617) 533-7442,9:00 am - 5:00 pm,7
+1010,Four Bros Auto Center,['Auto Repair & Service'],1856 Dorchester Ave,Dorchester Center,MA,02124,(617) 822-2695,,25
+1011,Joses Auto Repair,['Auto Repair & Service'],61O Hyde Park Ave,Jamaica Plain,MA,02130,(888) 226-3777,,
+1012,Newton St Garage,['Auto Repair & Service'],9 Newton St,Brighton,MA,02135,(617) 782-0985,9:00 am - 5:00 pm,
+1013,E & R Auto Repair,['Auto Repair & Service'],807 Washington St,Dorchester Center,MA,02124,(617) 825-2991,8:00 am - 5:00 pm,16
+1014,Foreign Auto Doctor,"['Auto Repair & Service', 'Tire Dealers']",610 Gallivan Blvd,Dorchester Center,MA,02124,(617) 825-5666,8:00 am - 5:00 pm,
+1015,Pro Automobile Repair,['Auto Repair & Service'],339 Squire Rd,Revere,MA,02151,(781) 284-6700,,7
+1016,Quality Auto Service,['Auto Repair & Service'],8 Frontenac St,Dorchester Center,MA,02124,(800) 649-2031,,
+1017,Quiles Auto Repair,"['Auto Repair & Service', 'Automobile Consultants']",904 Morton St,Mattapan,MA,02126,(857) 598-2420,8:00 am - 6:00 pm,10
+1018,Mahoney's Auto Service,['Auto Repair & Service'],398 Hyde Park Ave,Roslindale,MA,02131,(617) 323-7470,9:00 am - 5:00 pm,33
+1019,Jo-Lan Automotive,"['Auto Repair & Service', 'Automobile Parts & Supplies', 'New Car Dealers']",1422 Centre St,Roslindale,MA,02131,(617) 323-9549,7:30 am - 6:00 pm,17
+1020,JC Auto Repair Corp,['Auto Repair & Service'],67 Cummins Hwy,Roslindale,MA,02131,(617) 325-4199,8:00 am - 5:00 pm,26
+1021,Jose's Auto Repair,['Auto Repair & Service'],610 Hyde Park Ave,Roslindale,MA,02131,(617) 469-2472,8:00 am - 6:00 pm,20
+1022,G & M Auto Repair,['Auto Repair & Service'],172 Belgrade Ave,Roslindale,MA,02131,(617) 327-2050,9:00 am - 5:00 pm,26
+1023,Gns Auto Service Inc,"['Auto Repair & Service', 'Gas Stations', 'Used Car Dealers']",4455 Washington St,Roslindale,MA,02131,(617) 325-9944,7:00 am - 6:00 pm,8
+1024,Automotive Service of Belmont,['Auto Repair & Service'],259 Belmont St,Belmont,MA,02478,(617) 484-9898,7:00 am - 5:00 pm,22
+1025,Belmont Auto Repair,"['Auto Repair & Service', 'Automobile Parts & Supplies', 'Auto Springs & Suspension']",261 Belmont St,Belmont,MA,02478,(617) 489-1410,7:00 am - 5:00 pm,20
+1026,Gem Auto Service,['Auto Repair & Service'],395 Alewife Brook Pkwy,Somerville,MA,02144,(617) 623-9615,7:30 am - 6:00 pm,19
+1027,Dan's Auto Repair,['Auto Repair & Service'],320 Broadway,Malden,MA,02148,(781) 321-2328,8:00 am - 5:00 pm,22
+1028,Linden Automotive Svc,['Auto Repair & Service'],121 Beach St,Malden,MA,02148,(617) 271-0568,,53
+1029,P & M Service Center,"['Auto Repair & Service', 'Gas Stations', 'Automobile Inspection Stations & Services']",82 Concord Ave,Belmont,MA,02478,(617) 489-3530,7:00 am - 5:00 pm,
+1030,Broadway Automotive,['Auto Repair & Service'],295 Massachusetts Ave,Arlington,MA,02474,(781) 646-0336,9:00 am - 5:00 pm,
+1031,Fischer's Automotive,['Auto Repair & Service'],20 Pond Ln,Arlington,MA,02474,(781) 641-1115,9:00 am - 5:00 pm,29
+1032,Joe’s Automotive Repair,['Auto Repair & Service'],530 Winthrop St,Medford,MA,02155,(781) 396-1108,9:00 am - 5:00 pm,11
+1033,"A.M. Detail, Inc.","['Auto Repair & Service', 'Car Wash']",20 Salem Tpke,Saugus,MA,01906,(781) 231-3343,9:00 am - 5:00 pm,13
+1034,Benz Den,['Auto Repair & Service'],358 Pleasant St,Belmont,MA,02478,(617) 489-6548,8:00 am - 5:00 pm,28
+1035,Galen Street Service,"['Auto Repair & Service', 'Gas Stations']",110 Galen St,Watertown,MA,02472,(617) 923-2500,7:00 am - 6:00 pm,10
+1036,Ken's Auto Service,['Auto Repair & Service'],305 Trapelo Rd,Belmont,MA,02478,(617) 489-5002,7:30 am - 5:30 pm,8
+1037,Petersons Automotive,['Auto Repair & Service'],115 Leonard St,Belmont,MA,02478,(617) 489-5200,9:00 am - 5:00 pm,55
+1038,Power Plus Auto Service,"['Auto Repair & Service', 'Gas Stations', 'Brake Repair']",350 Trapelo Rd,Belmont,MA,02478,(617) 484-7404,8:00 am - 5:00 pm,
+1039,Santoro's Service Ctr,"['Auto Repair & Service', 'Automobile Electric Service', 'Brake Repair']",250 Orchard St,Watertown,MA,02472,(617) 926-8102,8:00 am - 5:00 pm,53
+1040,Lenny's Service Center,"['Auto Repair & Service', 'Gas Stations', 'Automobile Inspection Stations & Services']",768 Pleasant St,Belmont,MA,02478,(617) 484-9660,,
+1041,Bobs Automotive Svc,['Auto Repair & Service'],1000 Pleasant St Ste 6,Belmont,MA,02478,(617) 489-5002,7:00 am - 5:30 pm,9
+1042,Nano S Auto Service,"['Auto Repair & Service', 'Automobile Electric Service', 'Brake Repair']",483 Summer St,Arlington,MA,02474,(781) 316-0284,8:00 am - 7:00 pm,
+1043,Arlington Auto Clinic,['Auto Repair & Service'],42 Lowell St,Arlington,MA,02476,(781) 648-1111,8:00 am - 6:00 pm,40
+1044,Dr Tuneup,['Auto Repair & Service'],Cambridge,Winchester,MA,01890,(781) 729-6390,Open 24 Hours,
+1045,Enzos Nahant Garage,"['Auto Repair & Service', 'Gas Stations', 'Car Wash']",21 Spring Rd,Nahant,MA,01908,(781) 581-0011,7:30 am - 4:00 pm,40
+1046,Belmont Auto Clinic,"['Auto Repair & Service', 'Gas Stations']",180 Belmont St,Watertown,MA,02472,(617) 924-3131,8:00 am - 6:00 pm,
+1047,Richards Motor Cars,"['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'Automobile Parts & Supplies']",672 Broadway,Malden,MA,02148,(781) 322-6600,8:00 am - 5:00 pm,54
+1048,Parkway Mobil Auto Repair,"['Auto Repair & Service', 'Automobile Diagnostic Service', 'Used Car Dealers']",1200 Vfw Pkwy,West Roxbury,MA,02132,(617) 469-3830,7:00 am - 10:00 pm,34
+1049,Midas Auto Service Experts,"['Auto Repair & Service', 'Brake Repair', 'Auto Oil & Lube']",76 Arsenal St,Watertown,MA,02472,(617) 926-1250,7:30 am - 6:00 pm,17
+1050,Alewife Automotive,"['Auto Repair & Service', 'Automotive Tune Up Service', 'Auto Springs & Suspension']",395 Alewife Brook Pkwy,Somerville,MA,02144,(617) 623-9615,7:00 am - 6:00 pm,
+1051,Rick's Auto Collision & Service,"['Auto Repair & Service', 'Automobile Electric Service', 'Brake Repair']",655 N Shore Rd,Revere,MA,02151,(781) 289-0905,8:00 am - 5:00 pm,37
+1052,Master Auto,"['Auto Repair & Service', 'Gas Stations', 'Automobile Diagnostic Service']",1027 Broadway,Revere,MA,02151,(781) 284-9005,8:00 am - 5:00 pm,20
+1053,Gerardo's Foreign Car Service And Sales,"['Auto Repair & Service', 'Auto Springs & Suspension', 'Brake Repair']",640 Hyde Park Ave,Roslindale,MA,02131,(617) 327-8371,8:00 am - 6:00 pm,48
+1054,"McCracken Auto Express, Inc.","['Auto Repair & Service', 'Automobile Inspection Stations & Services', 'Auto Oil & Lube']",145 Spring St,West Roxbury,MA,02132,(617) 327-1646,8:00 am - 5:30 pm,9
+1055,Moreno Auto Collision,"['Auto Repair & Service', 'Automobile Body Repairing & Painting']",4164 Washington St,Roslindale,MA,02131,(617) 333-0319,8:00 am - 6:00 pm,12
+1056,Ken's Car Care,"['Auto Repair & Service', 'Car Wash', 'Automobile Detailing']",128 Ballard St,Saugus,MA,01906,(781) 231-1233,8:00 am - 5:00 pm,46
+1057,Foreign Auto Clinic,"['Auto Repair & Service', 'Wheel Alignment-Frame & Axle Servicing-Automotive', 'Automobile Air Conditioning Equipment-Service & Repair']",2022 Commonwealth Ave,Brighton,MA,02135,(617) 870-5429,Open 24 Hours,15
+1058,Speedy Auto Service,['Auto Repair & Service'],Revere 02151,Revere,MA,02151,(781) 289-7580,,
+1059,Parkway Gas & Service,"['Auto Repair & Service', 'Gas Stations', 'Convenience Stores']",705 Vfw Pkwy,West Roxbury,MA,02132,(617) 325-8989,6:00 am - 9:00 pm,
+1060,Revere Auto Repair,['Auto Repair & Service'],102 Lebanon St,Melrose,MA,02176,(781) 665-7200,8:00 am - 5:30 pm,35
+1061,Dedham Square Service Ctr,['Auto Repair & Service'],355 Washington St,Newton,MA,02458,(781) 251-9449,,
+1062,Teddy's Foreign Motors,"['Auto Repair & Service', 'Automobile Parts & Supplies', 'Automobile Accessories']",295 Trapelo Rd,Belmont,MA,02478,(617) 484-4642,,
+1063,Watertown Towing,"['Auto Repair & Service', 'Towing', 'Automotive Roadside Service']",115 N Beacon St,Watertown,MA,02472,(617) 923-1410,Open 24 Hours,8
+1064,Hub Starters & Alternators Inc,"['Auto Repair & Service', 'Emissions Inspection Stations', 'Automobile Inspection Stations & Services']",172 Broadway,Malden,MA,02148,(781) 322-6151,7:30 am - 5:00 pm,42
+1065,Prestige Motor Sales,"['Auto Repair & Service', 'Used Car Dealers', 'Automobile Parts & Supplies']",600 Broadway,Malden,MA,02148,(978) 854-6331,9:00 am - 7:00 pm,18
+1066,Clay Auto Center,"['Auto Repair & Service', 'Automobile Accessories', 'Automobile Body Repairing & Painting']",361 Belgrade Ave,West Roxbury,MA,02132,(617) 323-3434,8:00 am - 9:00 pm,13
+1067,Lexus of Watertown,"['Auto Repair & Service', 'New Car Dealers', 'Automobile Parts & Supplies']",330 Arsenal St,Watertown,MA,02472,(888) 677-9785,6:00 am - 9:00 pm,60
+1068,Brilliant Tire Corp,"['Auto Repair & Service', 'Tire Dealers', 'Tire Recap, Retread & Repair']",465 Neponset Ave,Dorchester,MA,02122,(617) 282-6050,8:00 am - 5:00 pm,43
+1069,Sullivan Tire & Auto Service,"['Auto Repair & Service', 'Tire Dealers']",21 N Beacon St,Watertown,MA,02472,(617) 926-5070,7:30 am - 5:00 pm,
+1070,Belmont Seat Cover & Auto Top,"['Auto Repair & Service', 'Automobile Seat Covers, Tops & Upholstery', 'Automobile Customizing']",347 Pleasant St,Belmont,MA,02478,(617) 484-6663,8:00 am - 5:00 pm,31
+1071,Arlington Tire & Auto Center,"['Auto Repair & Service', 'Tire Dealers']",1100 Massachusetts Ave,Arlington,MA,02476,(781) 646-7500,8:00 am - 5:00 pm,43
+1072,Mirak Chevrolet,"['Auto Repair & Service', 'New Car Dealers', 'Automobile Parts & Supplies']",1125 Massachusetts Ave,Arlington,MA,02476,(781) 519-9902,9:00 am - 8:00 pm,17
+1073,Pride Hyundai,"['Auto Repair & Service', 'Automobile Parts & Supplies', 'New Car Dealers']",777 Lynnway,Lynn,MA,01905,(781) 592-3800,8:30 am - 8:00 pm,41
+1074,Pleasant Car Care & Tire,"['Auto Repair & Service', 'Tire Dealers', 'Automobile Inspection Stations & Services']",106 Pleasant St,Watertown,MA,02472,(617) 393-3439,7:30 am - 6:00 pm,18
+1075,Wheel Works,"['Auto Repair & Service', 'Tire Dealers', 'Automobile Parts & Supplies']",480 Trapelo Rd,Belmont,MA,02478,(617) 489-3577,10:00 am - 8:00 pm,43
+1076,Mirak Hyundai,"['Auto Repair & Service', 'New Car Dealers', 'Used Car Dealers']",1165 Massachusetts Ave,Arlington,MA,02476,(781) 643-8000,9:00 am - 8:00 pm,88
+1077,Cesar Cars Auto Sales Corporation,"['Auto Repair & Service', 'Used Car Dealers', 'New Car Dealers']",303 Lebanon St,Melrose,MA,02176,(781) 620-0937,9:00 am - 6:00 pm,10
+1078,Summer Street Autocare,"['Auto Repair & Service', 'Automotive Alternators & Generators', 'Automobile Parts & Supplies']",36 Dudley St,Arlington,MA,02476,(781) 648-9751,7:30 am - 5:30 pm,6
+1079,DATTCO Sales & Service,"['Auto Repair & Service', 'Truck Service & Repair', 'Automobile Air Conditioning Equipment']",121 Ballard St,Saugus,MA,01906,(781) 941-2500,,
+1080,Howard Leasing Corp,"['Auto Repair & Service', 'Used Car Dealers', 'Automobile Body Repairing & Painting']",361 Belgrade Ave,West Roxbury,MA,02132,(617) 323-3441,,37
+1081,Nene Autobody and Repair,"['Automobile Body Shop Equipment & Supplies', 'Automobile Body Repairing & Painting', 'Automobile Repairing & Service-Equipment & Supplies']",4 Milton Ave,Dorchester Center,MA,02124,(617) 533-7694,,
+1082,City Line Auto Brokers,"['Used Car Dealers', 'Automobile Body Repairing & Painting', 'Automobile & Truck Brokers']",497 Broadway,Malden,MA,02148,(781) 322-2277,9:00 am - 7:00 pm,23
+1083,Cosmos Automobile Sales,"['Auto Repair & Service', 'New Car Dealers']",200 New England Ave,Dorchester Center,MA,02124,(617) 265-9181,7:30 am - 6:00 pm,7
+1084,Cars R US,"['Auto Repair & Service', 'Used Car Dealers']",1154 William T Morrissey Blvd,Dorchester,MA,02122,(617) 282-1100,,
+1085,Sena Motors Inc,"['Auto Repair & Service', 'Used Car Dealers', 'Automobile Parts & Supplies']",120 Squire Rd,Revere,MA,02151,(781) 629-1463,9:00 am - 7:00 pm,6
+1086,Parkers Auto Service,"['Auto Repair & Service', 'Tire Dealers', 'Auto Oil & Lube']",610 Gallivan Blvd,Dorchester Center,MA,02124,(617) 825-5666,8:00 am - 5:00 pm,36
+1087,Wonderland Auto,"['Auto Repair & Service', 'Used Car Dealers']",1176 N Shore Rd,Revere,MA,02151,(781) 286-3004,9:00 am - 6:00 pm,25
+1088,Chelsea Clutch,"['Auto Repair & Service', 'Clutches', 'Automobile Parts & Supplies']",386 Squire Rd,Revere,MA,02151,(781) 289-4880,,51
+1089,Yasa Auto Service,"['Auto Repair & Service', 'Tire Dealers']",581 American Legion Hwy,Roslindale,MA,02131,(617) 942-7017,,
+1090,Doc Kagan's Auto Sales & Service,"['Auto Repair & Service', 'New Car Dealers']",907 N Shore Rd,Revere,MA,02151,(781) 284-9564,8:00 am - 6:00 pm,
+1091,Taly Auto Repair & Towing,"['Auto Repair & Service', 'Automobile Parts & Supplies-Used & Rebuilt-Wholesale & Manufacturers', 'Automobile Parts & Supplies']",115 Belgrade Ave,Roslindale,MA,02131,(617) 323-7200,7:00 am - 7:00 pm,18
+1092,Pro Tech Automotive & Tire Center,"['Auto Repair & Service', 'Tire Dealers']",206 Salem St,Malden,MA,02148,(781) 322-6648,9:00 am - 5:00 pm,19
+1093,After Hours Truck-Trailer,"['Auto Repair & Service', 'Truck Service & Repair']",31 Smith Pl,Cambridge,MA,02138,(617) 939-9447,,4
+1094,Malden Auto Body Repair,"['Auto Repair & Service', 'Automobile Body Shop Equipment & Supplies', 'Automobile Repairing & Service-Equipment & Supplies']",67 Maplewood St,Malden,MA,02148,(781) 605-3217,,
+1095,John Roche Co,['Automobile Body Repairing & Painting'],740 Beacon St,Newton Center,MA,02459,(617) 969-3910,8:00 am - 6:00 pm,97
+1096,Coach Works,"['Auto Repair & Service', 'Brake Repair']",1000 Pleasant St Ste 9,Belmont,MA,02478,(617) 489-4574,8:00 am - 5:00 pm,7
+1097,Pro Teks,"['Auto Repair & Service', 'Engine Rebuilding & Exchange', 'Auto Engine Rebuilding']",206 Salem St,Malden,MA,02148,(781) 322-6648,9:00 am - 5:00 pm,28
+1098,Patty's Auto,"['Auto Repair & Service', 'Automobile Parts & Supplies-Used & Rebuilt-Wholesale & Manufacturers', 'New Car Dealers']",2 Salem Tpke,Saugus,MA,01906,(781) 231-9888,,68
+1099,Nick's Auto Service,"['Auto Repair & Service', 'Automobile Consultants', 'Brake Repair']",30 Park Avenue Ext,Arlington,MA,02474,(781) 648-4598,,
+1100,Meineke Car Care Center,"['Auto Repair & Service', 'Automobile Air Conditioning Equipment-Service & Repair', 'Auto Oil & Lube']",287 Main St,Wilmington,MA,01887,(978) 267-3163,7:30 am - 6:00 pm,18
+1101,Meineke Car Care Center,"['Auto Repair & Service', 'Wheels-Aligning & Balancing', 'Automobile Air Conditioning Equipment-Service & Repair']",241 Newbury St,Peabody,MA,01960,(978) 717-3530,7:00 am - 6:00 pm,37
+1102,Firestone Complete Auto Care,"['Auto Repair & Service', 'Automobile Inspection Stations & Services', 'Auto Oil & Lube']",496 Main St,Wilmington,MA,01887,(978) 203-4276,,94
+1103,Glass America,"['Automobile Body Repairing & Painting', 'Glass-Auto, Plate, Window, Etc', 'Windshield Repair']",5 Birch St Unit 5,Wilmington,MA,01887,(978) 267-1942,8:00 am - 5:00 pm,21
+1104,Maaco Collision Repair & Auto Painting,"['Auto Repair & Service', 'Dent Removal', 'Truck Painting & Lettering']",58 Pulaski St,Peabody,MA,01960,(978) 548-4312,8:00 am - 5:30 pm,
+1105,Firestone Complete Auto Care,"['Auto Repair & Service', 'Wheel Alignment-Frame & Axle Servicing-Automotive', 'Mufflers & Exhaust Systems']",535 Granite St,Braintree,MA,02184,(781) 602-1178,,94
+1106,Meineke Car Care Center,"['Auto Repair & Service', 'Auto Oil & Lube', 'Automobile Parts & Supplies']",550 Washington St,Stoughton,MA,02072,(781) 437-4416,7:30 am - 6:00 pm,25
+1107,Firestone Complete Auto Care,"['Auto Repair & Service', 'Mufflers & Exhaust Systems', 'Automobile Diagnostic Service']",1362 Worcester St,Natick,MA,01760,(508) 233-2923,,94
+1108,Maaco Collision Repair & Auto Painting,"['Auto Repair & Service', 'Dent Removal', 'Automobile Detailing']",874 Edgell Rd,Framingham,MA,01701,(508) 969-1759,8:00 am - 5:00 pm,42
+1109,Maaco Collision Repair & Auto Painting,"['Auto Repair & Service', 'Automobile Detailing', 'Dent Removal']",84 Westgate Dr,Brockton,MA,02301,(774) 257-6584,8:00 am - 5:00 pm,34
+1110,Firestone Complete Auto Care,"['Auto Repair & Service', 'Tire Dealers', 'Automobile Diagnostic Service']",22 Whiting St,Hingham,MA,02043,(781) 206-3534,,94
+1111,Firestone Complete Auto Care,"['Auto Repair & Service', 'Mufflers & Exhaust Systems', 'Wheel Alignment-Frame & Axle Servicing-Automotive']",157 Main St,North Reading,MA,01864,(978) 276-4619,,94
+1112,Meineke Car Care Center,"['Auto Repair & Service', 'Wheels-Aligning & Balancing', 'Auto Oil & Lube']",609 Oak St,Brockton,MA,02301,(508) 436-4486,7:30 am - 6:00 pm,11
+1113,McGrath's Towing & Recovery Inc.,"['Auto Repair & Service', 'Trucking', 'Shipping Services']",1136 Turnpike St,Stoughton,MA,02072,(781) 356-3320,Open 24 Hours,17
+1114,Meineke Car Care Center,"['Auto Repair & Service', 'Automobile Electric Service', 'Tire Dealers']",119 Rantoul St,Beverly,MA,01915,(978) 473-7343,8:00 am - 5:30 pm,33
+1115,Glass America,"['Automobile Body Repairing & Painting', 'Windshield Repair', 'Windows-Repair, Replacement & Installation']",737 Boston Rd Ste A,Billerica,MA,01821,(781) 218-7102,8:00 am - 5:00 pm,21
+1116,B & B Auto Clinic Inc.,"['Auto Repair & Service', 'Automobile Body Repairing & Painting', 'Wheels-Aligning & Balancing']",17 Library St,Georgetown,MA,01833,(978) 234-4172,9:00 am - 5:00 pm,57
+1117,Maaco Collision Repair & Auto Painting,"['Auto Repair & Service', 'Truck Painting & Lettering', 'Automobile Detailing']",154 Middlesex St,North Chelmsford,MA,01863,(978) 347-0628,8:00 am - 5:00 pm,35
+1118,Meineke Car Care Center,"['Auto Repair & Service', 'Brake Repair', 'Mufflers & Exhaust Systems']",663 Main St,Tewksbury,MA,01876,(978) 483-0316,8:00 am - 5:30 pm,31
+1119,Meineke Car Care Center,"['Auto Repair & Service', 'Automobile Air Conditioning Equipment-Service & Repair', 'Automobile Parts & Supplies']",391 W Center St,West Bridgewater,MA,02379,(508) 232-4705,7:30 am - 6:00 pm,16
+1120,Firestone Complete Auto Care,"['Auto Repair & Service', 'Mufflers & Exhaust Systems', 'Brake Repair']",60 Essex St,Lawrence,MA,01840,(978) 208-2457,,94
+1121,Maaco Collision Repair & Auto Painting,"['Auto Repair & Service', 'Truck Painting & Lettering', 'Automobile Detailing']",660 S Union St,Lawrence,MA,01843,(978) 291-5598,8:00 am - 6:00 pm,6
+1122,Meineke Car Care Center,"['Auto Repair & Service', 'Automobile Parts & Supplies', 'Automobile Electric Service']",948 Gorham St,Lowell,MA,01852,(978) 483-0312,7:30 am - 6:00 pm,36
+1123,Meineke Car Care Center,"['Auto Repair & Service', 'Mufflers & Exhaust Systems', 'Automobile Electric Service']",168 Eastern Ave,Gloucester,MA,01930,(978) 515-0844,7:30 am - 6:00 pm,36
+1124,Merchants Automotive Group,"['Auto Repair & Service', 'Used Car Dealers', 'Auto Oil & Lube']",,,,,(603) 836-4610,8:00 am - 8:00 pm,58
+1125,Meineke Car Care Center,"['Auto Repair & Service', 'Auto Oil & Lube', 'Automobile Parts & Supplies']",375 Washington St,Attleboro,MA,02703,(508) 639-0857,7:30 am - 6:00 pm,35
+1126,Maaco Collision Repair & Auto Painting,"['Auto Repair & Service', 'Truck Painting & Lettering', 'Dent Removal']",,,,,(774) 634-0510,7:30 am - 4:30 pm,16
+1127,Maaco Collision Repair & Auto Painting,"['Auto Repair & Service', 'Automobile Detailing', 'Truck Painting & Lettering']",81 West St,Attleboro,MA,02703,(508) 271-7257,8:00 am - 5:00 pm,33
+1128,Meineke Car Care Center,"['Auto Repair & Service', 'Wheels-Aligning & Balancing', 'Automobile Electric Service']",1555 New State Hwy,Raynham,MA,02767,(508) 738-2290,7:30 am - 6:00 pm,23
+1129,Meineke Car Care Center,"['Auto Repair & Service', 'Automobile Air Conditioning Equipment-Service & Repair', 'Wheels-Aligning & Balancing']",,,,,(508) 469-9940,7:30 am - 6:00 pm,4
+1130,Glass America,"['Automobile Body Repairing & Painting', 'Windshield Repair', 'Plate & Window Glass Repair & Replacement']",147 Revolutionary Dr,East Taunton,MA,02718,(508) 318-8063,8:00 am - 5:00 pm,21
+1131,Sam's Pull-A-Part,"['Auto Repair & Service', 'Automobile Parts & Supplies', 'Automobile Parts & Supplies-Used & Rebuilt-Wholesale & Manufacturers']",210 Granite St,Worcester,MA,01607,(508) 202-0330,8:00 am - 5:00 pm,
+1132,General  Spring,"['Auto Repair & Service', 'Automobile Parts & Supplies', 'Truck Equipment & Parts']",,,,,(888) 394-3518,,
